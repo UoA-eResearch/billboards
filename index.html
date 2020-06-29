@@ -69,7 +69,12 @@
             map.panTo(map.unproject(px),{animate: true});
             var panoElem = $(".pano", popup.popup._contentNode)[0];
             var sv = new google.maps.StreetViewService();
-            sv.getPanorama({ location: popup.popup._latlng, radius: 200, source: google.maps.StreetViewSource.OUTDOOR, preference: google.maps.StreetViewPreference.NEAREST }, function (data, status) {
+            sv.getPanorama({
+                location: popup.popup._latlng,
+                radius: 200,
+                source: google.maps.StreetViewSource.OUTDOOR,
+                preference: google.maps.StreetViewPreference.NEAREST
+            }, function (data, status) {
                 console.log(data, status)
                 if (status === 'OK') {
                     var pano = new google.maps.StreetViewPanorama(panoElem, {
@@ -225,7 +230,8 @@
 
         legend.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'info legend');
-            div.innerHTML += '<i style="background:hotpink;border-color:hotpink"></i>Billboards: <span id="billboardC"></span><br><i style="background:blue;border-color:blue"></i>Schools: <span id="schoolC"></span>';
+            div.innerHTML += `<i style="background:hotpink;border-color:hotpink"></i>Billboards: <span id="billboardC"></span><br>
+                <i style="background:blue;border-color:blue"></i>Schools: <span id="schoolC"></span>`;
             return div;
         };
 
