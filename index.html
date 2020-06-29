@@ -31,8 +31,6 @@
         }).setView([-36.8862, 174.7651], 12);
         var positron = L.tileLayer.provider('CartoDB.Positron').addTo(map);
 
-        var timelinePoints = [];
-
         var school = L.layerGroup().addTo(map);
 
         var billboards = L.layerGroup().addTo(map);
@@ -86,14 +84,6 @@
                     $(panoElem).text("No streetview for this location");
                 }
             });
-        }
-
-        function capitilize(string) {
-            if (string) {
-                return string.replace(/_/g, " ").replace("catholc", "catholic").replace(/\w\S*/g, function (txt) {
-                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-                });
-            }
         }
 
         function updateStats() {
