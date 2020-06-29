@@ -9,10 +9,9 @@ def strip_html(s):
 
 def try_cast_float(s):
     try:
-        return float(string)
+        return float(s)
     except:
-        return None
-
+        return s
 
 class Media5Spider(scrapy.Spider):
     name = 'media5'
