@@ -1,0 +1,254 @@
+<html>
+
+<head>
+    <title>NZ billboards and schools</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.css"
+        integrity="sha256-iYUgmrapfDGvBrePJPrMWQZDcObdAcStKBpjP3Az+3s=" crossorigin="anonymous" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"
+        integrity="sha256-CNm+7c26DTTCGRQkM9vp7aP85kHFMqs9MhPEuytF+fQ=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-overpass-layer@2.8.3/src/OverPassLayer.css" />
+    <script src="https://unpkg.com/leaflet-overpass-layer@2.8.3/dist/OverPassLayer.bundle.js"></script>
+    <script src="https://unpkg.com/osmtogeojson@2.2.12/osmtogeojson.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js"></script>
+    <script src="https://unpkg.com/leaflet-spin@1.1.0/leaflet.spin.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet-geosearch@latest/dist/bundle.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-geosearch@latest/assets/css/leaflet.css">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhSHcGYySVS9nLEZ1mF73Gv_9z41rNOXs"></script>
+    <script src="https://unpkg.com/leaflet-svg-shape-markers@1.0.0/dist/leaflet-svg-shape-markers.min.js"></script>
+    <script src="https://unpkg.com/leaflet-providers@1.3.0/leaflet-providers.js"></script>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1 id="title">NZ billboards and schools</h1>
+    <div id="map" style="height:100%"></div>
+    <script>
+        var map = L.map('map', {
+            worldCopyJump: true,
+            zoomControl: false,
+        }).setView([-36.8862, 174.7651], 12);
+        var positron = L.tileLayer.provider('CartoDB.Positron').addTo(map);
+
+        var timelinePoints = [];
+
+        var school = L.layerGroup().addTo(map);
+
+        var billboards = L.layerGroup().addTo(map);
+
+        map.createPane('billboards');
+        map.getPane('billboards').style.zIndex = 625;
+
+        var schoolPoly = L.layerGroup();
+        var schoolPoint = L.layerGroup().addTo(school);
+
+        var addedIds = {};
+
+        $.getJSON("data/media5.json", function (data) {
+            console.log(data);
+            for (var d of data) {
+                if (d.latitude) {
+                    var marker = new L.circleMarker([d.latitude, d.longitude], { radius: 10, color: "hotpink", pane: "billboards" }).addTo(billboards).bindTooltip(d.title);
+                    var popupString = `<b>${d.title}</b><br>
+                        ${d.description}<br>
+                        <a href="${d.url}"><img src="${d.image}" style="max-width:100%;max-height: 300px"/></a>
+                        <div class='pano'></div>`;
+                    marker.bindPopup(popupString, {
+                        maxWidth: "auto"
+                    }).on('popupopen', popupHandler);
+                }
+            }
+            updateStats();
+        });
+
+        function popupHandler(popup) {
+            console.log(popup);
+            var px = map.project(popup.target._popup._latlng);
+            console.log(px)
+            px.y -= 400;
+            map.panTo(map.unproject(px),{animate: true});
+            var panoElem = $(".pano", popup.popup._contentNode)[0];
+            var sv = new google.maps.StreetViewService();
+            sv.getPanorama({ location: popup.popup._latlng, radius: 200, source: google.maps.StreetViewSource.OUTDOOR, preference: google.maps.StreetViewPreference.NEAREST }, function (data, status) {
+                console.log(data, status)
+                if (status === 'OK') {
+                    var pano = new google.maps.StreetViewPanorama(panoElem, {
+                        pano: data.location.pano,
+                        pov: {
+                            heading: 0,
+                            pitch: 0
+                        },
+                        zoom: 1,
+                        imageDateControl: true
+                    });
+                } else {
+                    $(panoElem).text("No streetview for this location");
+                }
+            });
+        }
+
+        function capitilize(string) {
+            if (string) {
+                return string.replace(/_/g, " ").replace("catholc", "catholic").replace(/\w\S*/g, function (txt) {
+                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                });
+            }
+        }
+
+        function updateStats() {
+            var count = 0;
+            schoolPoint.eachLayer(function (layer) {
+                if (map.getBounds().contains(layer.getLatLng())) {
+                    count++;
+                }
+            });
+            $("#schoolC").text(count);
+
+            count = 0;
+            billboards.eachLayer(function (layer) {
+                if (map.getBounds().contains(layer.getLatLng())) {
+                    count++;
+                }
+            });
+            $("#billboardC").text(count);
+        }
+
+        map.spin(true);
+
+        var schools = new L.OverPassLayer({
+            endPoint: "https://overpass.kumi.systems/api/",
+            query: '(node["amenity"="school"]({{bbox}});way["amenity"="school"]({{bbox}});relation["amenity"="school"]({{bbox}}););out body;>;out skel qt;',
+            minZoom: 10,
+            timeout: 3 * 60 * 1000,
+            onSuccess: function (data) {
+                console.log(data);
+                map.spin(false);
+                var geoJSON = osmtogeojson(data);
+                console.log(geoJSON);
+                function onEachFeature(feature, layer) {
+                    var tags = feature.properties.tags;
+                    var outString = "<b>" + tags.name + "</b><div class='pano'></div>";
+                    layer.bindPopup(outString, {
+                        maxWidth: "auto"
+                    }).on('popupopen', popupHandler);
+                    layer.bindTooltip(tags.name);
+                    var latlng;
+                    if (feature.geometry.type === "Polygon" || feature.geometry.type == "MultiPolygon") {
+                        var center = L.latLngBounds(feature.geometry.coordinates[0]).getCenter();
+                        latlng = [center.lng, center.lat];
+                    } else if (feature.geometry.type == "Point") {
+                        latlng = L.GeoJSON.coordsToLatLng(feature.geometry.coordinates);
+                    } else if (feature.geometry.type == "LineString") {
+                        var center = L.latLngBounds(feature.geometry.coordinates).getCenter();
+                        latlng = [center.lng, center.lat];
+                    } else {
+                        console.error("Don't know how to handle", feature);
+                        return;
+                    }
+                    if (tags.amenity == "school") {
+                        var color = "blue";
+                        var marker = L.shapeMarker(latlng, { shape: "circle", radius: 10, color: color }).addTo(schoolPoint);
+                        layer.addTo(schoolPoly);
+                        marker.parentLayer = schoolPoint;
+                        layer.parentLayer = schoolPoly;
+                    }
+                    marker.id = feature.id;
+                    marker.bindPopup(outString, {
+                        maxWidth: "auto"
+                    }).on('popupopen', popupHandler);
+                    marker.bindTooltip(tags.name);
+                }
+
+                L.geoJSON(geoJSON, {
+                    onEachFeature: onEachFeature,
+                    style: function (feature) {
+                        return {
+                            color: "blue"
+                        }
+                    },
+                    filter: function (feature, layer) {
+                        var id = feature.id;
+                        if (addedIds[id]) {
+                            return false;
+                        } else {
+                            addedIds[id] = true;
+                            return true;
+                        }
+                    },
+                    pointToLayer: function (feature, latlng) {
+                        return L.shapeMarker(latlng, { shape: "circle", radius: 20 });
+                    }
+                })
+                updateStats();
+            }
+        });
+        map.addLayer(schools);
+
+        var baseMaps = {
+            "OSM": L.tileLayer.provider("OpenStreetMap.Mapnik"),
+            "OSM Grayscale": L.tileLayer.provider("OpenStreetMap.BlackAndWhite"),
+            "CartoDB Positron": positron,
+            "CartoDB Dark Matter": L.tileLayer.provider("CartoDB.DarkMatter"),
+            "ESRI WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
+            "Google Hybrid": L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
+                maxZoom: 20,
+                subdomains: ['mt0', 'mt1', 'mt2', 'mt3']
+            }),
+            "Wikimedia": L.tileLayer.provider("Wikimedia")
+        }
+
+        var overlayMaps = {
+            "Schools": school,
+            "Billboards": billboards
+        }
+
+        L.control.layers(baseMaps, overlayMaps, { position: "topleft" }).addTo(map);
+
+        $(".leaflet-control-layers-base").prepend("<b>Basemaps</b>");
+        $(".leaflet-control-layers-overlays").prepend("<b>Overlays</b>");
+
+        L.control.zoom({
+            position: 'topleft'
+        }).addTo(map);
+
+        var geoSearch = new GeoSearch.GeoSearchControl({
+            provider: new GeoSearch.OpenStreetMapProvider(),
+            style: 'button',
+            autoComplete: true,
+            autoCompleteDelay: 250,
+            autoClose: true,
+            position: "topleft"
+        }).addTo(map);
+
+        map.on('zoomend', function () {
+            console.log("zoomed to " + map.getZoom());
+            if (map.getZoom() < 16) {
+                school.removeLayer(schoolPoly);
+                school.addLayer(schoolPoint);
+                console.log("switching to markers");
+            } else {
+                school.removeLayer(schoolPoint);
+                school.addLayer(schoolPoly);
+                console.log("switching to polys");
+            }
+        });
+
+        map.on("moveend", function () {
+            console.log("moveend");
+            updateStats();
+        });
+
+        var legend = L.control({ position: 'topleft' });
+
+        legend.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'info legend');
+            div.innerHTML += '<i style="background:hotpink;border-color:hotpink"></i>Billboards: <span id="billboardC"></span><br><i style="background:blue;border-color:blue"></i>Schools: <span id="schoolC"></span>';
+            return div;
+        };
+
+        legend.addTo(map);
+    </script>
+</body>
+
+</html>
