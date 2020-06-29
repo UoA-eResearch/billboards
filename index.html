@@ -43,7 +43,7 @@
 
         var addedIds = {};
 
-        $.getJSON("data/media5.json", function (data) {
+        function handleJSON(data) {
             console.log(data);
             for (var d of data) {
                 if (d.latitude) {
@@ -58,7 +58,10 @@
                 }
             }
             updateStats();
-        });
+        }
+
+        $.getJSON("data/media5.json", handleJSON);
+        $.getJSON("data/gomedia.json", handleJSON);
 
         function popupHandler(popup) {
             console.log(popup);
