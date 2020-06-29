@@ -6,8 +6,6 @@
         integrity="sha256-iYUgmrapfDGvBrePJPrMWQZDcObdAcStKBpjP3Az+3s=" crossorigin="anonymous" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/leaflet.js"
         integrity="sha256-CNm+7c26DTTCGRQkM9vp7aP85kHFMqs9MhPEuytF+fQ=" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet-overpass-layer@2.8.3/src/OverPassLayer.css" />
-    <script src="https://unpkg.com/leaflet-overpass-layer@2.8.3/dist/OverPassLayer.bundle.js"></script>
     <script src="https://unpkg.com/osmtogeojson@2.2.12/osmtogeojson.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/spin.js/2.3.2/spin.min.js"></script>
     <script src="https://unpkg.com/leaflet-spin@1.1.0/leaflet.spin.min.js"></script>
@@ -109,74 +107,65 @@
 
         map.spin(true);
 
-        var schools = new L.OverPassLayer({
-            endPoint: "https://overpass.kumi.systems/api/",
-            query: '(node["amenity"="school"]({{bbox}});way["amenity"="school"]({{bbox}});relation["amenity"="school"]({{bbox}}););out body;>;out skel qt;',
-            minZoom: 10,
-            timeout: 3 * 60 * 1000,
-            onSuccess: function (data) {
-                console.log(data);
-                map.spin(false);
-                var geoJSON = osmtogeojson(data);
-                console.log(geoJSON);
-                function onEachFeature(feature, layer) {
-                    var tags = feature.properties.tags;
-                    var outString = "<b>" + tags.name + "</b><div class='pano'></div>";
-                    layer.bindPopup(outString, {
-                        maxWidth: "auto"
-                    }).on('popupopen', popupHandler);
-                    layer.bindTooltip(tags.name);
-                    var latlng;
-                    if (feature.geometry.type === "Polygon" || feature.geometry.type == "MultiPolygon") {
-                        var center = L.latLngBounds(feature.geometry.coordinates[0]).getCenter();
-                        latlng = [center.lng, center.lat];
-                    } else if (feature.geometry.type == "Point") {
-                        latlng = L.GeoJSON.coordsToLatLng(feature.geometry.coordinates);
-                    } else if (feature.geometry.type == "LineString") {
-                        var center = L.latLngBounds(feature.geometry.coordinates).getCenter();
-                        latlng = [center.lng, center.lat];
-                    } else {
-                        console.error("Don't know how to handle", feature);
-                        return;
-                    }
-                    if (tags.amenity == "school") {
-                        var color = "blue";
-                        var marker = L.shapeMarker(latlng, { shape: "circle", radius: 10, color: color }).addTo(schoolPoint);
-                        layer.addTo(schoolPoly);
-                        marker.parentLayer = schoolPoint;
-                        layer.parentLayer = schoolPoly;
-                    }
-                    marker.id = feature.id;
-                    marker.bindPopup(outString, {
-                        maxWidth: "auto"
-                    }).on('popupopen', popupHandler);
-                    marker.bindTooltip(tags.name);
+        $.getJSON("schools.geojson", function(geoJSON) {
+            map.spin(false);
+            console.log(geoJSON);
+            function onEachFeature(feature, layer) {
+                var tags = feature.properties;
+                var outString = "<b>" + tags.name + "</b><div class='pano'></div>";
+                layer.bindPopup(outString, {
+                    maxWidth: "auto"
+                }).on('popupopen', popupHandler);
+                layer.bindTooltip(tags.name);
+                var latlng;
+                if (feature.geometry.type === "Polygon" || feature.geometry.type == "MultiPolygon") {
+                    var center = L.latLngBounds(feature.geometry.coordinates[0]).getCenter();
+                    latlng = [center.lng, center.lat];
+                } else if (feature.geometry.type == "Point") {
+                    latlng = L.GeoJSON.coordsToLatLng(feature.geometry.coordinates);
+                } else if (feature.geometry.type == "LineString") {
+                    var center = L.latLngBounds(feature.geometry.coordinates).getCenter();
+                    latlng = [center.lng, center.lat];
+                } else {
+                    console.error("Don't know how to handle", feature);
+                    return;
                 }
-
-                L.geoJSON(geoJSON, {
-                    onEachFeature: onEachFeature,
-                    style: function (feature) {
-                        return {
-                            color: "blue"
-                        }
-                    },
-                    filter: function (feature, layer) {
-                        var id = feature.id;
-                        if (addedIds[id]) {
-                            return false;
-                        } else {
-                            addedIds[id] = true;
-                            return true;
-                        }
-                    },
-                    pointToLayer: function (feature, latlng) {
-                        return L.shapeMarker(latlng, { shape: "circle", radius: 20 });
-                    }
-                })
-                updateStats();
+                if (tags.amenity == "school") {
+                    var color = "blue";
+                    var marker = L.shapeMarker(latlng, { shape: "circle", radius: 10, color: color }).addTo(schoolPoint);
+                    layer.addTo(schoolPoly);
+                    marker.parentLayer = schoolPoint;
+                    layer.parentLayer = schoolPoly;
+                }
+                marker.id = feature.id;
+                marker.bindPopup(outString, {
+                    maxWidth: "auto"
+                }).on('popupopen', popupHandler);
+                marker.bindTooltip(tags.name);
             }
+
+            L.geoJSON(geoJSON, {
+                onEachFeature: onEachFeature,
+                style: function (feature) {
+                    return {
+                        color: "blue"
+                    }
+                },
+                filter: function (feature, layer) {
+                    var id = feature.id;
+                    if (addedIds[id]) {
+                        return false;
+                    } else {
+                        addedIds[id] = true;
+                        return true;
+                    }
+                },
+                pointToLayer: function (feature, latlng) {
+                    return L.shapeMarker(latlng, { shape: "circle", radius: 20 });
+                }
+            })
+            updateStats();
         });
-        map.addLayer(schools);
 
         var baseMaps = {
             "OSM": L.tileLayer.provider("OpenStreetMap.Mapnik"),
