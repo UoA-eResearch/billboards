@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Billboards.co.nz</name>
+    <description>Ad-Vantage Media Billboards</description>
+    <Style id="icon-22-labelson">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-22-labelson-nodesc">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Site List</name>
+      <Placemark>
+        <name>1225 </name>
+        <description><![CDATA[<img src="https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4ir398728ig133h5a3erflo7rk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALr0gn5BH5nmMIK8hZJ4niUSDWcpMoYypFmOov3nZizGfwCUxPKSFFr-rvEk1pRH0elfDuDvtFJRmjVvBHKNI7cMPtQgInLQhmZ_T4pzODl76n2gluR-787zjzqsIeUzfKFpB-hw06dD21hZIxsb7vSY-wr1Z4w9dkLpEWimmXZeXWDO-j0b3AUI8hzQLynj1KUsf5BevZBaApgcALLsl3sFNUAgHKarxlBmYWtmf5zent8V4nxjU4Bz2J1BoQlPEITZ-4QjqCgoq7MIzSvHT8y2cAIL6A?session=0&fife" height="200" width="auto" /><br><br>Site 1225 Penrose   - Click here to view Site Card https://billboards.co.nz/1225]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/4ir398728ig133h5a3erflo7rk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALr0gn5BH5nmMIK8hZJ4niUSDWcpMoYypFmOov3nZizGfwCUxPKSFFr-rvEk1pRH0elfDuDvtFJRmjVvBHKNI7cMPtQgInLQhmZ_T4pzODl76n2gluR-787zjzqsIeUzfKFpB-hw06dD21hZIxsb7vSY-wr1Z4w9dkLpEWimmXZeXWDO-j0b3AUI8hzQLynj1KUsf5BevZBaApgcALLsl3sFNUAgHKarxlBmYWtmf5zent8V4nxjU4Bz2J1BoQlPEITZ-4QjqCgoq7MIzSvHT8y2cAIL6A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8155746,-36.9060012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1226 Southern MW Penrose </name>
+        <description><![CDATA[<img src="https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/mnhm7rm2vqvonrqftnbb3sl5dc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrpzm_4V6Zm2SfCdB5McdXEXkPQEO2xOBc8LFqINDKRWF3KECHJpRQgezjqjnqpzLga57sy1FrwAMKCUc_5kCLv-Ojno0q-gOR8_kW4w8Zrr04EEBoohW1suwvthfFIKLD6yOpfTS4iBlPqVd_Ooxy4PXXoVTTPV0Z2_fpdvf9QFIY1XLdD73mDJ1_UY39awiiO0lv61Vtt-qBZ9nZLcckhOunf1fymT18NFBGfgy7oJzLFNUQQNNZ426HgAgKEuXojUCi_VaFNzmcR_D_NUnseuewFuA?session=0&fife" height="200" width="auto" /><br><br>Site 1226 To view Site Card click here<br>https://billboards.co.nz/1226]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/mnhm7rm2vqvonrqftnbb3sl5dc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrpzm_4V6Zm2SfCdB5McdXEXkPQEO2xOBc8LFqINDKRWF3KECHJpRQgezjqjnqpzLga57sy1FrwAMKCUc_5kCLv-Ojno0q-gOR8_kW4w8Zrr04EEBoohW1suwvthfFIKLD6yOpfTS4iBlPqVd_Ooxy4PXXoVTTPV0Z2_fpdvf9QFIY1XLdD73mDJ1_UY39awiiO0lv61Vtt-qBZ9nZLcckhOunf1fymT18NFBGfgy7oJzLFNUQQNNZ426HgAgKEuXojUCi_VaFNzmcR_D_NUnseuewFuA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8192454,-36.9071193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6314 </name>
+        <description><![CDATA[<img src="https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dve29g53lfv5bd4l448372lvts/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALogj00TTEdlA_ewftcLWNRh24WDG4xJqijTjV_0ysr3fn0wEkgvT2ynXofRo8L3yLQgZWBbjLrRCZoAyrQdHI5cF5FLlWt8mUSfGE0L6S4DE_bZxWoPBxeVnPjoYNN6wvMSgCYQCD7Xs1gt2jld-Qt_G3FCnaGmKD9ZYgib3neiWjhIc-3FqBzLQMr7DTkI0VnPl6pUtGlsa-bllyFIp-21JU7m6QALFaGpRNfrLdem7azQurnsr_A6Y3OUrc0xRrk7Y1WDkvHj7kPNWoOwbMpFNuHxUQ?session=0&fife" height="200" width="auto" /><br><br>Site 6314<br>https://billboards.co.nz/6314]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dve29g53lfv5bd4l448372lvts/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALogj00TTEdlA_ewftcLWNRh24WDG4xJqijTjV_0ysr3fn0wEkgvT2ynXofRo8L3yLQgZWBbjLrRCZoAyrQdHI5cF5FLlWt8mUSfGE0L6S4DE_bZxWoPBxeVnPjoYNN6wvMSgCYQCD7Xs1gt2jld-Qt_G3FCnaGmKD9ZYgib3neiWjhIc-3FqBzLQMr7DTkI0VnPl6pUtGlsa-bllyFIp-21JU7m6QALFaGpRNfrLdem7azQurnsr_A6Y3OUrc0xRrk7Y1WDkvHj7kPNWoOwbMpFNuHxUQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7858124,-36.8820753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6315 </name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kb266i381dqcek8gh72chfsbm8/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpDUN_5jJIZkoDOwZOMRVqcDizezHoVSzG88CbW84ZiI_TlgAWwx0NwYVxmT4nAeVWQJMqUvB2Hs6N9oj_P2RYxu_HmsOjiiWGLR0z9Ruzaux7F0I5_yasVTmR-cT2eTGNhsICNDsUh6q1tuHPxHNY9IIBwoY_nv6rs3layy5GYNnoPH2dgPlKl462LbhIRcusoXM9_zmzZrBSxgQ0sPiisX1uhwnJ-DP_9kDAOhWHwDuhBU9WVHUzSe9ZKX2UTDmen48YG50aoyDRkBFF5LsvqHtOo7Q?session=0&fife" height="200" width="auto" /><br><br>www.billboards.co.nz/6315]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kb266i381dqcek8gh72chfsbm8/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpDUN_5jJIZkoDOwZOMRVqcDizezHoVSzG88CbW84ZiI_TlgAWwx0NwYVxmT4nAeVWQJMqUvB2Hs6N9oj_P2RYxu_HmsOjiiWGLR0z9Ruzaux7F0I5_yasVTmR-cT2eTGNhsICNDsUh6q1tuHPxHNY9IIBwoY_nv6rs3layy5GYNnoPH2dgPlKl462LbhIRcusoXM9_zmzZrBSxgQ0sPiisX1uhwnJ-DP_9kDAOhWHwDuhBU9WVHUzSe9ZKX2UTDmen48YG50aoyDRkBFF5LsvqHtOo7Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7856732,-36.8821734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6316 </name>
+        <description><![CDATA[<img src="https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7p8atqn4fpbkuso5cls0df33r4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALr2OAftLhui9yR0kUy0GvpWeoWNTnI35nr3-3Bw7q8Ikb79G2PBYYGTijs5Snwx_j_MuHHy1t9mILya0cyitDcGQEb6I3CED8OwhzDndVUIQn3l3iRT779oScxXlzuabJS3slB1ld_2RYWo9VWuVcRjXO1lkH89WKo_tB2Q85J-2dKskMB6gzyzV-3wVaPOsqhznc6lKCF27FQ9tOvAxEZuObcPOEmrwTQIfXITa9gVyDIrKy1S5VfNf5lzObxspruYsK5sFMppFthN-zUhvPVpCXdgLQ?session=0&fife" height="200" width="auto" /><br><br>6316 Sandringham opp Eden Park<br>https://billboards.co.nz/6316]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7p8atqn4fpbkuso5cls0df33r4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALr2OAftLhui9yR0kUy0GvpWeoWNTnI35nr3-3Bw7q8Ikb79G2PBYYGTijs5Snwx_j_MuHHy1t9mILya0cyitDcGQEb6I3CED8OwhzDndVUIQn3l3iRT779oScxXlzuabJS3slB1ld_2RYWo9VWuVcRjXO1lkH89WKo_tB2Q85J-2dKskMB6gzyzV-3wVaPOsqhznc6lKCF27FQ9tOvAxEZuObcPOEmrwTQIfXITa9gVyDIrKy1S5VfNf5lzObxspruYsK5sFMppFthN-zUhvPVpCXdgLQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7420281,-36.8738039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6317 </name>
+        <description>Site 6317 Sandringham Click here to view Site Card https://billboards.co.nz/6317</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.7421727,-36.8737039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6318 </name>
+        <description><![CDATA[<img src="https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/lj2qfid2bgudq7200c8896vk8c/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrxu-YGFrAnuwd8g0weFxdVD4UvgglYJ6DSw01Y84o0-ftqxWfQm32BNYVNnZNDc2YK0YL3nx-R-4L3LIJC58q-DdIsdYbomlcn7khidv8pbKrCtSFTkj3L7jQJBdC_DSXjd_kFBGDsiCytz1KZUgASWMXNK4XLk2xNfIN5aa-bR7ojbPrsL2OSLF8mTZj_IXD1uQwIE28BR6aIYnvw_HmUnlSONH4eWqGSAoyU97JEvOgNgvgWHlMF2BacBwPvNiBJlbjzLR1W-vD88UU9FbdMV5arVg?session=0&fife" height="200" width="auto" /><br><br>Site 6318 Click here to view Site Card<br>www.billboards.co.nz/6318]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/lj2qfid2bgudq7200c8896vk8c/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrxu-YGFrAnuwd8g0weFxdVD4UvgglYJ6DSw01Y84o0-ftqxWfQm32BNYVNnZNDc2YK0YL3nx-R-4L3LIJC58q-DdIsdYbomlcn7khidv8pbKrCtSFTkj3L7jQJBdC_DSXjd_kFBGDsiCytz1KZUgASWMXNK4XLk2xNfIN5aa-bR7ojbPrsL2OSLF8mTZj_IXD1uQwIE28BR6aIYnvw_HmUnlSONH4eWqGSAoyU97JEvOgNgvgWHlMF2BacBwPvNiBJlbjzLR1W-vD88UU9FbdMV5arVg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7595214,-36.8635621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6337 Southern MW Ellerslie</name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9lidc8oduanqail4lgumtf3l2s/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqVyLvD6hhHP_UhKvIM0EZK5OGv4FPKZWLiua_y9cstqGc4MwM-dqVgYDDDbeBiqsDoRChnermKqqXVnH6HVDQBBZRQE11bc291gv_i9EsAcpbQQTLaq1LLLOYnIKLb97ql3oDE2scUjKSwd69D57rIEAot2gQ6_h3c16k4zHzrmLG9s1qy876moilxZ2Y0YaV1DV2w_EaYdpr0N3O4REYR4aG7Zw6vwZavR1AmpLLDOUhLrQuQ-K5bLI0ZGkDmT5q4G5E6FQjvFd_T6M5DZlYqBFOfeg?session=0&fife" height="200" width="auto" /><br><br>Site 6337 Ellerslie ( SH1) <br>To view Site Card click here https://billboards.co.nz/6337]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9lidc8oduanqail4lgumtf3l2s/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqVyLvD6hhHP_UhKvIM0EZK5OGv4FPKZWLiua_y9cstqGc4MwM-dqVgYDDDbeBiqsDoRChnermKqqXVnH6HVDQBBZRQE11bc291gv_i9EsAcpbQQTLaq1LLLOYnIKLb97ql3oDE2scUjKSwd69D57rIEAot2gQ6_h3c16k4zHzrmLG9s1qy876moilxZ2Y0YaV1DV2w_EaYdpr0N3O4REYR4aG7Zw6vwZavR1AmpLLDOUhLrQuQ-K5bLI0ZGkDmT5q4G5E6FQjvFd_T6M5DZlYqBFOfeg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8081226,-36.8971605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6338 Southern MW Ellerslie</name>
+        <description><![CDATA[<img src="https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5utfqla90v4uqutiq8as1c8ggc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpg9Gx9KbA7VnvvtzZP6oV40yA_UeE5GWytT9AXPe6hIlSZjBOHH47DTazqxLiu69DaqVDWKO3I4YmCxd851HO2muZ_q2zYNQjo827TLag3kDKgxBaNb-bOj2zTaA0t0CUldv0D4jef0ADfSxW9gOOiRZtTQo72NfIN20XNCqhIBEWyCQasz3KZVOR4kJsjWiJm5ZTO60vDoJHhfkV1zetlHsMA5CkJdFG2UYaEAQun1N8IKKWjpMjTL_fhPlzAMFcp9jo7Bm_lp5Cwh3QlSVBmVSvfzQ?session=0&fife" height="200" width="auto" /><br><br>Site 6338 Click on this link to view Site Card <br>www.billboards.co.nz/6338]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5utfqla90v4uqutiq8as1c8ggc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpg9Gx9KbA7VnvvtzZP6oV40yA_UeE5GWytT9AXPe6hIlSZjBOHH47DTazqxLiu69DaqVDWKO3I4YmCxd851HO2muZ_q2zYNQjo827TLag3kDKgxBaNb-bOj2zTaA0t0CUldv0D4jef0ADfSxW9gOOiRZtTQo72NfIN20XNCqhIBEWyCQasz3KZVOR4kJsjWiJm5ZTO60vDoJHhfkV1zetlHsMA5CkJdFG2UYaEAQun1N8IKKWjpMjTL_fhPlzAMFcp9jo7Bm_lp5Cwh3QlSVBmVSvfzQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8079409,-36.8967567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6340 </name>
+        <description><![CDATA[<img src="https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/r2osi5oq3ils544v5du0ljhpfs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrrAUH5Y06j7uXlycZ3XOkLqcxrFERyiGXCKqEdIt5F0lbTfNBkL6ixxTmnLcXyjukPlAxEIHIp70lCRPC7R4rY-J0cCyalYdygU4h0Jpfl5oXGC3Y34VbI_ntes5Miy8Y5XpV_vH3DvMDPT3uTL9SUJ3Y1PPzXzUPU062Z5UOoaS7atf61DFxohXuS-WYZ8QNzGvtfjMGgdSUSK0Ba3NcQPHVU6V3kYwSI2b1zIMZPiJKSVIojJgUSb4JoHPDwWKRqjX5UNKxO8fY-Tj_qhQaGM1uDzw?session=0&fife" height="200" width="auto" /><br><br>Site 6340 Click here to view Site Card https://billboards.co.nz/6340]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/r2osi5oq3ils544v5du0ljhpfs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrrAUH5Y06j7uXlycZ3XOkLqcxrFERyiGXCKqEdIt5F0lbTfNBkL6ixxTmnLcXyjukPlAxEIHIp70lCRPC7R4rY-J0cCyalYdygU4h0Jpfl5oXGC3Y34VbI_ntes5Miy8Y5XpV_vH3DvMDPT3uTL9SUJ3Y1PPzXzUPU062Z5UOoaS7atf61DFxohXuS-WYZ8QNzGvtfjMGgdSUSK0Ba3NcQPHVU6V3kYwSI2b1zIMZPiJKSVIojJgUSb4JoHPDwWKRqjX5UNKxO8fY-Tj_qhQaGM1uDzw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8125141,-36.902482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6343 Neilson St Onehunga</name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jf5d15uds8cor6e73asporhp14/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrAz4M79-HA4PPtZGdFtq46REKz0Uod9m-1Y79VbzXvm7t3uitfZyIju9ld606_T2Jgo3vt2oXYYAj-x3Ok-M9egz4ZRQN3F2lBsBHXQ3fbxUF6EA-fv9hcs14mTdihDBALGJyvp3JGbqkscvKWlUqmEHeGudHLqrQK8_FewF8xqfMDLDOnoBwUlr4UfCIfStpoPsWL6eTIgbnXvJTjJw0X5jpY83oyPtJ4MWrHhUxQKZ2FWcmTdLx3soMTNUbowMA7uCoPZrRC1jloEnNvdXLMc7rFiQ?session=0&fife" height="200" width="auto" /><br><br>6343 Onehunga Click here to view Site Card<br>https://billboards.co.nz/6343]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jf5d15uds8cor6e73asporhp14/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrAz4M79-HA4PPtZGdFtq46REKz0Uod9m-1Y79VbzXvm7t3uitfZyIju9ld606_T2Jgo3vt2oXYYAj-x3Ok-M9egz4ZRQN3F2lBsBHXQ3fbxUF6EA-fv9hcs14mTdihDBALGJyvp3JGbqkscvKWlUqmEHeGudHLqrQK8_FewF8xqfMDLDOnoBwUlr4UfCIfStpoPsWL6eTIgbnXvJTjJw0X5jpY83oyPtJ4MWrHhUxQKZ2FWcmTdLx3soMTNUbowMA7uCoPZrRC1jloEnNvdXLMc7rFiQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7869444,-36.9263781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6344 Nielson St Onehunga</name>
+        <description><![CDATA[<img src="https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/39co1ftqbl8tprevaotttt7ag4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrSGQS0aiveOhL4Vu5XK80u9ZpzHsa-fFlbhQewAqpUKz7c9qYKnrgLMG2nyhjc5QESnPWrGwu49b8JVIPK5ePsj_4T-a8OiqsAgq_peeQNFa62Yk1tHAlw0HXL6j19FHO69zAlJSXjdSsOfU1De2sx7inE6sbeAtu1humDoYkq46y9jSaoZpQpAEJGRCNy70nk7qPUOH2GYWfRG1HWZk3TMZWVhC5yxJPtfSGAHsXHJBq1oJGnLOmtTxllkVGHZgBiK6gKkqRlSKdC2_dbKNx7eXYhPA?session=0&fife" height="200" width="auto" /><br><br>6344 Onehunga Click here to view Site Card<br>https://billboards.co.nz/6344]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/39co1ftqbl8tprevaotttt7ag4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrSGQS0aiveOhL4Vu5XK80u9ZpzHsa-fFlbhQewAqpUKz7c9qYKnrgLMG2nyhjc5QESnPWrGwu49b8JVIPK5ePsj_4T-a8OiqsAgq_peeQNFa62Yk1tHAlw0HXL6j19FHO69zAlJSXjdSsOfU1De2sx7inE6sbeAtu1humDoYkq46y9jSaoZpQpAEJGRCNy70nk7qPUOH2GYWfRG1HWZk3TMZWVhC5yxJPtfSGAHsXHJBq1oJGnLOmtTxllkVGHZgBiK6gKkqRlSKdC2_dbKNx7eXYhPA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7867889,-36.9263566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6353 Sth Eastern HW Mt Wellington</name>
+        <description><![CDATA[<img src="https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/sargvlb8nto63gq3eud5l2g2r4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpRMfy49IAgULNg3h27npc8xr24oYk5R_sh4pEYyOYRI7FlpGSaTzXr_m_hGJlzc1we9t6pcpRhtzWUZUKIw1Il-GtlGMijO8MUmVaiEHkfs0ZIOqQIg76RxkJ_A2w2aU9XKrD3Ke-RUo8gCkiwlTBSf9mOrujyxyuOIE8Q-yAXsET5mpOWhzeqxjBhncZFhdBIZ0lwi2lCHCknK4IfuqVaO0ga3qtnyyTgoWNk7yyBktqKwVs3RyfPpaIoTCBFBcZXtcXM27wNH-aS2Ge-MVR62PEM5Q?session=0&fife" height="200" width="auto" /><br><br>Site 6353 Click here to view Site Card<br>https://billboards.co.nz/6353]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/sargvlb8nto63gq3eud5l2g2r4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpRMfy49IAgULNg3h27npc8xr24oYk5R_sh4pEYyOYRI7FlpGSaTzXr_m_hGJlzc1we9t6pcpRhtzWUZUKIw1Il-GtlGMijO8MUmVaiEHkfs0ZIOqQIg76RxkJ_A2w2aU9XKrD3Ke-RUo8gCkiwlTBSf9mOrujyxyuOIE8Q-yAXsET5mpOWhzeqxjBhncZFhdBIZ0lwi2lCHCknK4IfuqVaO0ga3qtnyyTgoWNk7yyBktqKwVs3RyfPpaIoTCBFBcZXtcXM27wNH-aS2Ge-MVR62PEM5Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8474659,-36.9146318,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6354 Sth Eastern HW Mt Wellington</name>
+        <description><![CDATA[<img src="https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/2ummo644rt5d13bnauccupr6g0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrSsL-NpeZ_7y4JG17YCzDgo-0AX2f329ZBfAI-ONp8gMtzIKdQTIyqhMGboAasvN8GC05QnA2mEI8-4Vluw3pvS0jEWr__EEMcr-IQp-PiCoRfotP0HRySeg5cfc7psjlehsCZCTUu4IYsurr49V6oP1Lxz01yh-_yAIK8lKQsWob6feOL-ukZjxs_XY4jmtYDexqkEUTbRgYip3ehsET15XuVdaCetxHHGN-pxUyV-J9h8JS_tKQwKx7gZmNEKk0PNavv1Hs1CSOy3e4KJMj8YDeM0A?session=0&fife" height="200" width="auto" /><br><br>Site 6354 Click here to view Site Card<br>https://billboards.co.nz/6354]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/2ummo644rt5d13bnauccupr6g0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrSsL-NpeZ_7y4JG17YCzDgo-0AX2f329ZBfAI-ONp8gMtzIKdQTIyqhMGboAasvN8GC05QnA2mEI8-4Vluw3pvS0jEWr__EEMcr-IQp-PiCoRfotP0HRySeg5cfc7psjlehsCZCTUu4IYsurr49V6oP1Lxz01yh-_yAIK8lKQsWob6feOL-ukZjxs_XY4jmtYDexqkEUTbRgYip3ehsET15XuVdaCetxHHGN-pxUyV-J9h8JS_tKQwKx7gZmNEKk0PNavv1Hs1CSOy3e4KJMj8YDeM0A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8476323,-36.9145925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6355 Sth Eastern HW Mt Wellington</name>
+        <description><![CDATA[<img src="https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fl81fh8vsm05abfiaj7ie5rcek/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALph65A-PITnt-yhv4AF_j15Sw2gEkdD9s5P95sLiBaqwJQ5fnEWRbCHoGq5f233CrV7NqnK2mr4vgPSfp3VQ-X1XoZVkc36kUD-VWSNZ7XaWExkZjF7yj-7fpwdwgVyBh9eTaNr4IGT8UeLAq0zvYlzexz3GUHbhtvV4Yp-YVKGGV67pXCXCe7z9FayE8Dlq5K95ppg3QZf8-r6b5u2W8t1LScZTrA_oir1oFGG8H31LIQAiejeFhllwPrEbp935JOhZ3WgMf7gjlya5fUcV6csElvl0g?session=0&fife" height="200" width="auto" /><br><br>Site 6355 Click here to view Site Profile<br>https://billboards.co.nz/6355]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fl81fh8vsm05abfiaj7ie5rcek/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALph65A-PITnt-yhv4AF_j15Sw2gEkdD9s5P95sLiBaqwJQ5fnEWRbCHoGq5f233CrV7NqnK2mr4vgPSfp3VQ-X1XoZVkc36kUD-VWSNZ7XaWExkZjF7yj-7fpwdwgVyBh9eTaNr4IGT8UeLAq0zvYlzexz3GUHbhtvV4Yp-YVKGGV67pXCXCe7z9FayE8Dlq5K95ppg3QZf8-r6b5u2W8t1LScZTrA_oir1oFGG8H31LIQAiejeFhllwPrEbp935JOhZ3WgMf7gjlya5fUcV6csElvl0g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8484747,-36.9143957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6356 Sth Eastern HW Mt Wellington</name>
+        <description><![CDATA[<img src="https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fmt0u5u1etbmu6dfhdfmoola78/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALq-KHiycDoRIhOoT9KrdaCMw4gEga_vHSsGgdMyQbsQbvEH-JZ_aJEJEhpopstnEzBE1odZSiO_Iaj85RG-a0FEFgfo1iHTTnsfCyoxF8KRjKEuwklE4q2sJT0uKLITBQs5VlQcBTwUnqlkDXZTNdg1hNCU3XZGUIWVuygm1Kq7ButG_6RECCFzUbQwy79rVk1AwT_MzeDdYu4H0Idjoc3A2vzowv9ncVxC8yBeuSAqJirl5XxMuP9x3zJfPqW1AgnWjlkC38fCtAyBOt2CpvIimsy4Nw?session=0&fife" height="200" width="auto" /><br><br>Site 6356 Click here to view Site Card<br>https://billboards.co.nz/6356]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fmt0u5u1etbmu6dfhdfmoola78/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALq-KHiycDoRIhOoT9KrdaCMw4gEga_vHSsGgdMyQbsQbvEH-JZ_aJEJEhpopstnEzBE1odZSiO_Iaj85RG-a0FEFgfo1iHTTnsfCyoxF8KRjKEuwklE4q2sJT0uKLITBQs5VlQcBTwUnqlkDXZTNdg1hNCU3XZGUIWVuygm1Kq7ButG_6RECCFzUbQwy79rVk1AwT_MzeDdYu4H0Idjoc3A2vzowv9ncVxC8yBeuSAqJirl5XxMuP9x3zJfPqW1AgnWjlkC38fCtAyBOt2CpvIimsy4Nw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8486078,-36.9143692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6365 </name>
+        <description><![CDATA[<img src="https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/91ign5fo43aqiq2tn0l32jihbk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrkEBwuExH3b0QwH-G5fs1e9GbjWAHFqCrqfoCH4HozoOAvlSzAxcdiKlYNjSfVsiQncBQESxMeRaCY_hy7aEAiYv-IURdpRa3mErktS2f6r5jAqqW09nufNij5U_tdpxACBYCEADlLsRSO5BC_sIYqdFByq3MO28XQTPax_0dYfoXb7QvEZsRWPtZpOdaZv-jz-DwakZlZiAPqMHsHJBJrJkcCMWeTxKkCYZ5sk5cBxjBu412ivbmStKlc2OT_gi7Yw1Pj0U0mKUI227UMxF7EI8AwbQ?session=0&fife" height="200" width="auto" /><br><br>Site 6365 SH 1 Otahuhu   Click here to view Site Card  https://billboards.co.nz/6365]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/91ign5fo43aqiq2tn0l32jihbk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrkEBwuExH3b0QwH-G5fs1e9GbjWAHFqCrqfoCH4HozoOAvlSzAxcdiKlYNjSfVsiQncBQESxMeRaCY_hy7aEAiYv-IURdpRa3mErktS2f6r5jAqqW09nufNij5U_tdpxACBYCEADlLsRSO5BC_sIYqdFByq3MO28XQTPax_0dYfoXb7QvEZsRWPtZpOdaZv-jz-DwakZlZiAPqMHsHJBJrJkcCMWeTxKkCYZ5sk5cBxjBu412ivbmStKlc2OT_gi7Yw1Pj0U0mKUI227UMxF7EI8AwbQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8518646,-36.9351558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6366 </name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fgpmblg6p66omfcerr8ds78354/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpIWbTuVhbdgwPFeuVfeK3OcJ03dvVanuqGlcbTBIjSOjc2K-iP7gtzAYlDI28GjFJTIKIJK7JgqPdCpenE_kEu_8N25pdjl1lgt_k1bI7J5ju-kCkLy_EjnDbskK_zpwZdKCRWIjhHw5AjMsODaxIyeCuCe7F2mw0Sii1_UozrWA4720k5CYO-yc6tsN7cJ5qq9C5scV2fVTjefiAH4PAFLQfQfwQiizzRk05k8a_ewI4JaPrQ5-akg7w4nwyCtYdRwwk-foHl_UyqwaDswctFyeWm7g?session=0&fife" height="200" width="auto" /><br><br>Site 6366 Otahuhu Click here to view Site Card<br>https://billboards.co.nz/6366<br><br><img src="https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7ja5rc9r1a06v34v5ou1sork5s/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrdkeDrBCbDDHuKiznr2mDjRouU9-bOMTsFEoIS40xvwZlVmzd7b96UD6psgqOzlOKPmc8zUFUqSnJcg4IVhzwwYcJn9n1aT5lpJw2DLzypW8Yunv41YTrkYBCZPZXYMnQXroxfn64X4gwhGT8D8NjUN-H6Qr2is9mRDju6VeBGygZcnKJzLkgzl63BA8eB32c2BEAoRgQGMzdZlk711ENu2HEKl96BPdk_DGPG_BmTlote9ndlbwqFc8ZiquScqO9kJycm_bbU-GZG2Su8IlyX43y-gQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fgpmblg6p66omfcerr8ds78354/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpIWbTuVhbdgwPFeuVfeK3OcJ03dvVanuqGlcbTBIjSOjc2K-iP7gtzAYlDI28GjFJTIKIJK7JgqPdCpenE_kEu_8N25pdjl1lgt_k1bI7J5ju-kCkLy_EjnDbskK_zpwZdKCRWIjhHw5AjMsODaxIyeCuCe7F2mw0Sii1_UozrWA4720k5CYO-yc6tsN7cJ5qq9C5scV2fVTjefiAH4PAFLQfQfwQiizzRk05k8a_ewI4JaPrQ5-akg7w4nwyCtYdRwwk-foHl_UyqwaDswctFyeWm7g?session=0&fife https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7ja5rc9r1a06v34v5ou1sork5s/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrdkeDrBCbDDHuKiznr2mDjRouU9-bOMTsFEoIS40xvwZlVmzd7b96UD6psgqOzlOKPmc8zUFUqSnJcg4IVhzwwYcJn9n1aT5lpJw2DLzypW8Yunv41YTrkYBCZPZXYMnQXroxfn64X4gwhGT8D8NjUN-H6Qr2is9mRDju6VeBGygZcnKJzLkgzl63BA8eB32c2BEAoRgQGMzdZlk711ENu2HEKl96BPdk_DGPG_BmTlote9ndlbwqFc8ZiquScqO9kJycm_bbU-GZG2Su8IlyX43y-gQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.851886,-36.9352673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6367 Mt Albert Rd Three Kings</name>
+        <description><![CDATA[<img src="https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/shh5que0tsiho8rv06832m3ie4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqj3IYKalOwJLkAfSXxtYtKNxqv5mC4uteTuEeJaRcieirLUNohk1IYJSGycE5wYaQMgZAepsB-KuRws5Kmu2hYODv_4gZh2QczQZ7FkzcVJII8belajL177cuBP8zINAHQQLVp3R_95O8cXgFR7l5TXX5nkBAeO4FX4F9EFdKE6woStVvEXDR_5JCBrCev197M_JhWM0z2nZBFj3rCNBQ2XVehJ2G7DLEeDTQFH7LHanFtPNGPiuJLxJpzESMCdIrHk3yqbTWNsMSg_Lyj1cuJR07rIw?session=0&fife" height="200" width="auto" /><br><br>6367 Mt Albert Rd Click here to view Site Card<br>https://billboards.co.nz/6367]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/shh5que0tsiho8rv06832m3ie4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqj3IYKalOwJLkAfSXxtYtKNxqv5mC4uteTuEeJaRcieirLUNohk1IYJSGycE5wYaQMgZAepsB-KuRws5Kmu2hYODv_4gZh2QczQZ7FkzcVJII8belajL177cuBP8zINAHQQLVp3R_95O8cXgFR7l5TXX5nkBAeO4FX4F9EFdKE6woStVvEXDR_5JCBrCev197M_JhWM0z2nZBFj3rCNBQ2XVehJ2G7DLEeDTQFH7LHanFtPNGPiuJLxJpzESMCdIrHk3yqbTWNsMSg_Lyj1cuJR07rIw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7616605,-36.9088885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6373 Tristram Ave  Forrest Hill</name>
+        <description><![CDATA[<img src="https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/35o8ug2goe0gj8850skshq7bjs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpts6WRxeY1AjmxgSCYBCeZTfMQBYec_aXCTDwxfPkGKCWJAXs6C6HP4VZu6i0YRNF-6mvOmxiv8pvnR3zeVaWaA0HFqsmNd95GUFvd8zgNXGK7a_2r7aFUH4wtPMHwaH3ixExOgdOW_ji6A5THSqaIkvL-4bjYLh8XkyM_bN2lB46-WbdLf80_Odrghj01zLNdA9vgAEkR_lQFd-rGvzAPQsrK5eNgFnxzbvbJHIaqIPXCSltR72Dn7injo-l5PUhfTBlEmglj_BTpKO6yVH8jbjsgsw?session=0&fife" height="200" width="auto" /><br><br>Site 6373 Click here to view Site Card<br>https://billboards.co.nz/6373]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/35o8ug2goe0gj8850skshq7bjs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpts6WRxeY1AjmxgSCYBCeZTfMQBYec_aXCTDwxfPkGKCWJAXs6C6HP4VZu6i0YRNF-6mvOmxiv8pvnR3zeVaWaA0HFqsmNd95GUFvd8zgNXGK7a_2r7aFUH4wtPMHwaH3ixExOgdOW_ji6A5THSqaIkvL-4bjYLh8XkyM_bN2lB46-WbdLf80_Odrghj01zLNdA9vgAEkR_lQFd-rGvzAPQsrK5eNgFnxzbvbJHIaqIPXCSltR72Dn7injo-l5PUhfTBlEmglj_BTpKO6yVH8jbjsgsw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7418618,-36.7723479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site 6393 Waikato Expressway Meremere</name>
+        <description><![CDATA[<img src="https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ji6efq0sebt5ts1ej2u96ikn78/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALo9x8WTnOqQXe54U7NbdSAwuR4L4Fh6Lj2lb1QLwAClFAc5DWR2gagoq6sZIipOh4NFhKz6vzJSy2CUUpTRzrHNeghc05Tu0gPXfHdwIYbxYMdEVU-X5ZyS0c7xcItGnKJarEDHZzs7w2c8cgwJZQrbHUyJE2y1oFVdrjQ61pWlLlx315p9KZSvAs3J6YuNO4HKUfiTxI6MAhYY6JDiReE4M0hgx3OVAkfVrTVVY-4AIZw3ORV4RRn18djE8rOu3ja1QMDYZPQ4pRF091YblkgAyrQLag?session=0&fife" height="200" width="auto" /><br><br>6393 Mermere   Click here to view Site Card https://billboards.co.nz/6393]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ji6efq0sebt5ts1ej2u96ikn78/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALo9x8WTnOqQXe54U7NbdSAwuR4L4Fh6Lj2lb1QLwAClFAc5DWR2gagoq6sZIipOh4NFhKz6vzJSy2CUUpTRzrHNeghc05Tu0gPXfHdwIYbxYMdEVU-X5ZyS0c7xcItGnKJarEDHZzs7w2c8cgwJZQrbHUyJE2y1oFVdrjQ61pWlLlx315p9KZSvAs3J6YuNO4HKUfiTxI6MAhYY6JDiReE4M0hgx3OVAkfVrTVVY-4AIZw3ORV4RRn18djE8rOu3ja1QMDYZPQ4pRF091YblkgAyrQLag?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            175.0670635,-37.3131612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1277 SH1 Waikato Expressway Mercer </name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/icst6ju99k71j3bbip04i1jhqs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrECnm5CWee8UQSmA3Av2llby9HdxNPbaLm5ys80BEbhTpfNdFB1FpNuBlAE9zbggKbcsehcmrpLzrvgG74VF49iuGlDpAP4zMy2y4F-wO8F8PwN2ceOqsUnD2LICUjBROOCVhpHLGLoxgFy20VY9FwAhVAdanyKZKhavIRPCF9fv5bJosdk2SegZQSLZUmRDmmP_9bKTuZ8DOxZomdztX6MnwcSSqAOQvzLo6Uj51UXMsuyQExfAFsT9xrsvhNt5fc4PtP4qfd-D54P0XvOQ7h1vO6RQ?session=0&fife" height="200" width="auto" /><br><br>Site 1277 Mercer Click here to view Site Card https://billboards.co.nz/1277]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/icst6ju99k71j3bbip04i1jhqs/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrECnm5CWee8UQSmA3Av2llby9HdxNPbaLm5ys80BEbhTpfNdFB1FpNuBlAE9zbggKbcsehcmrpLzrvgG74VF49iuGlDpAP4zMy2y4F-wO8F8PwN2ceOqsUnD2LICUjBROOCVhpHLGLoxgFy20VY9FwAhVAdanyKZKhavIRPCF9fv5bJosdk2SegZQSLZUmRDmmP_9bKTuZ8DOxZomdztX6MnwcSSqAOQvzLo6Uj51UXMsuyQExfAFsT9xrsvhNt5fc4PtP4qfd-D54P0XvOQ7h1vO6RQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            175.0466091,-37.2763451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1278 SH1 Waikato Expressway Mercer</name>
+        <description><![CDATA[<img src="https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3aaob47a9qv1j2sgj70veu00fg/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoAytb9Mm-ANZIeVY6ae2aJ36m70wMCqyQzQWLl3SU0ze_Ej1RffaIjcHlOA5W5OgGYdq6PNUQxbSeQlJgIbXCZPnQ5Fa3yAu1Me3D9mE_S-9SO3_IbdYuyiR4vYTMOztSqLBMj2DouMUPg_ZNspxTTayv1curz_zJLfheJD65mHx5Zq76XRPcwPe7WdPT5bw_pMypSp1CFOCoDtkp_rrIeSuyzU8zRbmT2Veh-WPi2CnUoCbzFsXgnzyLNnOvbZcu2Lmu3AH_lvADp1iA3QF1ulIX58A?session=0&fife" height="200" width="auto" /><br><br>Site 1278 Mercer Click here to view Site Cardhttps://billboards.co.nz/1278]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3aaob47a9qv1j2sgj70veu00fg/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoAytb9Mm-ANZIeVY6ae2aJ36m70wMCqyQzQWLl3SU0ze_Ej1RffaIjcHlOA5W5OgGYdq6PNUQxbSeQlJgIbXCZPnQ5Fa3yAu1Me3D9mE_S-9SO3_IbdYuyiR4vYTMOztSqLBMj2DouMUPg_ZNspxTTayv1curz_zJLfheJD65mHx5Zq76XRPcwPe7WdPT5bw_pMypSp1CFOCoDtkp_rrIeSuyzU8zRbmT2Veh-WPi2CnUoCbzFsXgnzyLNnOvbZcu2Lmu3AH_lvADp1iA3QF1ulIX58A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            175.0466144,-37.276503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1286 Allens Rd Highbrook</name>
+        <description><![CDATA[<img src="https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kig3qqv6jhs71f9qlrhfiemrrk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrNB66jaP95EjahhTMXwYE29A2nmLVLa88MtcwOoE8QtfQ4-JgnN91G4hjvGf1ufmDzEMaAjBgJ_sTjt474bc8DeK7GQZ7oJidFeq8an1MYeC6OJRcI_c0Ztcg7a7u1CMPc0Agjh_f6Fc8tnLH5xnClBh0o77_rHJvzJyPRDVA7sq5XRkj_Gv9Y2lt2MDnU8lPep0V3PlOt6vxjCHhAqkdqAKpa8tVy7JacAud_mkDDkT5evUrXQl23P0C2zzOpLeTw6ejA5xpZ4_WO_lRvSXqamhVocQ?session=0&fife" height="200" width="auto" /><br><br>Site 1286 East Tamaki Click here to view Site Card https://billboards.co.nz/1286]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kig3qqv6jhs71f9qlrhfiemrrk/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrNB66jaP95EjahhTMXwYE29A2nmLVLa88MtcwOoE8QtfQ4-JgnN91G4hjvGf1ufmDzEMaAjBgJ_sTjt474bc8DeK7GQZ7oJidFeq8an1MYeC6OJRcI_c0Ztcg7a7u1CMPc0Agjh_f6Fc8tnLH5xnClBh0o77_rHJvzJyPRDVA7sq5XRkj_Gv9Y2lt2MDnU8lPep0V3PlOt6vxjCHhAqkdqAKpa8tVy7JacAud_mkDDkT5evUrXQl23P0C2zzOpLeTw6ejA5xpZ4_WO_lRvSXqamhVocQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.885285,-36.939131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1284 SH20 Henderson </name>
+        <description><![CDATA[<img src="https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ui42h83ldopmr007urk75b44ds/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALq9pB1TIwg1jvW1KV6ofKZEsQxZ9G7JemtfCqdSzvHmlwnqRVKGXbP_5Ewa8dq0gBdvn-ae0KpYEg7X79HxNuAJ4ST45xEHIcm8Bf-z6wQOfS6QDFovocQE3nTac1uJdpNoGz9DMZolr9z_gJVT9z74dDXnNLWGvFQ6WuSdExNxCcZvs2JfgeUzULKTvn2kFN6dWVPAgioJA8WE3yWk66UIvNQ_tlLYuALv6tZMvjUJhXLj88Eq9QwJsTaKEyfMcaPH-8G9ZXqRG_3lSaJWt3kVXUho2A?session=0&fife" height="200" width="auto" /><br><br>Site 1284 Henderson  SH20 Click here to view profile https://billboards.co.nz/1284]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ui42h83ldopmr007urk75b44ds/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALq9pB1TIwg1jvW1KV6ofKZEsQxZ9G7JemtfCqdSzvHmlwnqRVKGXbP_5Ewa8dq0gBdvn-ae0KpYEg7X79HxNuAJ4ST45xEHIcm8Bf-z6wQOfS6QDFovocQE3nTac1uJdpNoGz9DMZolr9z_gJVT9z74dDXnNLWGvFQ6WuSdExNxCcZvs2JfgeUzULKTvn2kFN6dWVPAgioJA8WE3yWk66UIvNQ_tlLYuALv6tZMvjUJhXLj88Eq9QwJsTaKEyfMcaPH-8G9ZXqRG_3lSaJWt3kVXUho2A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.6381571,-36.84896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1296 Waikato Expressway</name>
+        <description>Site 1296 Meremere To view Site card click here https://billboards.co.nz/1296</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            175.0681579,-37.3127174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1297 Waikato Expressway</name>
+        <description>Site 1297 Meremere View Site click here https://billboards.co.nz/1297</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            175.0677717,-37.3128711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1227 </name>
+        <description><![CDATA[<img src="https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/54eu9shhvmr493of1uqi7cc5h4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrcZB7CVZBk7qNlEoVzzJiW1QEaFgCYHeqJz7fnalDZXYStpzrV_SVFha8wuk7HcVqJkjzps3Pal0wR28E1chMNU-_SjEkACVqexTVubwhq3fScnfob-wIVc_Nio9n5pmWOQglooNtoWp5jpg7MY7D-rWLWQTC7V-SStUnIp_a1z4OBLFe6cYdHDz9uXoX4XjHw5mGCIDoMdwmnB1UirTT8ZNXvYNaS1p7KkE13po6k8QhoQsSt-9lXWMnqFgF63ADZnXVnq4VK9BSCu1-8CLwlbSNxnw?session=0&fife" height="200" width="auto" /><br><br>Site 1227 SH1 Otahuhu Click here to view Site Card https://billboards.co.nz/1227]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/54eu9shhvmr493of1uqi7cc5h4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrcZB7CVZBk7qNlEoVzzJiW1QEaFgCYHeqJz7fnalDZXYStpzrV_SVFha8wuk7HcVqJkjzps3Pal0wR28E1chMNU-_SjEkACVqexTVubwhq3fScnfob-wIVc_Nio9n5pmWOQglooNtoWp5jpg7MY7D-rWLWQTC7V-SStUnIp_a1z4OBLFe6cYdHDz9uXoX4XjHw5mGCIDoMdwmnB1UirTT8ZNXvYNaS1p7KkE13po6k8QhoQsSt-9lXWMnqFgF63ADZnXVnq4VK9BSCu1-8CLwlbSNxnw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8516339,-36.9345727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1228 </name>
+        <description><![CDATA[<img src="https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dmt7kcip2l3cm3nssdiedeq7oc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrpAdFXEr8hA9-eL3qDwF_MEDOnXdNIgBldtsXM32wriDKgEN9ajReI5GjJUpQCraSirPhCBZgbIxAWgMulQEupu47gyLN8qR1B0zZtn43fC90YsfjDiz0xRhAkLF1RAc0m5i7rjSoU0gP8NoIAA0JeEz2LNNwZy1ojmhJb-PG12_BbyjsrNXzKCfFor5RIcIAuXaN-komNpjTOEzoCdQV2uhClZ0fYa9_MKZuaNiLpaOB4qydiXib59k3DlXbWQm1NWICSlnOvDJ-Q2rjJFG2ra-q_3A?session=0&fife" height="200" width="auto" /><br><br>Site 1228 Otahuhu Click here to view Site Card https://billboards.co.nz/1228]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/dmt7kcip2l3cm3nssdiedeq7oc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrpAdFXEr8hA9-eL3qDwF_MEDOnXdNIgBldtsXM32wriDKgEN9ajReI5GjJUpQCraSirPhCBZgbIxAWgMulQEupu47gyLN8qR1B0zZtn43fC90YsfjDiz0xRhAkLF1RAc0m5i7rjSoU0gP8NoIAA0JeEz2LNNwZy1ojmhJb-PG12_BbyjsrNXzKCfFor5RIcIAuXaN-komNpjTOEzoCdQV2uhClZ0fYa9_MKZuaNiLpaOB4qydiXib59k3DlXbWQm1NWICSlnOvDJ-Q2rjJFG2ra-q_3A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8520952,-36.9357861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1229</name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5fhijdsj67j65umgaduvpph3h0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpsDnaD3DxiF4sXujV7ZNzl3ix-HsDAy6n54gQk9og2Sv8HUPCnmxwURdh9ND17mEJnWSOC7s8qIvn_M6sk8gIZrfZEoEpAzaHx0bAoYSyasWrMifiHVFsW9x9qGc06M8eZ_lhDJY1xOvO1VzR3QpqDCuDGpGsfCEcBODiZKjtYHMBkWk7zJTDDm0xYUw0Qjwn0jKEZlwo-zU9T5No2etPWB2JJj1ROiQIAwFTCHcxlkEixe7WR6FWRjHfpFPP03yJL9Nbg0ybAg024NcIoTPV30z3qSg?session=0&fife" height="200" width="auto" /><br><br>Site 1229  Otahuhu Click here to view Site Card  https://billboards.co.nz/1229]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/5fhijdsj67j65umgaduvpph3h0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpsDnaD3DxiF4sXujV7ZNzl3ix-HsDAy6n54gQk9og2Sv8HUPCnmxwURdh9ND17mEJnWSOC7s8qIvn_M6sk8gIZrfZEoEpAzaHx0bAoYSyasWrMifiHVFsW9x9qGc06M8eZ_lhDJY1xOvO1VzR3QpqDCuDGpGsfCEcBODiZKjtYHMBkWk7zJTDDm0xYUw0Qjwn0jKEZlwo-zU9T5No2etPWB2JJj1ROiQIAwFTCHcxlkEixe7WR6FWRjHfpFPP03yJL9Nbg0ybAg024NcIoTPV30z3qSg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8521221,-36.9359148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1258 </name>
+        <description><![CDATA[<img src="https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/e9fml9ut3shqq3nsa47jfjt3kc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqhWwzhBME2p-kdy_R8FgCqixRblHVaS_jallwbJAx4t_zZyYAy7CFUcVG4d3eEDAV4yD-e70BwKjmCRK4-8CotXBtfgj_WDERDiKeBpgFek6X4E0sr_Y5YVd5MoyHEWjPvKlKXshllGgkd2eyDRTprQ55Uh5x6iAHCKhyDZRLVsD5EzMLYbqr5wrraD3yTY1He_lFO4Tlf-lVxxd2lcATlSpLMxy3JPJVCnfwP4uAH4XYaw27vJ3IUlICH4TsT_INhfwn3LS1fCCbZxK8nLe6Sgpk6dg?session=0&fife" height="200" width="auto" /><br><br>Site 1258 Penrose Click here to view Site Card https://billboards.co.nz/1258]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/e9fml9ut3shqq3nsa47jfjt3kc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqhWwzhBME2p-kdy_R8FgCqixRblHVaS_jallwbJAx4t_zZyYAy7CFUcVG4d3eEDAV4yD-e70BwKjmCRK4-8CotXBtfgj_WDERDiKeBpgFek6X4E0sr_Y5YVd5MoyHEWjPvKlKXshllGgkd2eyDRTprQ55Uh5x6iAHCKhyDZRLVsD5EzMLYbqr5wrraD3yTY1He_lFO4Tlf-lVxxd2lcATlSpLMxy3JPJVCnfwP4uAH4XYaw27vJ3IUlICH4TsT_INhfwn3LS1fCCbZxK8nLe6Sgpk6dg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8089117,-36.9034061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1260 SH 20 Mt Roskill</name>
+        <description><![CDATA[<img src="https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7fmvteo1onuvq9tadqk6v8muok/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALopcNdNmuCKQ3znR4ZQoj6ndMdLn7fLEI7uJjSJLVdcQmbjZk3hkAcBxCa5DlmGnhxHUDuqPZMpeGzWrduuvNcAxZVZX3yzz9jxE_lnskhywJXixWIRnCF6VLQV-XDsVJxbWGKmBVQAIc4e-8oS4d1U2ZM6cpnMGAxOfnFTPDizS7VsGf-1y8rz6bFfE1roKjxYLrs3inP7PMp5jeUOPNWw6CFJbaNMs4vabsxrUKHA22FEyNRXCE_R8DD2r1EK5uBY3T6cTghUWUAlzrV5mmK1dJZ5xw?session=0&fife" height="200" width="auto" /><br><br>Site 1260 Mt Roskill Click here to view Site Card<br>https://billboards.co.nz/1260<br><br><img src="https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1bufsl2dhvocc87i1kcf8jd4s4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpfUWZso3HsYRVLFZ4OqJYtJ8xeC1ZVO6TTWxtOxpgNIIoErThhxtdWQ0AxikTmk2vFHC50v3SAgeyLXl-NXrJg8MFmoq5C8bdktwXa1hvCofZvavei0q_YEn-yGofVMj4ZSmo_sX4jddxj2dSSfCEt9XuOEtiy05_1y3dHiirgVEiWn0OzvKPD5QBV4y39UFPNk4zea5e8UgC_MHC3S71rV8ntJR-ifNjOdMPdCHDQzEVQr30atxmjZYblhdOFynG1_1y1lIXHGnBKjy5X0GRT9dUfLQ?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/7fmvteo1onuvq9tadqk6v8muok/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALopcNdNmuCKQ3znR4ZQoj6ndMdLn7fLEI7uJjSJLVdcQmbjZk3hkAcBxCa5DlmGnhxHUDuqPZMpeGzWrduuvNcAxZVZX3yzz9jxE_lnskhywJXixWIRnCF6VLQV-XDsVJxbWGKmBVQAIc4e-8oS4d1U2ZM6cpnMGAxOfnFTPDizS7VsGf-1y8rz6bFfE1roKjxYLrs3inP7PMp5jeUOPNWw6CFJbaNMs4vabsxrUKHA22FEyNRXCE_R8DD2r1EK5uBY3T6cTghUWUAlzrV5mmK1dJZ5xw?session=0&fife https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1bufsl2dhvocc87i1kcf8jd4s4/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALpfUWZso3HsYRVLFZ4OqJYtJ8xeC1ZVO6TTWxtOxpgNIIoErThhxtdWQ0AxikTmk2vFHC50v3SAgeyLXl-NXrJg8MFmoq5C8bdktwXa1hvCofZvavei0q_YEn-yGofVMj4ZSmo_sX4jddxj2dSSfCEt9XuOEtiy05_1y3dHiirgVEiWn0OzvKPD5QBV4y39UFPNk4zea5e8UgC_MHC3S71rV8ntJR-ifNjOdMPdCHDQzEVQr30atxmjZYblhdOFynG1_1y1lIXHGnBKjy5X0GRT9dUfLQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.749254,-36.9117619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1265 Northern MW Forrest Hill</name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kfijphi1akls3nnifosq9dhjno/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqKKxLvJwsuDv7BZlPmsfOp9G4mnzn6JVpwsXhWx_xWBp4Nwu2fYU51ZFwuhaI49kuK5c23okjfQKqFjhNIBOI6Lh0fXaWDS9tEkKbWJMYS0FYfv8zHJj412cNwT-cV2CvgDIFdhox4UIojK5_1v5sjWy-q0nRIb7p-XBdfLMFpT5tOhkbg2td1v0pgMvaTQwbT7ra7uAXPP99s-JSxp3fSoSUZUHEqBqMbE5M5x2xJwBT9J-uCewTZbZvmksRtwoBgK5AL4x0pW3LHc8xLdoXQHeFnnw?session=0&fife" height="200" width="auto" /><br><br>Site 1265 North Shore Click here to view Site Card https://billboards.co.nz/1265]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kfijphi1akls3nnifosq9dhjno/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqKKxLvJwsuDv7BZlPmsfOp9G4mnzn6JVpwsXhWx_xWBp4Nwu2fYU51ZFwuhaI49kuK5c23okjfQKqFjhNIBOI6Lh0fXaWDS9tEkKbWJMYS0FYfv8zHJj412cNwT-cV2CvgDIFdhox4UIojK5_1v5sjWy-q0nRIb7p-XBdfLMFpT5tOhkbg2td1v0pgMvaTQwbT7ra7uAXPP99s-JSxp3fSoSUZUHEqBqMbE5M5x2xJwBT9J-uCewTZbZvmksRtwoBgK5AL4x0pW3LHc8xLdoXQHeFnnw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7463679,-36.7769456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1264  SH18 Albany </name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rtjf8fjnh022fkbj63fv21hv40/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoF2FEAFeSXfv9hcewBvE8d81Nu74b23ktFsnv_gqpq9roMGbhN3s8gGQrwXtmX56ghKFbHlzxMTYdibcbWwers6VOs2LOAOGEUvgfJKeU7WzABpUP5GgUY1h7XbdAMQ8d35DOcrL-iYIiKC5x2G-yWSkodu8OcMjxB1PSSxGGgQoyieSS9TA_z5953HCNzvOnGbCck6OZGeTahp0mTpkaCgkDvTZKriW7lswh5iuoB9On_v3Hhyys6BwMSiK5IL5i8Oq_yGnFlYM6IkhT2pf0J8r4qHw?session=0&fife" height="200" width="auto" /><br><br>Site 1264 SH18 Nth Shore Click here to view Site Card https://billboards.co.nz/1264<br><br><img src="https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v7s9jaudkkfnpbtta9up0ftg4g/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqwgGG6OqSxHCSS5Qzh6E9ZL5iQWw7pJLdb5AFUpyr9XXnWbB9h8Rz8v_yahsxFcuJG8JZU9JULWGvk83n4ruXD2Mj7JpJgS5w1rftGYOlxw0Gbdy6dUDogCxYoH9OkHfmsnkD4UKccA9nPXZ3yv4zYUr_QQeYOu89Zk0K1mJzuPzrr8l-betpucKUbk_XxYRi3trVr9ZGNOBkeMXFsoiwUr5bokbsWLDGRk5nJs-ExBwcYRoglwRaLkc1zSpzTZ5K1WSGS3uVzs0aV78iM7BMpOSs7JA?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rtjf8fjnh022fkbj63fv21hv40/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoF2FEAFeSXfv9hcewBvE8d81Nu74b23ktFsnv_gqpq9roMGbhN3s8gGQrwXtmX56ghKFbHlzxMTYdibcbWwers6VOs2LOAOGEUvgfJKeU7WzABpUP5GgUY1h7XbdAMQ8d35DOcrL-iYIiKC5x2G-yWSkodu8OcMjxB1PSSxGGgQoyieSS9TA_z5953HCNzvOnGbCck6OZGeTahp0mTpkaCgkDvTZKriW7lswh5iuoB9On_v3Hhyys6BwMSiK5IL5i8Oq_yGnFlYM6IkhT2pf0J8r4qHw?session=0&fife https://doc-0g-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v7s9jaudkkfnpbtta9up0ftg4g/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqwgGG6OqSxHCSS5Qzh6E9ZL5iQWw7pJLdb5AFUpyr9XXnWbB9h8Rz8v_yahsxFcuJG8JZU9JULWGvk83n4ruXD2Mj7JpJgS5w1rftGYOlxw0Gbdy6dUDogCxYoH9OkHfmsnkD4UKccA9nPXZ3yv4zYUr_QQeYOu89Zk0K1mJzuPzrr8l-betpucKUbk_XxYRi3trVr9ZGNOBkeMXFsoiwUr5bokbsWLDGRk5nJs-ExBwcYRoglwRaLkc1zSpzTZ5K1WSGS3uVzs0aV78iM7BMpOSs7JA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7059631,-36.7550118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1266 Northern MW Forrest Hill</name>
+        <description><![CDATA[<img src="https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/p0jdar6r4n88c0g4pe7nmbpdho/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrBWw3GXES_QbXKAIjhKUBQkfzxW6SQ2TnLJ99LGdncVg3UstMdyAE6SXn-pl8UVyJWvendbKbEqVfBafFOPDmezm9CeuewDqHO2Ksi66FghKTqXDetnKkllRN-GaskIcLIkH6ddQwBMuWKFFq0PG_OXwVmA5WxfBNg60bK-C0ErFPOXb81j-6A88eodCMd_jDaSgnRExF8Ty-_g3NY5Vr5FqiN1lHvSSPeF_6sfvp3eO6wTwJQGCOHr8x7lWvKSqi1BfzjsKz6tIkCm238iYPqzT-poA?session=0&fife" height="200" width="auto" /><br><br>Site 1266 North Shore click here to view Site Card https://billboards.co.nz/1266]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/p0jdar6r4n88c0g4pe7nmbpdho/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrBWw3GXES_QbXKAIjhKUBQkfzxW6SQ2TnLJ99LGdncVg3UstMdyAE6SXn-pl8UVyJWvendbKbEqVfBafFOPDmezm9CeuewDqHO2Ksi66FghKTqXDetnKkllRN-GaskIcLIkH6ddQwBMuWKFFq0PG_OXwVmA5WxfBNg60bK-C0ErFPOXb81j-6A88eodCMd_jDaSgnRExF8Ty-_g3NY5Vr5FqiN1lHvSSPeF_6sfvp3eO6wTwJQGCOHr8x7lWvKSqi1BfzjsKz6tIkCm238iYPqzT-poA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7465611,-36.7774268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1223 Sth MW Penrose </name>
+        <description><![CDATA[<img src="https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i7hu53u7uj5rcffb9381rbfvj0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrTjzw8tzI4zMJQ2cgNKHh40xMJAjOYM8bdu_T2I2XomX-CVnPo9eMbhiTu6CnE3aLlxZJmwJ213ppzInW1YWvV14uRMOD6BK2Fa4zUuDUbsmkOSgQlQh45e64fEwx2wWUT48vVWa64Ufaf38LIVHB0e0AQCJJPLnLiDirxZbkjW80obOFvmy0CSHaAWGErxosoNIdWs6Bs9CO3oMUY06FPh2Glr2b-s8oQEhreRPWu4NG6bZsztOH5QLDYsVth8MRfaIVjJAydF-h5moaR6uXwNC7leA?session=0&fife" height="200" width="auto" /><br><br>Site 1223 Southern MW Penrose Click here to view Site Card  https://billboards.co.nz/1223]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i7hu53u7uj5rcffb9381rbfvj0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrTjzw8tzI4zMJQ2cgNKHh40xMJAjOYM8bdu_T2I2XomX-CVnPo9eMbhiTu6CnE3aLlxZJmwJ213ppzInW1YWvV14uRMOD6BK2Fa4zUuDUbsmkOSgQlQh45e64fEwx2wWUT48vVWa64Ufaf38LIVHB0e0AQCJJPLnLiDirxZbkjW80obOFvmy0CSHaAWGErxosoNIdWs6Bs9CO3oMUY06FPh2Glr2b-s8oQEhreRPWu4NG6bZsztOH5QLDYsVth8MRfaIVjJAydF-h5moaR6uXwNC7leA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8189942,-36.9069257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1259 Maioro Street Mt Roskill</name>
+        <description><![CDATA[<img src="https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/qvtsv0fdelbj41knboqrdmt3g0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrJWi-UFOdk2tVPd4kO7eYCH8VS_4Sw7esDWbQM016Okkc1AFsxt0dWs_eqpzfe5l_1CNlexBbN_i6iUrSM4-MnYyDazEqi8dEHSYqMblca4_zMgWAgXjFGRlbS7bxUViKEu5XVqYQ0nc9CMRyJSpRQO4fNLZ3FnF0H-wCBC9TjhXbg2zOEd5pQqfHXqStQdMmetD6NWMloG0TozAudZDW1UzIxTjHGADHFLMhFUVZ29oQa7VL5hU3f6-aWcNLSCnYdnvDemB58Q1Hc7FwewucvF6eJuQ?session=0&fife" height="200" width="auto" /><br><br>Site 1259 Click here to view the Site Card<br>https://billboards.co.nz/1259]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/qvtsv0fdelbj41knboqrdmt3g0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALrJWi-UFOdk2tVPd4kO7eYCH8VS_4Sw7esDWbQM016Okkc1AFsxt0dWs_eqpzfe5l_1CNlexBbN_i6iUrSM4-MnYyDazEqi8dEHSYqMblca4_zMgWAgXjFGRlbS7bxUViKEu5XVqYQ0nc9CMRyJSpRQO4fNLZ3FnF0H-wCBC9TjhXbg2zOEd5pQqfHXqStQdMmetD6NWMloG0TozAudZDW1UzIxTjHGADHFLMhFUVZ29oQa7VL5hU3f6-aWcNLSCnYdnvDemB58Q1Hc7FwewucvF6eJuQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7220563,-36.9021364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1268 Northern MW</name>
+        <description><![CDATA[<img src="https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3e8rn1t4no9gqfmm1hhmul04f0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqrvbfGINdZoTCU0UD7x-bZV6Ajd8beLNQJhXZXg7R0TXuwP3T80iao908xDPZOKFWYWd4NomLb5zrBVFPjsYlPmr_YBnZbiI4pdkpf_nLolizDBoyAEOAEiqd_oLOXYXvZX8fuaGr4NWqNadyyeErdcYgNeBMlPxxldJRFXsKvl6Nm_wHpyyIVnbn7yuxzB8GJg1Sp7UGwVYQNRcSFNV4XPrLySteosKCsa8OhXmPvMoITWjYMHzqWBwluE4Pcl5UAk9yiYuDInNxcFBgbdsPqufjMCQ?session=0&fife" height="200" width="auto" /><br><br>Northern MW Click here to view Site Card https://billboards.co.nz/1268]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3e8rn1t4no9gqfmm1hhmul04f0/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALqrvbfGINdZoTCU0UD7x-bZV6Ajd8beLNQJhXZXg7R0TXuwP3T80iao908xDPZOKFWYWd4NomLb5zrBVFPjsYlPmr_YBnZbiI4pdkpf_nLolizDBoyAEOAEiqd_oLOXYXvZX8fuaGr4NWqNadyyeErdcYgNeBMlPxxldJRFXsKvl6Nm_wHpyyIVnbn7yuxzB8GJg1Sp7UGwVYQNRcSFNV4XPrLySteosKCsa8OhXmPvMoITWjYMHzqWBwluE4Pcl5UAk9yiYuDInNxcFBgbdsPqufjMCQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7208465,-36.7445199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1296 Homer Place Constellation Dr</name>
+        <description>Litebox billboard seen travelling south into Auckland. View Site Info at https://billboards.co.nz/1269</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.725574,-36.7485445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1285 SH16 Henderson</name>
+        <description>Large 12x4 billboard catching traffic city bound. View Site card at https://billboards.co.nz/1285</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.6350183,-36.8497874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6339</name>
+        <description><![CDATA[<img src="https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/k7l9n05756jrbj0ockrod739fc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoIc89wIvP5y5ASD5BFSXL-R8Y1OPB9eSuThd7KhO5JrjUnFJDjTeOrLQffXJBoaFgWnDeyicYKI_hjJNPCRLT8cJtRIMDCvjQLUYNVuaQXumwS3Bf_LIdfz1-1Ig4aZXzycyZjUdEvajiSbTaHmQraPF2loYQfrLfo6GYcIqQ4y1IBLZDVAloFJBVgMqIuwNfUDh9u6PSL-pgU7B1g5QHK3TYxnSEjogFgjlW2rJ7WYMA2phAhv9xOFjjweS6-j1bNEbDq7kEnvV4VjhBNfk8lcPqRcw?session=0&fife" height="200" width="auto" /><br><br>Ellerslie HW westbound. To view Site Card click here https://billboards.co.nz/6339]]></description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-bg-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/k7l9n05756jrbj0ockrod739fc/1593486900000/qGmK0-7-8qzJBxwDALJUMwSCW_rLvHPq/*/6AF2TALoIc89wIvP5y5ASD5BFSXL-R8Y1OPB9eSuThd7KhO5JrjUnFJDjTeOrLQffXJBoaFgWnDeyicYKI_hjJNPCRLT8cJtRIMDCvjQLUYNVuaQXumwS3Bf_LIdfz1-1Ig4aZXzycyZjUdEvajiSbTaHmQraPF2loYQfrLfo6GYcIqQ4y1IBLZDVAloFJBVgMqIuwNfUDh9u6PSL-pgU7B1g5QHK3TYxnSEjogFgjlW2rJ7WYMA2phAhv9xOFjjweS6-j1bNEbDq7kEnvV4VjhBNfk8lcPqRcw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8125164,-36.902426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6372 Western MW</name>
+        <description>Viewed westbound on Western MW To view Site Card click here. https://billboards.co.nz/6372</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.6709811,-36.8669676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6336 Digital</name>
+        <description>To view Site Card click here https://billboards.co.nz/6336</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.7871233,-36.9266958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2028 Kingsland </name>
+        <styleUrl>#icon-22-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.7451198,-36.872024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1258 Great South Rd</name>
+        <styleUrl>#icon-22-labelson-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            174.8002555,-36.8948876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1224 </name>
+        <description>1224 Southern MW southbound https://billboards.co.nz/1224</description>
+        <styleUrl>#icon-22-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            174.8154757,-36.9059712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>

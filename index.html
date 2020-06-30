@@ -16,6 +16,9 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhSHcGYySVS9nLEZ1mF73Gv_9z41rNOXs"></script>
     <script src="https://unpkg.com/leaflet-svg-shape-markers@1.0.0/dist/leaflet-svg-shape-markers.min.js"></script>
     <script src="https://unpkg.com/leaflet-providers@1.3.0/leaflet-providers.js"></script>
+    <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
+    <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify.js"></script>
+    <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify-html.js"></script>
     <link rel="stylesheet" href="style.css" />
 </head>
 
@@ -61,6 +64,36 @@
         $.getJSON("data/media5.json", handleJSON);
         $.getJSON("data/gomedia.json", handleJSON);
         $.getJSON("data/lumo.json", handleJSON);
+
+        omnivore.kml('data/Billboards.co.nz.kml', null, L.geoJson(null, {
+            // http://leafletjs.com/reference.html#geojson-style
+            pointToLayer: function (feature, latlng) {
+                console.log(feature, latlng);
+                var marker = L.circleMarker(latlng, { radius: 10, color: "hotpink", pane: "billboards" });
+                marker.addTo(billboards).bindTooltip(feature.properties.name);
+                var popupString = `<b>${feature.properties.name}</b><br>
+                        ${feature.properties.description ? linkifyHtml(feature.properties.description) : "No description"}<br>
+                        <div class='pano'></div>`;
+                marker.bindPopup(popupString, {
+                    maxWidth: "auto"
+                }).on('popupopen', popupHandler);
+                return marker;
+            }
+        }));
+        omnivore.kml('data/Digital Advertising.kml', null, L.geoJSON(null, {
+            pointToLayer: function (feature, latlng) {
+                console.log(feature, latlng);
+                var marker = L.circleMarker(latlng, { radius: 10, color: "hotpink", pane: "billboards" });
+                marker.addTo(billboards).bindTooltip(feature.properties.name);
+                var popupString = `<b>${feature.properties.name}</b><br>
+                        ${feature.properties.description ? linkifyHtml(feature.properties.description) : "No description"}<br>
+                        <div class='pano'></div>`;
+                marker.bindPopup(popupString, {
+                    maxWidth: "auto"
+                }).on('popupopen', popupHandler);
+                return marker;
+            }
+        }));
 
         function popupHandler(popup) {
             console.log(popup);

@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Digital Advertising</name>
+    <description>Current Advertising Availability</description>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Small Retail</name>
+      <Placemark>
+        <name>43 Cook Street, Howick</name>
+        <description><![CDATA[<img src="https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/osh3kv4k6c6pljgggefkrclf5o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALphPVf-fQB75dLJMOPaXZxf2AUdOUzMyqqeySAKJ8SliL3D2bAuOBBwSHuVNERjRSBubWrNDrzqaTCXZE5FuSqeH1bxrOVPIXWUQ0XHn1EnZzS-iZRYex7fBKZv35wpKVDjL_xU-nN4WXsFCuXk3ldIdYAS1z0VZ-gZ478nMdqtZBrPnwEXnXdmJpXqcu9pzjj6AhBOHiZJsJNSjYHGnPyGpCUCZhfdsI_k_vafgoTBJntzXpdt6BA_AsOlITQkeJzi7oRvP4LjDquD-q4vJFNSqkaALw?session=0&fife" height="200" width="auto" /><br><br>Tamariki Dairy - servicing the residents of Howick and Cockle Bay.<br><br>See Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/43-cook-street-howick]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/osh3kv4k6c6pljgggefkrclf5o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALphPVf-fQB75dLJMOPaXZxf2AUdOUzMyqqeySAKJ8SliL3D2bAuOBBwSHuVNERjRSBubWrNDrzqaTCXZE5FuSqeH1bxrOVPIXWUQ0XHn1EnZzS-iZRYex7fBKZv35wpKVDjL_xU-nN4WXsFCuXk3ldIdYAS1z0VZ-gZ478nMdqtZBrPnwEXnXdmJpXqcu9pzjj6AhBOHiZJsJNSjYHGnPyGpCUCZhfdsI_k_vafgoTBJntzXpdt6BA_AsOlITQkeJzi7oRvP4LjDquD-q4vJFNSqkaALw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9332809,-36.8967688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>168 Aviemore Drive, Highland Park</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/bnvl0b8sc31fp85s049lffvu2o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoKO3V3gFrbXl8WgbJH3pQEFfFuxdMnKTPwAuucQMCONCLsPTMUEP8Fk4azpONIDowzIstREMFp4VuzeRvdZWklO1YBA5iv9l0PegbvAAdqasiLXXud0HSOey1pPU-MOgSUEiXCwU6H4vsX5z8dqmkk2siwxgXvqPd7WpOD_YjSMyJubMjHl7iAtizVmAzbrqczXWetUDw8OtJPR2wXc_bBRHqAOXil0p440PjNPzX43_lwNc2aUDs5xoLOffMrqAhpzlKes4cW_korCRHyhWwOG88RsA?session=0&fife" height="200" width="auto" /><br><br>Aviemore Dairy - servicing the residents and local businesses in Highland Park and Botany.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/168-aviemore-drive-highland-park]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/bnvl0b8sc31fp85s049lffvu2o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoKO3V3gFrbXl8WgbJH3pQEFfFuxdMnKTPwAuucQMCONCLsPTMUEP8Fk4azpONIDowzIstREMFp4VuzeRvdZWklO1YBA5iv9l0PegbvAAdqasiLXXud0HSOey1pPU-MOgSUEiXCwU6H4vsX5z8dqmkk2siwxgXvqPd7WpOD_YjSMyJubMjHl7iAtizVmAzbrqczXWetUDw8OtJPR2wXc_bBRHqAOXil0p440PjNPzX43_lwNc2aUDs5xoLOffMrqAhpzlKes4cW_korCRHyhWwOG88RsA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9082173,-36.9120037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>72 Vincent Street, Howick</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3ctfj4o26ns1afkeql9p1ic8jc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALo3ZpQhkNri9Cl1ccPd8xdlp62Z5nECOYksCKcvwzHUyNMXhRy-MWa-WQDc8Pp1w1ghbpJ1bW7-Z2ljX4GdM_ynZ_LLu4Iz2vPWaDXLiyuPNfbP4hZNGmDTNridWB92ThbMtxzVLWsWvD4UOydvPvA9tWIeI-y3JTp-r6FtMJUdCkyKKyUIpvdDOyZ52J6XTQYHiVhw62tD5DFFVSFazBRr6OWLHFTm_h58Jl1gDZ_cxWGKFhj0rl6IOECl7m5wlmbjnK2gNe_JPx-QqkjymI2auTr4DA?session=0&fife" height="200" width="auto" /><br><br>Vincent Street Superette - servicing the residents of Howick, around to Cockle Bay and Somerville including Highland Park.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/72-vincent-street-howick]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3ctfj4o26ns1afkeql9p1ic8jc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALo3ZpQhkNri9Cl1ccPd8xdlp62Z5nECOYksCKcvwzHUyNMXhRy-MWa-WQDc8Pp1w1ghbpJ1bW7-Z2ljX4GdM_ynZ_LLu4Iz2vPWaDXLiyuPNfbP4hZNGmDTNridWB92ThbMtxzVLWsWvD4UOydvPvA9tWIeI-y3JTp-r6FtMJUdCkyKKyUIpvdDOyZ52J6XTQYHiVhw62tD5DFFVSFazBRr6OWLHFTm_h58Jl1gDZ_cxWGKFhj0rl6IOECl7m5wlmbjnK2gNe_JPx-QqkjymI2auTr4DA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9254895,-36.9024089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>128 Millhouse Drive, Somerville</name>
+        <description><![CDATA[<img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3flf1v5gjb7u5psodt5tpfhopk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALov6zz0VcCNg3bnk77X9gFDBJBpumHpD_0bItTNQSCIiCr0mcQ5TYQ_mbeHYMRpzmILt8_xAYj1ZixwPhdOH_99makivdFi1RCYsGn4C6a61cepkaXghGMFhGVYszSMa_-Q86OWQ6yUVqSer5WzfP_6sjuPdKGrv7in3CrNCWNdCvZbkmRvw96X8ZEGo5vitl-nVOej1cV_l_cjke6cR2scTcSvEfTFY09gKFEzazuee7qMqZtsk-RVfuw_Z8FIxBKWq-OmZ7Zr35d5Tv2E9em0o1gjeA?session=0&fife" height="200" width="auto" /><br><br>Sunny Dairy Superette - central to Golflands, Somerville and Shamrock Park.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/128-millhouse-drive-somerville]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/3flf1v5gjb7u5psodt5tpfhopk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALov6zz0VcCNg3bnk77X9gFDBJBpumHpD_0bItTNQSCIiCr0mcQ5TYQ_mbeHYMRpzmILt8_xAYj1ZixwPhdOH_99makivdFi1RCYsGn4C6a61cepkaXghGMFhGVYszSMa_-Q86OWQ6yUVqSer5WzfP_6sjuPdKGrv7in3CrNCWNdCvZbkmRvw96X8ZEGo5vitl-nVOej1cV_l_cjke6cR2scTcSvEfTFY09gKFEzazuee7qMqZtsk-RVfuw_Z8FIxBKWq-OmZ7Zr35d5Tv2E9em0o1gjeA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.918014,-36.9190888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>116 Botany Road, Botany</name>
+        <description><![CDATA[<img src="https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/50ovq3a4urnpqc5ci2md258vgo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqRU5HjXghsZCXDSQ5lw13O0TFUkvX3OuDA-BMpeh4wwdqezm50kswQ4rIPS13TJ8uw2WypgYJhONLbeJ0C-cSRqONttxU18FhkloCcX_lECyY_VT5IuG0VcwC3BuAuBsSNPBy8VF9DzcWy5fMuMqmAB_tv6EASF2Yzr0xJn4fIfAGjloxICLKW9uoY3d7AvzuuQKBqRkl1GSrAlG03iHlyNqSKyXih1DVy8LTh3TAdyw2i6xnQNlNggRHt22pp0GquD2QEQR3xLG-DFcrkvTZKu5TfqQ?session=0&fife" height="200" width="auto" /><br><br>Mirrabooka Superette & Lotto - selling lotto tickets to people on Union, Botany, Cascades and Millhouse.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/116-botany-road-botany]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/50ovq3a4urnpqc5ci2md258vgo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqRU5HjXghsZCXDSQ5lw13O0TFUkvX3OuDA-BMpeh4wwdqezm50kswQ4rIPS13TJ8uw2WypgYJhONLbeJ0C-cSRqONttxU18FhkloCcX_lECyY_VT5IuG0VcwC3BuAuBsSNPBy8VF9DzcWy5fMuMqmAB_tv6EASF2Yzr0xJn4fIfAGjloxICLKW9uoY3d7AvzuuQKBqRkl1GSrAlG03iHlyNqSKyXih1DVy8LTh3TAdyw2i6xnQNlNggRHt22pp0GquD2QEQR3xLG-DFcrkvTZKu5TfqQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9175664,-36.9099103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10 Clonbern Road</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/t8bef6qhmp7m9eqv5cej4ahe4s/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpCkemPpf6cSwmoXN2pd_7oFpHyotd7uB_PqsfA5xTszfgL4xJ1AwYzj0pGkvymS08FT0quoQkFKXJZRwNRlKH3jWd43u9yiGKtACDtkd_kUuFQkZVuJyfn-x6boMh05KZSSe0XJz7E3rcJA0scqvLSbbT8RJcnAh-wsLpYIffUXSdLR7Oh4Sau5R7A8VPWYpqLRZE3F-LqglFJcEEcvADSyTbr5ysGo8PvmOOwVgwUNhL4_xlgiMc67PnA8qhHHg7I_bCpGusX4sqRkgZ2uUGRkxfUyw?session=0&fife" height="200" width="auto" /><br><br>Remuera New World - servicing the residents of Remuera.                                                                              <br>                                                                                    A joint venture sponsorship between New World and Digital Advertising supporting the fantastic work the Remuera Rotary does (https://rotaryremuera.club/). 100% of your advertising spend here goes to further the work by the Rotary in the community.                                                                                                                                                                   <br>This is a high definition 75” television screen right in the middle of all the checkouts meaning you have a captive audience while they are waiting to pay. Being so large it can be seen from the end of isles as people are shopping too.                                                                                                                                                                                     To view Rate Card:   https://www.digitalbillboardadvertising.co.nz/book/auckland/10-clonbern-rd-remuera-auckland/<br><br><img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/af2omaaf6891onrtj422a77p0g/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp31FMJCSlVEuXNQDg_le0Hk0fygX-9jk2AU-g7h4fIrYd1EQZWQqTlacOFr7FpZrKFU8if7MzaYRUMjmECxjk7ogeCCRAb8iEp40UGI1NvkuS8KwWkhRkDQb9bcEISKvE3bL47dod7snZ_yA3aBO1SmsNN2sSwXWioe9xQorA1fWadK0Xsxq1fXY_clQxfKqn2EUwccJd3a44UjpP8Mj_U3bS26Wz2038D3DaBQ8CKC8_6NnytSIaFdqZ6BbkzQ0_rwxj1P3RXnZsZI1PL-D1Wcu37mA?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/t8bef6qhmp7m9eqv5cej4ahe4s/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpCkemPpf6cSwmoXN2pd_7oFpHyotd7uB_PqsfA5xTszfgL4xJ1AwYzj0pGkvymS08FT0quoQkFKXJZRwNRlKH3jWd43u9yiGKtACDtkd_kUuFQkZVuJyfn-x6boMh05KZSSe0XJz7E3rcJA0scqvLSbbT8RJcnAh-wsLpYIffUXSdLR7Oh4Sau5R7A8VPWYpqLRZE3F-LqglFJcEEcvADSyTbr5ysGo8PvmOOwVgwUNhL4_xlgiMc67PnA8qhHHg7I_bCpGusX4sqRkgZ2uUGRkxfUyw?session=0&fife https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/af2omaaf6891onrtj422a77p0g/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp31FMJCSlVEuXNQDg_le0Hk0fygX-9jk2AU-g7h4fIrYd1EQZWQqTlacOFr7FpZrKFU8if7MzaYRUMjmECxjk7ogeCCRAb8iEp40UGI1NvkuS8KwWkhRkDQb9bcEISKvE3bL47dod7snZ_yA3aBO1SmsNN2sSwXWioe9xQorA1fWadK0Xsxq1fXY_clQxfKqn2EUwccJd3a44UjpP8Mj_U3bS26Wz2038D3DaBQ8CKC8_6NnytSIaFdqZ6BbkzQ0_rwxj1P3RXnZsZI1PL-D1Wcu37mA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7976545,-36.8819007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Community</name>
+      <Placemark>
+        <name>1 Highbrook Drive, East Tamaki</name>
+        <description><![CDATA[<img src="https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jpp53cfj876ntd52djirfj6j90/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpwKnpCFn9hH7OcV0_wSGYqx2zfz6QC1JRqM8EoTk5L__Y7h1cKgsoLWvvWw4GEFAbnuJT7pmIze08TmqxxaVY7bsyYFl6lmJRbYtEfMlulcourAOnpkW-YLfTFtkVrXEXMd3Kqpm7ZCHKlLwkHl8TMsgHojzvLfivFdfsBPx5BIyMKabidtzMWDnqAUe0P8v1A1aU5pgeng_jr0HrOHTxeahLlJP-YGB-d_CV29G5_mE_gXwmO2z8Hh1hL_fatR-mBPm3McRjRmrbqZYs5kT63Oc4CMA?session=0&fife" height="200" width="auto" /><br><br>The extremely busy Highbrook Drive as a main feed from the motorway into Botany. A 2m Community Notice Board before the intersection to Cryers Road and visible for 500m in each directions.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/1-highbrook-drive-east-tamaki]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jpp53cfj876ntd52djirfj6j90/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpwKnpCFn9hH7OcV0_wSGYqx2zfz6QC1JRqM8EoTk5L__Y7h1cKgsoLWvvWw4GEFAbnuJT7pmIze08TmqxxaVY7bsyYFl6lmJRbYtEfMlulcourAOnpkW-YLfTFtkVrXEXMd3Kqpm7ZCHKlLwkHl8TMsgHojzvLfivFdfsBPx5BIyMKabidtzMWDnqAUe0P8v1A1aU5pgeng_jr0HrOHTxeahLlJP-YGB-d_CV29G5_mE_gXwmO2z8Hh1hL_fatR-mBPm3McRjRmrbqZYs5kT63Oc4CMA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8840632,-36.9376927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>176 Bairds Road, Otara</name>
+        <description><![CDATA[<img src="https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/h4fprs17nrnm0kfvi0q9ehksnc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpIFMFOfqI4A6Tcg8zAt0ccels3oSsUVymQ2VYnJgv6EMuMAcr0lAehsFlS2Le_jc8XQPQwyS4MKa25eVWh0SKRcwUoBGD5HyfDgdtqxNWFY_i859C_P-C_cdvWcdtcIwGOhjA8d_eWjldjnH-H_BYndrY8ioSETmmvEe66Kta5l6DUZtJOLi64VzbDfSJUCPJmAt7O1kVg-XlsQLDz0U0kybnwcubVUIlS9JNx_gH7TF4GwpjWkFUIFhXSmDwe3lMt7hyIQgd-dx0toduSdZGaZClzQA?session=0&fife" height="200" width="auto" /><br><br>Otara Business Association Community Notice Board servicing all local businesses and customers.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/176-bairds-road-otara]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/h4fprs17nrnm0kfvi0q9ehksnc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpIFMFOfqI4A6Tcg8zAt0ccels3oSsUVymQ2VYnJgv6EMuMAcr0lAehsFlS2Le_jc8XQPQwyS4MKa25eVWh0SKRcwUoBGD5HyfDgdtqxNWFY_i859C_P-C_cdvWcdtcIwGOhjA8d_eWjldjnH-H_BYndrY8ioSETmmvEe66Kta5l6DUZtJOLi64VzbDfSJUCPJmAt7O1kVg-XlsQLDz0U0kybnwcubVUIlS9JNx_gH7TF4GwpjWkFUIFhXSmDwe3lMt7hyIQgd-dx0toduSdZGaZClzQA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8751409,-36.9617163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>79 St George Street, Papatoetoe</name>
+        <description><![CDATA[<img src="https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jegna8i3dn941vj9j31jgge7c8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoYh77b9EDDphH99QfO8XBwwVdR430l0chJvUppxPWLc9pYd8PQdIEq-Ec-nHDMekXFCx1hgucz1LuBm6MXURk3__md0AFYPqXRRWgCOlk4MZh3auD63IQT4gdRwRqMHX4m_wQYM2G8icLmeuYa650VYTMgMPugxo8OCWlTxW2J9Lv-Bk5BO73PSEHe6g0V-GiJfEVbFiJzTCCO_Rt25IS50Amw13mGPEUGeK8k2zP6uezFe4enxXRAj4vt62rZH1gkvXi0wDWbdWM2w6Mo64ohI1KY3Q?session=0&fife" height="200" width="auto" /><br><br>Papatoetoe Business Association Community Notice Board - capturing all traffic coming out of Kolmar Road as well as St George Street from the busy Shirley Road and rail ends.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/79-st-george-street-papatoetoe]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jegna8i3dn941vj9j31jgge7c8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoYh77b9EDDphH99QfO8XBwwVdR430l0chJvUppxPWLc9pYd8PQdIEq-Ec-nHDMekXFCx1hgucz1LuBm6MXURk3__md0AFYPqXRRWgCOlk4MZh3auD63IQT4gdRwRqMHX4m_wQYM2G8icLmeuYa650VYTMgMPugxo8OCWlTxW2J9Lv-Bk5BO73PSEHe6g0V-GiJfEVbFiJzTCCO_Rt25IS50Amw13mGPEUGeK8k2zP6uezFe4enxXRAj4vt62rZH1gkvXi0wDWbdWM2w6Mo64ohI1KY3Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8543764,-36.9796659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>121 Great South Road, Manurewa</name>
+        <description><![CDATA[<img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/904h3b6r1sebjabqh225nsj368/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrE50sIag3Ut__BXHh10Hx8w0VOVRVs-yGK4C5LagaNboUn8NLMIfKFUc5BWr_xSKcSC_OXk3viUAyrM54G7QSxUMpKgeXu6A1yH2wKKcbcyL_Q4SCpgIA8JG0ptrxF6859GpRoLNQP2YZ2OgTBxcVrZ9tpxqAOpOAV58eKsZsu3J_vDa52QmcC9qlaohKs2OxOKRLjt4MO4VGUbSL3vvsMQey8kAZ8s24-6w8gmXvlnt9O4MtMVOJ7TKynwA_Iz-css8menbP3ZIVdoRmYl1kwDYKGSA?session=0&fife" height="200" width="auto" /><br><br>A great site right in the middle of Manurewa capturing all traffic avoiding the traffic and going from Manukau to Takanini plus all the residents from The Gardens and surrounding areas. This is very much a 24/7 site with strong traffic flows all through the night.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/121-great-south-road-manurewa]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/904h3b6r1sebjabqh225nsj368/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrE50sIag3Ut__BXHh10Hx8w0VOVRVs-yGK4C5LagaNboUn8NLMIfKFUc5BWr_xSKcSC_OXk3viUAyrM54G7QSxUMpKgeXu6A1yH2wKKcbcyL_Q4SCpgIA8JG0ptrxF6859GpRoLNQP2YZ2OgTBxcVrZ9tpxqAOpOAV58eKsZsu3J_vDa52QmcC9qlaohKs2OxOKRLjt4MO4VGUbSL3vvsMQey8kAZ8s24-6w8gmXvlnt9O4MtMVOJ7TKynwA_Iz-css8menbP3ZIVdoRmYl1kwDYKGSA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8932091,-37.0184282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>30 Springs Road, East Tamaki</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ookrkhee6a3jfh1fkmh1kvep28/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowD89vpg-lacH8RNfwJeRLnuSynOgxpzplXk2HGKQqDUQmBn72iw8THqsvr3G8Wmei6LYSwkj89EeBhO-DKES7lFu6Pkscua69fplz5hq04Y2VvTbk1cd_nFwhPmiA6cQPaiHEt7rjYOCpG27pOxxTTvimwSQ5F_58wWVzJlNW15-Cdv9T6K0Eo_p8LqCCEgZ_IzQCHvoyn6BhZdW87GEV0FgK92nIO9VYvwFTve6Lu8xZHnZA1rqd8M7YNjQHmNRVtWaCZuWwIuVvw05DQe9N7waZ9g?session=0&fife" height="200" width="auto" /><br><br>A double-sided screen capturing the exceptionally heavy traffic travelling both ways on Springs Road. Elevated so visible from a good distance. You cannot go past this display without getting hit with the message on it. Springs is a main arterial route continuing on to Harris and carries traffic flows from Howick, Botany and Whitford.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/30-springs-road-east-tamaki]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ookrkhee6a3jfh1fkmh1kvep28/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowD89vpg-lacH8RNfwJeRLnuSynOgxpzplXk2HGKQqDUQmBn72iw8THqsvr3G8Wmei6LYSwkj89EeBhO-DKES7lFu6Pkscua69fplz5hq04Y2VvTbk1cd_nFwhPmiA6cQPaiHEt7rjYOCpG27pOxxTTvimwSQ5F_58wWVzJlNW15-Cdv9T6K0Eo_p8LqCCEgZ_IzQCHvoyn6BhZdW87GEV0FgK92nIO9VYvwFTve6Lu8xZHnZA1rqd8M7YNjQHmNRVtWaCZuWwIuVvw05DQe9N7waZ9g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8916495,-36.9500528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19 Paerata Road, Pukekohe</name>
+        <description><![CDATA[<img src="https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/csbrohvrrbidhe1ie2glev3v80/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrAw_RXKSlTXiukgPUPubTVz8tb2YyhG4hoGv9S44ISM0ZG2G1ENWTzqIZGzsAL_oBgelpzaJUgats5mldxnEH2M3jVBzqdHa9UGP2DRwDjIj1dTKP7P3aY-tNCB0Qluzg1bJaDZCGJ6IvuuSRlSuRAJ7mnoI56h-C-yv4PTwBCw2pzjHZz1MKOf4LHtXCQYqSL8s0dzrg3Dw2g_dQREGuVC4KRsMGMR_t7cFUTRoZSGmH5Zbg2e2AK9Ki6LEbzwINUbUlo4l0CDkILpkk0wo0MstgBYg?session=0&fife" height="200" width="auto" /><br><br>Paerata is a main road from Drury into Pukekohe and is known by the locals to be quicker than staying on the motorway. Excellent advance visibility day and nights<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/19-paerata-road-pukekohe]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/csbrohvrrbidhe1ie2glev3v80/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrAw_RXKSlTXiukgPUPubTVz8tb2YyhG4hoGv9S44ISM0ZG2G1ENWTzqIZGzsAL_oBgelpzaJUgats5mldxnEH2M3jVBzqdHa9UGP2DRwDjIj1dTKP7P3aY-tNCB0Qluzg1bJaDZCGJ6IvuuSRlSuRAJ7mnoI56h-C-yv4PTwBCw2pzjHZz1MKOf4LHtXCQYqSL8s0dzrg3Dw2g_dQREGuVC4KRsMGMR_t7cFUTRoZSGmH5Zbg2e2AK9Ki6LEbzwINUbUlo4l0CDkILpkk0wo0MstgBYg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9028169,-37.1896157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Premium</name>
+      <Placemark>
+        <name>3053 Great North Road, New Lynn</name>
+        <description><![CDATA[<img src="https://doc-00-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v03q5l4vknsgldb28ggbeav5ug/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqB009Ir7J2FPfhthMt9nN1-oYphfaXO7kcq8lqtXgJninpoTC76xN7fTx_oNyFIwtzAHgpnlYPuVOTxBFxjPTRF9_NRU000AutWeMjCn4wLBeJEAzYWYNEaFnjyN7UOVbL_a1Rm3Mwp2MjvfTX7shy0taXo3cG4nZv3rfaqFLxFVXvn1Kxygj3InBfcuvA8cTZ9AKCLPMVYbgGWM4N_Ndbhr5vFxKM8ESsfeGkBj7naWed64h5QGGSJNQeGYMbluNX5DIu3nurdQOym5vjebHQSPtEcA?session=0&fife" height="200" width="auto" /><br><br>Tall building in the central New Lynn long straight shopping strip (including a screen to service the Bus Terminus).<br><br>See Rate Card for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/3053-great-north-road-new-lynn/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-00-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/v03q5l4vknsgldb28ggbeav5ug/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqB009Ir7J2FPfhthMt9nN1-oYphfaXO7kcq8lqtXgJninpoTC76xN7fTx_oNyFIwtzAHgpnlYPuVOTxBFxjPTRF9_NRU000AutWeMjCn4wLBeJEAzYWYNEaFnjyN7UOVbL_a1Rm3Mwp2MjvfTX7shy0taXo3cG4nZv3rfaqFLxFVXvn1Kxygj3InBfcuvA8cTZ9AKCLPMVYbgGWM4N_Ndbhr5vFxKM8ESsfeGkBj7naWed64h5QGGSJNQeGYMbluNX5DIu3nurdQOym5vjebHQSPtEcA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.6828909,-36.9075568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>122 Karangahape Road, Auckland</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/qjdigshb0rd08mu16fmceo9avg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqtuwmxSBIHYkewKKdW459ugZLvDdZfDd9jQ_WHPf0A0ZraXpYTatGxiIAyaV2Hx7k11SVp6nivaHnBFTfbRgBbMXihrDbd8RD9KATBdN3Xy4nUj1yuJGneqJxOeT5A5j1iDMFjMo1xAcZDFrGRgLLtFtJICYePFAxessfolzMmnjUmL0RmNSaj1sBhPR5t1jNpR9GoYKZgcJdX2ZMJ9RCgu2VxsryIr4JgxbQ2PgVZnBCVxaUo_2hzkgp1i04ZPeoI5n7_nxWxfyAdj1Z3pOnTxbJDlA?session=0&fife" height="200" width="auto" /><br><br>The prominent ANZ building on the corner of Queen Street also servicing traffic coming into town off the motorway.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/122-karangahape-road-auckland-city]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/qjdigshb0rd08mu16fmceo9avg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqtuwmxSBIHYkewKKdW459ugZLvDdZfDd9jQ_WHPf0A0ZraXpYTatGxiIAyaV2Hx7k11SVp6nivaHnBFTfbRgBbMXihrDbd8RD9KATBdN3Xy4nUj1yuJGneqJxOeT5A5j1iDMFjMo1xAcZDFrGRgLLtFtJICYePFAxessfolzMmnjUmL0RmNSaj1sBhPR5t1jNpR9GoYKZgcJdX2ZMJ9RCgu2VxsryIr4JgxbQ2PgVZnBCVxaUo_2hzkgp1i04ZPeoI5n7_nxWxfyAdj1Z3pOnTxbJDlA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7616834,-36.8601331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>272 Great South Road, Takanini</name>
+        <description><![CDATA[<img src="https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kvfog5un8c5isgj9somvfjer8g/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrHXsFd3125pGMRjAaCK23f14_p5WVHp1msiyOGHabfK7zK9NRFDW_4TQ09y-KSff-E3i-SDxq772saKvInqEBxlJblEh9iLedjktSiyNM7i6Qk_vSE9QYH7DGG5Cu5Y50yKJueTosN_ylK0HGlkjBYFEoXEtGYtiZW-noq2EyqJ8H9kg5YiBAo5d73vUv6SI3N1z5v0rp5hCX3exX1F7cHlphBSe9mVsxFSbX3rwhaxgNesUN2MpLa3dWlqKX7omghbqJUF0vebyCMrmpGaVFyuAV2-A?session=0&fife" height="200" width="auto" /><br><br>Central on the "Pak 'n Save Strip' on the South side of Takanini feeding into Papakura.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/272-great-south-road-takanini]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/kvfog5un8c5isgj9somvfjer8g/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrHXsFd3125pGMRjAaCK23f14_p5WVHp1msiyOGHabfK7zK9NRFDW_4TQ09y-KSff-E3i-SDxq772saKvInqEBxlJblEh9iLedjktSiyNM7i6Qk_vSE9QYH7DGG5Cu5Y50yKJueTosN_ylK0HGlkjBYFEoXEtGYtiZW-noq2EyqJ8H9kg5YiBAo5d73vUv6SI3N1z5v0rp5hCX3exX1F7cHlphBSe9mVsxFSbX3rwhaxgNesUN2MpLa3dWlqKX7omghbqJUF0vebyCMrmpGaVFyuAV2-A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.931371,-37.0519108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108 Great South Road, Takanini</name>
+        <description><![CDATA[<img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/25tg1jmd2446qrhporo30edo5k/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowOdv9_Upy8ttEacd9AwJ1XFsiRHwveBHDedTsADW2w51G1EzhpsYyeOcG4uFcdLTzsXXZ_nFD3QqM2Obo2yCy5R64RWeV9cD4uc6sTU1GLFyfSHDpbQExFu6jEuRVORjiDY4s6p14B_UskNq3UAWpnMdFLIwFcvpB2kPsiqaHd1rM-HXZy5xXqKObtocPAisVmQCwuz1x94WbUc57Pjlls6CU1YXbmGP6ySWS7esi9yNFUa7aHgpv5TyIsXtMl_UYP33wlyedvJyDoZs_xYo3E_UfBw?session=0&fife" height="200" width="auto" /><br><br>Right next to BP on the Northern strip entering Takanini and capturing all traffic going onto and from the motorway.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/383-great-north-rd-grey-lynn/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/25tg1jmd2446qrhporo30edo5k/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowOdv9_Upy8ttEacd9AwJ1XFsiRHwveBHDedTsADW2w51G1EzhpsYyeOcG4uFcdLTzsXXZ_nFD3QqM2Obo2yCy5R64RWeV9cD4uc6sTU1GLFyfSHDpbQExFu6jEuRVORjiDY4s6p14B_UskNq3UAWpnMdFLIwFcvpB2kPsiqaHd1rM-HXZy5xXqKObtocPAisVmQCwuz1x94WbUc57Pjlls6CU1YXbmGP6ySWS7esi9yNFUa7aHgpv5TyIsXtMl_UYP33wlyedvJyDoZs_xYo3E_UfBw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9148348,-37.0395903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>194 Cavendish Drive, Manukau</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f21m4di3m2u1pn2spdfsulc954/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALorlUXyZNi-OuLl5luS6UCgHZQL0NswkhYKMFnqMHbdWS8CUG_e6pWywAcWrKTHfYAoHV9J8qlFRkiwjiV9V07l-HNFzqEvrMi0u-8LAQ-6jNVVwhjHlX2AqK9mzc7haG9KZ0U31mdorqoNUyoiCGM-CLb8uunI51DwEiEVBGrRq8_AoHqvyhzWhLIJHmTBIioyyv8BcUw26NgFOE5hmaioSqxfWcuEyjTw7GOF5-GzzYJ-HM7Jv5j-Z1NdNjEPX-snt2AiF2jHp30HFuStFnevEJi9QA?session=0&fife" height="200" width="auto" /><br><br>Right next to McDonalds capturing all traffic going from the motorway and airport through Manukau and back out again.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/194-cavendish-drive-manukau/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f21m4di3m2u1pn2spdfsulc954/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALorlUXyZNi-OuLl5luS6UCgHZQL0NswkhYKMFnqMHbdWS8CUG_e6pWywAcWrKTHfYAoHV9J8qlFRkiwjiV9V07l-HNFzqEvrMi0u-8LAQ-6jNVVwhjHlX2AqK9mzc7haG9KZ0U31mdorqoNUyoiCGM-CLb8uunI51DwEiEVBGrRq8_AoHqvyhzWhLIJHmTBIioyyv8BcUw26NgFOE5hmaioSqxfWcuEyjTw7GOF5-GzzYJ-HM7Jv5j-Z1NdNjEPX-snt2AiF2jHp30HFuStFnevEJi9QA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.861156,-36.9930313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>28 Hyderabad Road, Napier</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/opdug6l0gukvbl7b9j7geqkbf0/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoa7qQkeCZzCOcFKcha4kcBFPI5s0aZDFmY9_4qlOndQEgD4H5AOCt3_oU93B4y4ePjSz2cXvLfmjJ73qGwKFt_DptTnPr9kyhmdWgkZkDhS0SHm1tt3e4s7RwrvPNLDE0zEuQ-xfom3kxaTvbQi3F1MBOn2-MiKPgYhhNoz8qdhTAsLMvlaEXqXcY1yoFLBUAJ3NLc1sKGC2sKbtywoQdbQBH1Tf_8JsXxEwczdB6fVh8sOHHqVSxi4oY9YxrfeKCF9Po5nAU-pUYDAhWR5QKlObvNTA?session=0&fife" height="200" width="auto" /><br><br>All 3 retail streets in Napier feed into this roundabout before going to the Wharf and State Highway 2 (and 2B)<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/28-hyderabad-road-napier/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/opdug6l0gukvbl7b9j7geqkbf0/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoa7qQkeCZzCOcFKcha4kcBFPI5s0aZDFmY9_4qlOndQEgD4H5AOCt3_oU93B4y4ePjSz2cXvLfmjJ73qGwKFt_DptTnPr9kyhmdWgkZkDhS0SHm1tt3e4s7RwrvPNLDE0zEuQ-xfom3kxaTvbQi3F1MBOn2-MiKPgYhhNoz8qdhTAsLMvlaEXqXcY1yoFLBUAJ3NLc1sKGC2sKbtywoQdbQBH1Tf_8JsXxEwczdB6fVh8sOHHqVSxi4oY9YxrfeKCF9Po5nAU-pUYDAhWR5QKlObvNTA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            176.8944064,-39.4947672,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>60 Broadway Road, Kaikohe</name>
+        <description><![CDATA[<img src="https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0lbm2tun4bcvo29ekq71ekpcao/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqN-K2QaafCQvx9J0GrhpCUWPqhzg6oGNNCMU8V2eEsqGqPXfceOZtWIHveVFF4p8x_s3NZ7BmVWnrepkVyBOVapb3tdEAlh3S05UBPOcd5tKtDDIZj_AispHUdgT3Oiuk0SZCR9Lu52p3CW-DiN5uyNfRgc3hoq6cWlK6jYtU455oIJ_lHfQ8CgTJoT_s45swfVs4GL3jsIi9_pLUeBa-KzYBU_-a2Mj8mbvyHetIW2CMjahrm0DRtSgqBpByUXtCXOt63ViQ4S0UjFwUP1asg1xepeQ?session=0&fife" height="200" width="auto" /><br><br>On the busy and central intersection of State Highways 12 and 15. All traffic passing through Kaikohe will be exposed to these 3 large digital billboards. <br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/60-broadway-road-kaikohe]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/0lbm2tun4bcvo29ekq71ekpcao/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqN-K2QaafCQvx9J0GrhpCUWPqhzg6oGNNCMU8V2eEsqGqPXfceOZtWIHveVFF4p8x_s3NZ7BmVWnrepkVyBOVapb3tdEAlh3S05UBPOcd5tKtDDIZj_AispHUdgT3Oiuk0SZCR9Lu52p3CW-DiN5uyNfRgc3hoq6cWlK6jYtU455oIJ_lHfQ8CgTJoT_s45swfVs4GL3jsIi9_pLUeBa-KzYBU_-a2Mj8mbvyHetIW2CMjahrm0DRtSgqBpByUXtCXOt63ViQ4S0UjFwUP1asg1xepeQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            173.8030807,-35.405832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>604 Devon St East, New Plymouth</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/60spl41bvbl943q199q95perpo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqKsppfJHA2Rc3mvBwgZ-ef1-9XuKAUKGT6amRWzOaLU3SXjs5DIUA54izKQcMch2DUA975c8quV1JMhbrLyGXfToVK1cr5qbHB-TxLxLHJrCTohJ53suNlxA6etRO6JerSjOJjPdcID6qE32EmNWvtso9tedmMtk3RVFVw1GNvp5txAQty6tAXrEi2haI-5aZgirN1gC_Re6uakNwQeWIx205p-QuRKvCzPu4KP53SqrC42f8MqAszWb-XhulKgOIeBGfbzSN7gGXyg89MxajCy47_Xg?session=0&fife" height="200" width="auto" /><br><br>A significant site on the north side of New Plymouth capturing all traffic coming south on SH3 into New Plymouth and South Taranaki. If you are serious about growing your business or brand then you need to be on this site!<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/604-devon-st-east-new-plymouth]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/60spl41bvbl943q199q95perpo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqKsppfJHA2Rc3mvBwgZ-ef1-9XuKAUKGT6amRWzOaLU3SXjs5DIUA54izKQcMch2DUA975c8quV1JMhbrLyGXfToVK1cr5qbHB-TxLxLHJrCTohJ53suNlxA6etRO6JerSjOJjPdcID6qE32EmNWvtso9tedmMtk3RVFVw1GNvp5txAQty6tAXrEi2haI-5aZgirN1gC_Re6uakNwQeWIx205p-QuRKvCzPu4KP53SqrC42f8MqAszWb-XhulKgOIeBGfbzSN7gGXyg89MxajCy47_Xg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.1047851,-39.0509066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>733 Great South Road, Otahuhu</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1pqj59489p1i872g8sb8l1env8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALruZI40FBDLVe2WlrIocWDGBkI2ZFxLI0b7NqOZzUsFN8MZ2ppTIbenHEFc0ceNj6Sz2fJpvWF8s2kcCnNd0kEuH0CVy-RlYJoOaET1l4aIDm6dxxgy15WdTBrQqdEXgrviHRzg2P49cFHj0b-ReNmAyXgrwyJ5rQQlPtAbcuP9vZVwPBiCyrNw9oTzfiMNbymtpVAaZeobGhgpc2daqBkHeFKNMPwD7fiyVhqjpgi-hob114wMC2MfXve8msKH6PgxNSF33ZNEAZEWTIdPFC10obm6BA?session=0&fife" height="200" width="auto" /><br><br>A busy arterial route as substitute to the motorway and joining Otahuhu with Papatoe and Manukau. On the intersection of Bairds Road and DB Breweries, and at the end of a significant strip of used car sales yards.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/733-great-south-road-otahuhu/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/1pqj59489p1i872g8sb8l1env8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALruZI40FBDLVe2WlrIocWDGBkI2ZFxLI0b7NqOZzUsFN8MZ2ppTIbenHEFc0ceNj6Sz2fJpvWF8s2kcCnNd0kEuH0CVy-RlYJoOaET1l4aIDm6dxxgy15WdTBrQqdEXgrviHRzg2P49cFHj0b-ReNmAyXgrwyJ5rQQlPtAbcuP9vZVwPBiCyrNw9oTzfiMNbymtpVAaZeobGhgpc2daqBkHeFKNMPwD7fiyVhqjpgi-hob114wMC2MfXve8msKH6PgxNSF33ZNEAZEWTIdPFC10obm6BA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8487372,-36.955328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>25 Princes Street, Otahuhu</name>
+        <description><![CDATA[<img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/d5u40rh5uv7u2amaj49bte9bso/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrX4RhCA13jul6e7TXALr12-Or6_Qa25HEGWQRFSmZPFB3_u5Ko8-zFghcu4yECBZagvlsItY9OzHk9B8GPaYSghy1cWUAz22mvfMgHnU9iW1pRWnH0SqNGZSUPCuhHQcogeZx7tSDTdbPfqxJ57XvXVjIvgnpRwBoQUHf3x6shBwfDXpJvTytQUFIjyo3uvLxRQ4EILOzEiQ9Y7Zs5EBv-Id4vJ5rzj03lfoam1cxHFk9L47PvYM411NqhjXCFqAMbzFFudcoxOtyN_J0w5tXP8vsN1A?session=0&fife" height="200" width="auto" /><br><br>Princes Street is widely regarded as an arterial feed from the motorway across to Mt Wellington and Onehunga. This site is on the West end of the residential area with long distance visibility from both directions.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/25-princes-street-otahuhu/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/d5u40rh5uv7u2amaj49bte9bso/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrX4RhCA13jul6e7TXALr12-Or6_Qa25HEGWQRFSmZPFB3_u5Ko8-zFghcu4yECBZagvlsItY9OzHk9B8GPaYSghy1cWUAz22mvfMgHnU9iW1pRWnH0SqNGZSUPCuhHQcogeZx7tSDTdbPfqxJ57XvXVjIvgnpRwBoQUHf3x6shBwfDXpJvTytQUFIjyo3uvLxRQ4EILOzEiQ9Y7Zs5EBv-Id4vJ5rzj03lfoam1cxHFk9L47PvYM411NqhjXCFqAMbzFFudcoxOtyN_J0w5tXP8vsN1A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8444534,-36.9407627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>262 Blockhouse Bay Road, Blockhouse Bay</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/je45puacv6tn578q35mekgu464/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowlJc5JQUAaHLWpnAMDAxLaW0hT1jmxRUj5YIVnyDaukg2OZiABVm5XEwuQpXzUJ81pLwWxEduV8TGF9MRCxOGzwpT3BD2E9-tPgUrDDdiVgVVLAorfUb6lneAaNYHoZ13Y8nQdyITgENYG3J7I-WViwk5rpVPyaZwQk7GWLqKA4z_47caur5tFWv7bsoo6hOgHcf8mibU95Ud1QUpLKhyBsmnjEwoN1xy86W_dGFh-UaK3SIyz5t0wDgZq9HLezuPUIskttvZ-IhXFMm3hIaWldKhIg?session=0&fife" height="200" width="auto" /><br><br>Now that the small roundabout has gone and the lanes have been widened Tiverton has become the preferred route from the motorway into New Lynn, Blockhouse Bay and even across to Henderson. This site has 4 6x3m large digital billboards capturing all traffic North and Southbound on Blockhouse Bay Road itself, but also everything going from Tiverton to Wolverton and back.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/262-blockhouse-bay-road-blockhouse-bay/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/je45puacv6tn578q35mekgu464/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowlJc5JQUAaHLWpnAMDAxLaW0hT1jmxRUj5YIVnyDaukg2OZiABVm5XEwuQpXzUJ81pLwWxEduV8TGF9MRCxOGzwpT3BD2E9-tPgUrDDdiVgVVLAorfUb6lneAaNYHoZ13Y8nQdyITgENYG3J7I-WViwk5rpVPyaZwQk7GWLqKA4z_47caur5tFWv7bsoo6hOgHcf8mibU95Ud1QUpLKhyBsmnjEwoN1xy86W_dGFh-UaK3SIyz5t0wDgZq9HLezuPUIskttvZ-IhXFMm3hIaWldKhIg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.701911,-36.906237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>127 Green Lane East, Greenlane</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jl2fir8bfs8rllveo0hmufemb4/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowxTAPdXa5jzVCOeN0LBN4O_rUC7lFeKXvvS_hFz1COTW3VTw6zfbyYZ6m9QFuuwgWnRxiUo4ZiQxJv8R6agi3Nrn1_ss3tvGEpmi0Vr63Q1LKXzbVmYDn7S-376OELzfqu8eAoGkMh7FCdXOegqGqdrxboIOh9S_s6dUNXvpw4RTuugEzvmj7JpBNo7AkzCJ8JGtDX_HnDcor8Sv14f0FPY1L7MSUvqA63peKsUbeaBfc8CLLfP8Iz6InTj36caCSAQV8JUa5gpW-FBRlRROrVR3vaA?session=0&fife" height="200" width="auto" /><br><br>Highly visible to all traffic coming off the motorway and heading over to Epsom as well as everything coming from the ASB Showgrounds and going either North or Southbound on the motorway. Definitely to be regarded as a cornerstone "must have" site for serious Auckland advertisers.<br><br>To see Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/127-green-lane-east-greenlane/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/jl2fir8bfs8rllveo0hmufemb4/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALowxTAPdXa5jzVCOeN0LBN4O_rUC7lFeKXvvS_hFz1COTW3VTw6zfbyYZ6m9QFuuwgWnRxiUo4ZiQxJv8R6agi3Nrn1_ss3tvGEpmi0Vr63Q1LKXzbVmYDn7S-376OELzfqu8eAoGkMh7FCdXOegqGqdrxboIOh9S_s6dUNXvpw4RTuugEzvmj7JpBNo7AkzCJ8JGtDX_HnDcor8Sv14f0FPY1L7MSUvqA63peKsUbeaBfc8CLLfP8Iz6InTj36caCSAQV8JUa5gpW-FBRlRROrVR3vaA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.79585,-36.889153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 Elliot Street, Papakura</name>
+        <description><![CDATA[<img src="https://doc-10-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/98u9qslc49ke1tbn4juc66p9fg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALox2QqDufBej7CzqX9y_TkVZP8Y2miwxDxDD9wrPc7vfr2e9lws6X8-CuIT14oeUq1KJCa3jLU8MFTYGeSruOw4cz3o8DJaaokrXhl-o3Xe3VxH4ND0_6NZqQtgrAwSzLY1EC3TjZv7Qr2jRfqdAKe1ywUj_ORZ1RqdFgYE63MU-atUL8Vg-aSdgj20jMfU1R-wCjrUg1oYQRAOmqUzGoVDgWrqOKV-NDNfum27FBUHXnAHoPnilYekznywTqm9afYuEidLeA2_iUNC6_NRqnXc8eJf7w?session=0&fife" height="200" width="auto" /><br><br>Central to the secondary traffic flow to and from the motorway using Beach, Elliott and East Street. You really not enter, exit or pass through Papakura without passing this site. Combine your advertising with our Drury to Takanini sites and really become known in the region south of Manurewa.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/21-elliot-street-papakura/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/98u9qslc49ke1tbn4juc66p9fg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALox2QqDufBej7CzqX9y_TkVZP8Y2miwxDxDD9wrPc7vfr2e9lws6X8-CuIT14oeUq1KJCa3jLU8MFTYGeSruOw4cz3o8DJaaokrXhl-o3Xe3VxH4ND0_6NZqQtgrAwSzLY1EC3TjZv7Qr2jRfqdAKe1ywUj_ORZ1RqdFgYE63MU-atUL8Vg-aSdgj20jMfU1R-wCjrUg1oYQRAOmqUzGoVDgWrqOKV-NDNfum27FBUHXnAHoPnilYekznywTqm9afYuEidLeA2_iUNC6_NRqnXc8eJf7w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.940545,-37.0629746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>280 Great South Road, Drury</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rb1228jl4at30ek8kp6fg3bmvk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpFPxdy5zyeK-27bG1iVyWsEHTi5yG8qYVzcOVhTGAKk0ZOPzn2rpnyyGzVRsYh3_gswIQ1K19rEtb1n6q8TZL3UIC2OGYoPi8VKPLGtbolvHHZlKvlbb4aCKGlzf3mpuoOrI7vZC-goEK-cBBE182TMursN7l1puiSiVTymZPxBOdFiZlBncrvIQO7qh0m2pgDEndFPROzc--VNG2yVz588kJu9bVyFMwVwZd44CB2uhDi879HH_dmX8DTlRBQFgRnILNCQh9OI_m4ovH5Xa1hyQqRHQ?session=0&fife" height="200" width="auto" /><br><br>The start of all serious advertising in Auckland. Capture the increasing flow of traffic from Hamilton and Pokeno as Great South Road becomes the accepted secondary arterial route into Auckland. Combine this site with our Papakura, Takanini, Manurewa and Manukau sites and become extremely well known before your prospective customer even gets into Auckland.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/280-great-south-road-drury/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rb1228jl4at30ek8kp6fg3bmvk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpFPxdy5zyeK-27bG1iVyWsEHTi5yG8qYVzcOVhTGAKk0ZOPzn2rpnyyGzVRsYh3_gswIQ1K19rEtb1n6q8TZL3UIC2OGYoPi8VKPLGtbolvHHZlKvlbb4aCKGlzf3mpuoOrI7vZC-goEK-cBBE182TMursN7l1puiSiVTymZPxBOdFiZlBncrvIQO7qh0m2pgDEndFPROzc--VNG2yVz588kJu9bVyFMwVwZd44CB2uhDi879HH_dmX8DTlRBQFgRnILNCQh9OI_m4ovH5Xa1hyQqRHQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.9500111,-37.106018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>724 Great South Road, Manukau</name>
+        <description><![CDATA[<img src="https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ogckjarbhr7qgsltvfred9q348/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrTn85CJoDrseiP5UKv70w0Z5_MJzHBe4_4n3oWTz4dxwVPGl139WvaTdetVuZQsrbKOG8yyl1o1FwnJx5OKBwy9hdQ2Gjc_vN92mxihfwaJKrvIAQXlmFApgM9-AIsSpLq7ZYdbPnZBR3W3_sSbktxFd1s2fPzcWjZ_oo4ydR49_n_LSYDDOrjTA4Nwntygl4n6LAr10IVZbQx957fXueZRoyeteMXVjjPZhdnafck_N9hFhSSS89RkLEob-e7TWc_aGRCS-3tR1_U_TTCzZJxcbKKRw?session=0&fife" height="200" width="auto" /><br><br>Another site of significance in the Auckland region with all traffic going onto the motorway (and off), near on 24/7 traffic flows 7 days per week with a mix of blue and white collar workers, shoppers and generally nearly everyone you can think of wanting your product. <br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/724-great-south-road-manukau/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ogckjarbhr7qgsltvfred9q348/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrTn85CJoDrseiP5UKv70w0Z5_MJzHBe4_4n3oWTz4dxwVPGl139WvaTdetVuZQsrbKOG8yyl1o1FwnJx5OKBwy9hdQ2Gjc_vN92mxihfwaJKrvIAQXlmFApgM9-AIsSpLq7ZYdbPnZBR3W3_sSbktxFd1s2fPzcWjZ_oo4ydR49_n_LSYDDOrjTA4Nwntygl4n6LAr10IVZbQx957fXueZRoyeteMXVjjPZhdnafck_N9hFhSSS89RkLEob-e7TWc_aGRCS-3tR1_U_TTCzZJxcbKKRw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.885631,-36.9923469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>161 Neilson Street, Onehunga</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/gleook5btcfl6560cnkl5nnjhg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALovzWy_4TvfOmhLEgrBFa_pyq4Zkr4fnsKuMZ8P86E-rUtZ89BuCZ4IxJW5i8F-sC7Ly0bbi4X-yLORPVkBl8awqn4QLNRMMiwOb7zmTp78PrLSq42FN0M-8_Tl1sBe1LalAwY4PGPWVyjDfTy1oiRc8KpWaqDx0XUIuxXCMJkDYoD5BSUliNvfRlWyUXrEvKjn989nvzszel6tSoiXE2l8uuOkSFUUrxagFNwoQDpyRxN2J1TRT_iMo7b6YA5TnwNYZNXqgsAOXoX1bs1OWNfqrR0kyw?session=0&fife" height="200" width="auto" /><br><br>An extremely busy feed road from Hillsborough, the Airport and Mt Wellington. This site captures all traffic in both directions 24/7. A strong industrial area directly next to Auckland's Inland Port and rail head for Tauranga.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/161-neilson-street-onehunga/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/gleook5btcfl6560cnkl5nnjhg/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALovzWy_4TvfOmhLEgrBFa_pyq4Zkr4fnsKuMZ8P86E-rUtZ89BuCZ4IxJW5i8F-sC7Ly0bbi4X-yLORPVkBl8awqn4QLNRMMiwOb7zmTp78PrLSq42FN0M-8_Tl1sBe1LalAwY4PGPWVyjDfTy1oiRc8KpWaqDx0XUIuxXCMJkDYoD5BSUliNvfRlWyUXrEvKjn989nvzszel6tSoiXE2l8uuOkSFUUrxagFNwoQDpyRxN2J1TRT_iMo7b6YA5TnwNYZNXqgsAOXoX1bs1OWNfqrR0kyw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7937028,-36.9266141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17 Whitmore Street, Wellington</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/517fibhakbdlhclbt33797o1b8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoc8N8KhwR7GOVeChBvHf7-kPEea-5btCRSCXGN7pkMAHPbtj8ONaHc6WOvl1vVneodyhOmN-OsY9PRmegU7aEFWYYk1vOgwgEkW4LXgqxHsrs4piU_NyzU8oVhtQk0MERWlbselFwQSBOsJAZd_VayyD2bA3eLvSecr2QpGCfLS279Fmv9026sezksUEd4ecVx_S4pFSkA-CKWw1a68ROzKSuo9bQ2QpoSWtipPbR5gLMp95gDiOI6eaOgaVjPozYALNwa0jlLcr9GQf5l12Zbn97Lmw?session=0&fife" height="200" width="auto" /><br><br>Prime CBD space with a large elevated digital billboard facing right into the Beehive! Clearly visible to our MPs (what do you want to say to them?) and all traffic coming down Bowen and off Lambton Quay.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/17-whitmore-street-wellington]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/517fibhakbdlhclbt33797o1b8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoc8N8KhwR7GOVeChBvHf7-kPEea-5btCRSCXGN7pkMAHPbtj8ONaHc6WOvl1vVneodyhOmN-OsY9PRmegU7aEFWYYk1vOgwgEkW4LXgqxHsrs4piU_NyzU8oVhtQk0MERWlbselFwQSBOsJAZd_VayyD2bA3eLvSecr2QpGCfLS279Fmv9026sezksUEd4ecVx_S4pFSkA-CKWw1a68ROzKSuo9bQ2QpoSWtipPbR5gLMp95gDiOI6eaOgaVjPozYALNwa0jlLcr9GQf5l12Zbn97Lmw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.778019,-41.2807233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>33 Ohaupo Road, Hamilton</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fde7ttpmrfhmghob2jqg5hlkjs/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoXNCtqYX6ZvaSFYSqxtCym6fDz0t-B-AdiZTWOXEWOCEitsjqcBT_dP8sUDyYa-s1LbNCOBnkqP_O-kXSAENG2t730Ew9-xd1s08IvjxF9ZQtn9j46CUe8UhTncZyZF5OMiOAYXjLHWSVVhCdLSJizRyV9xrBGsfKrCRWyHqjFzOGd_Ukwmru5Q-NEs259sCDPU0g7PQ25A69YwiItXXw0kQ4O19XrL3Nxyfj333R5g1WhQMCAaIOHksIMlw2_j6ZdB_d3_7W9uzlh5XSMhtKRuniI_w?session=0&fife" height="200" width="auto" /><br><br>As a rule everything that goes in must come out - nearly all of the traffic coming into the north end of Hamilton drives past this site on its way out. A main arterial route (SH1) to the south, but also on the intersection to Te Awamutu, Te Kuiti and Tauramanui (SH3). This is very much a key CBD site in Hamilton and in conjunction with our Lorne Street site should not be misseds<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/33-ohaupo-road-hamilton]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fde7ttpmrfhmghob2jqg5hlkjs/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoXNCtqYX6ZvaSFYSqxtCym6fDz0t-B-AdiZTWOXEWOCEitsjqcBT_dP8sUDyYa-s1LbNCOBnkqP_O-kXSAENG2t730Ew9-xd1s08IvjxF9ZQtn9j46CUe8UhTncZyZF5OMiOAYXjLHWSVVhCdLSJizRyV9xrBGsfKrCRWyHqjFzOGd_Ukwmru5Q-NEs259sCDPU0g7PQ25A69YwiItXXw0kQ4O19XrL3Nxyfj333R5g1WhQMCAaIOHksIMlw2_j6ZdB_d3_7W9uzlh5XSMhtKRuniI_w?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            175.2807164,-37.8085319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4 Domain Road, Panmure</name>
+        <description><![CDATA[<img src="https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a8ivd5n0sc465o8l87otb1ucvk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpeJYfb82-cc_dc9Uc207QifaoOh-cQh6rqWRqhUzu9e4VnR9i6EnjWZTr5bjZw1aemECqpM8S0Sq-U7UE431kWndd62wQB3C4LV3oPWjkkRXAMsuz05tkQp2vxW_U2WpoRAom7oliGC1EmyUcd2KjrTzdme-dkn3ZMPd8tcko6yu4HaFgOxYb9nul05yPkVmEAVljOLzYWNDdI347JqRXNfx5t6y4d7QVhvIavdp1k_-gFcMqVtfwnoV7WpnrnGQM_7x_EKUzXcFKWiybK8LOFVFwb5A?session=0&fife" height="200" width="auto" /><br><br>This site has had a billboard on for a very long time at the southern Panmure Roundabout so the locals are used to it being there and seeing the message that appears each day. Converting it to digital allows you to now be part of the messages that are displayed to the very large traffic volumes each day (including weekends) from only $1.00 + GST.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/4-domain-road-panmure/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0g-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a8ivd5n0sc465o8l87otb1ucvk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpeJYfb82-cc_dc9Uc207QifaoOh-cQh6rqWRqhUzu9e4VnR9i6EnjWZTr5bjZw1aemECqpM8S0Sq-U7UE431kWndd62wQB3C4LV3oPWjkkRXAMsuz05tkQp2vxW_U2WpoRAom7oliGC1EmyUcd2KjrTzdme-dkn3ZMPd8tcko6yu4HaFgOxYb9nul05yPkVmEAVljOLzYWNDdI347JqRXNfx5t6y4d7QVhvIavdp1k_-gFcMqVtfwnoV7WpnrnGQM_7x_EKUzXcFKWiybK8LOFVFwb5A?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.856619,-36.90164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>108 Park Road, Grafton</name>
+        <description><![CDATA[<img src="https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fuah78j03rncecdvai6kplsmdk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoy4PsP78CPEgf4mnO7kv6pOuqv4qLS4xyQtDca-13uwd9odzH8MwC1UJcQF-xgxB4Fq8GBdcSx-PSLdyo3mEetTHLtQe3xqzpXBwvR1rnrEmY8uGK7ooOizM9kMPdwdOG_Komn6h4fG0DhBitAOrZLz9T1COhvuUPSeabf_ZxFvIAxla43dzDRRas9pWzXbUXyPW_xIiDotVNwCfBhbpXMG8kZoJOO6xREnxkPmbD5L7Zb0pS6Jq7vGTaRSVn-x8Zyn_z2KdK8oEpfBiXJH7y2VN56rA?session=0&fife" height="200" width="auto" /><br><br>This large 6x3m digital display is on the main arterial feed road from the motorway and Khyber Pass through to the Auckland Hospital. Excellent approach visibility (all the way back to Mountain Road) make sure you book your space now!<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/108-park-road-grafton/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0o-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/fuah78j03rncecdvai6kplsmdk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoy4PsP78CPEgf4mnO7kv6pOuqv4qLS4xyQtDca-13uwd9odzH8MwC1UJcQF-xgxB4Fq8GBdcSx-PSLdyo3mEetTHLtQe3xqzpXBwvR1rnrEmY8uGK7ooOizM9kMPdwdOG_Komn6h4fG0DhBitAOrZLz9T1COhvuUPSeabf_ZxFvIAxla43dzDRRas9pWzXbUXyPW_xIiDotVNwCfBhbpXMG8kZoJOO6xREnxkPmbD5L7Zb0pS6Jq7vGTaRSVn-x8Zyn_z2KdK8oEpfBiXJH7y2VN56rA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7710023,-36.8651044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>155 Main South Road, Sockburn</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/hd8f71fd1q031jp1ecvjlt49qc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALr3ophORkdLw9XmuuHDbecCFtdTqeQ_-3t31lJLJiVQuet1MbKaljgHOj4sSVrLU1yoTDoUQ-9KYJWlf9l6NmllW7IhaKq_rIbHTjknrQoldVRuLHNP0WPMnG70h9hGWhvIkSDq9Lm83j41Vad1R80I5esvIdU4bINsFSJ3NTWXqtFkfj-elydnfyjdTMwD8eIL_ubmCMJymYWghBTxm_EjDNd8q75bHGll8ZStMAM05GNDSqmgH16MnqRyF_D5SPYMSVkfw9Uskp4jNxRhmwf6KxPctA?session=0&fife" height="200" width="auto" /><br><br>A significant sign on the major intersection of Blenheim Road. Capturing all traffic coming from Hornby/Wigram over to Upper Riccarton and into Blenheim Road – not a site you want to miss out on!<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/155-main-south-road-sockburn]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/hd8f71fd1q031jp1ecvjlt49qc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALr3ophORkdLw9XmuuHDbecCFtdTqeQ_-3t31lJLJiVQuet1MbKaljgHOj4sSVrLU1yoTDoUQ-9KYJWlf9l6NmllW7IhaKq_rIbHTjknrQoldVRuLHNP0WPMnG70h9hGWhvIkSDq9Lm83j41Vad1R80I5esvIdU4bINsFSJ3NTWXqtFkfj-elydnfyjdTMwD8eIL_ubmCMJymYWghBTxm_EjDNd8q75bHGll8ZStMAM05GNDSqmgH16MnqRyF_D5SPYMSVkfw9Uskp4jNxRhmwf6KxPctA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            172.5547718,-43.5387459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>383 Great North Rd, Grey Lynn</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ro051roa192on0m19vnpjtj99o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp7TM4Z4_3T-fuYXsZ9-1c_ZtrIYym1pNqVmrTJrk5Hyc9XHRJdXlifR8Dax65DgYS7NscqLlPv5volnXL5iDIctdrthE3umeA3Vnnt0vVIDjcWAuO_uk8iSsipEodmXyxF-jbkjTMQ6hMcfqRgHpvaSif66iHWvCoDKTNPCoDMKLvvfDz8f9PncWHv2T2B5N09c-V4ikDX1t6VF9406SGeFbVsqjkfKNb-j-mDCI3f2EJqUV_0zRVxxs9sHPtH5sq4jGvfDbttGubrgKbTfFDQnawUTw?session=0&fife" height="200" width="auto" /><br><br>Double-sided 6x3m on busy arterial route to/from Western Springs and Ponsonby.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/auckland/383-great-north-road-grey-lynn]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/ro051roa192on0m19vnpjtj99o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp7TM4Z4_3T-fuYXsZ9-1c_ZtrIYym1pNqVmrTJrk5Hyc9XHRJdXlifR8Dax65DgYS7NscqLlPv5volnXL5iDIctdrthE3umeA3Vnnt0vVIDjcWAuO_uk8iSsipEodmXyxF-jbkjTMQ6hMcfqRgHpvaSif66iHWvCoDKTNPCoDMKLvvfDz8f9PncWHv2T2B5N09c-V4ikDX1t6VF9406SGeFbVsqjkfKNb-j-mDCI3f2EJqUV_0zRVxxs9sHPtH5sq4jGvfDbttGubrgKbTfFDQnawUTw?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7415776,-36.8660776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15 Link Drive, Wairau Valley</name>
+        <description><![CDATA[<img src="https://doc-10-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/j440hnikv33vk4o0sdh5fjg91c/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpFrWUBV-C7YPsL33QICGIievt42tQapF5HhnCMlBkeh8AVtPYCBnaF-z3FxXabXbKTh6I35etvlpodV-YObX1YQcp5jXJ2uFOWjLz79Xqqwwbak2JAEvz_Gv0zUgFCRlpglmIawCZ-b6w9v5z3UAhdwrPpZ7MZgqC2Is8yhESq5yhDbiEaz_SuZI1OSWF2Tf5LwlQEBJKpBbDrmvgpMhLkIKdY1u9uhO-c3HmvSBc2zQ0csX2ECMwZFjyJaxd-m-Oy2lIasq2qywPEMZoH5cVyJCw9Kg?session=0&fife" height="200" width="auto" /><br><br>Link Drive is a very busy arterial route from Sunnynook to Tristram Avenue and back. Traffic in March 2018 was 13,054 per day but it is the quality that stands out for this site. The area has a strong presence of quality retail and suppliers making it very much a destination location. Your advertisement will be placed on a double-sided 6m x 3.2m landscape vibrant digital billboard making it fully visible to all traffic in both directions.<br><br>To see Rate Card & Video for this site: https://www.digitalbillboardadvertising.co.nz/book/auckland/15-link-drive-wairau<br><br><img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9pq0jq3b5miqcvo9i5e0pmmklk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqCLiBL2uY3CwyOcbRr6Yek9Y2o1V5gHSQJHzPz3fmTBTLvCEEwxb6V6W3x3Ar8W0yyqxw27tPNmcEG0WCxdkB96eqMp9knD1Y0WMaQ4ncugrZbJBxVpllPHhRcIFKYleQzaH73c0Aw7ecwQ4CYpqQdyXkJX__Sgbm-s_UpqjrSZcWSIzmm-rjXePIA3ZvCWr3HdrADUagyDDTmTV_bT778wi4XQbChSgarzPfTTfeRhshndCkgbZeFMaUkpXRllELAGeZzYElGQZj6mqysHVHZIl500g?session=0&fife" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-10-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/j440hnikv33vk4o0sdh5fjg91c/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpFrWUBV-C7YPsL33QICGIievt42tQapF5HhnCMlBkeh8AVtPYCBnaF-z3FxXabXbKTh6I35etvlpodV-YObX1YQcp5jXJ2uFOWjLz79Xqqwwbak2JAEvz_Gv0zUgFCRlpglmIawCZ-b6w9v5z3UAhdwrPpZ7MZgqC2Is8yhESq5yhDbiEaz_SuZI1OSWF2Tf5LwlQEBJKpBbDrmvgpMhLkIKdY1u9uhO-c3HmvSBc2zQ0csX2ECMwZFjyJaxd-m-Oy2lIasq2qywPEMZoH5cVyJCw9Kg?session=0&fife https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/9pq0jq3b5miqcvo9i5e0pmmklk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqCLiBL2uY3CwyOcbRr6Yek9Y2o1V5gHSQJHzPz3fmTBTLvCEEwxb6V6W3x3Ar8W0yyqxw27tPNmcEG0WCxdkB96eqMp9knD1Y0WMaQ4ncugrZbJBxVpllPHhRcIFKYleQzaH73c0Aw7ecwQ4CYpqQdyXkJX__Sgbm-s_UpqjrSZcWSIzmm-rjXePIA3ZvCWr3HdrADUagyDDTmTV_bT778wi4XQbChSgarzPfTTfeRhshndCkgbZeFMaUkpXRllELAGeZzYElGQZj6mqysHVHZIl500g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.7381793,-36.765158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1119 Amohau Street, Rotovegas</name>
+        <description><![CDATA[<img src="https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a4fkutbk5370vikmdof4surttk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpVCjjwTJwJx0KRQeKcxNm7Et8uz1P59WMhijkTAy_4DA_-DN5N9Lz3nirrsdgDe-6SRRvHSGClRiarAuN8VS3K4NdY6pUgKih9EVYI2SlAEsdR9ZcFIJLNYeuq_FXCTGJwnjLQ9iqW5KbrbFFaJsutDmJPFNBWS42VJQ-YPHwNZv_vNH8_OlPOTjYZYbhxjmotBjQoPlSCWYXAW3R3ttBtgBEQW2Hg4ywbrGwwmarC0WBzg5V7OcIQpiuB2YLCNR-bWn2dZ5ENvAR1iYPiUsxT-ti1Yg?session=0&fife" height="200" width="auto" /><br><br>Rotorua's most visible intersection capturing everything both directions on Fenton Street as well as everything both directions Amohau Street. Visible to McDonalds, Pak 'n Save and much more.<br><br>See Rate Card & Video for this site<br>https://www.digitalbillboardadvertising.co.nz/book/1119-amohau-street-rotorua/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0c-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/a4fkutbk5370vikmdof4surttk/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALpVCjjwTJwJx0KRQeKcxNm7Et8uz1P59WMhijkTAy_4DA_-DN5N9Lz3nirrsdgDe-6SRRvHSGClRiarAuN8VS3K4NdY6pUgKih9EVYI2SlAEsdR9ZcFIJLNYeuq_FXCTGJwnjLQ9iqW5KbrbFFaJsutDmJPFNBWS42VJQ-YPHwNZv_vNH8_OlPOTjYZYbhxjmotBjQoPlSCWYXAW3R3ttBtgBEQW2Hg4ywbrGwwmarC0WBzg5V7OcIQpiuB2YLCNR-bWn2dZ5ENvAR1iYPiUsxT-ti1Yg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            176.2530684,-38.1396993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>38 Broadway, Newmarket</name>
+        <description><![CDATA[<img src="https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/eolsf6qsmam241519ee18fqtos/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp3SNkg4QxrQgHXhBiiCf1JhELctO-Tbeca1Gw0yJYC3pt1RrU9kB8XVcfxR_mVmkyLygttA7wECJkd885HSDnD4ETjuFnEIAqaIKtWrQJvHyHGZeKbHctr3WUtgh2cxrWcf6xDVDAgUZrnle-DA9NQymikEZQZp5K4_8hCvzXtxdEHZMFzWKdnDTC9X2OGYe_7Ty_laU38QJCs9EwXstA3KWw_01HhoiLq-HtXLuqDoCb5hcQZ_w3FhzYbCrXGJucOZoG_h0f4Lsyrlh0Z37GlJ5SJAA?session=0&fife" height="200" width="auto" /><br><br>A premium site right in the middle of Parnell and Broadway. Situated on the Carlton Gore roundabout this site has 3 large 2m x 4m portrait billboards making a strong impact on any vehicle or pedestrian coming past. Top quality demographics and a massive 29,164 daily vehicle count.                                                                                                            See Rate Card & Video for this site:   https://www.digitalbillboardadvertising.co.nz/book/auckland/38-broadway-newmarket]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/eolsf6qsmam241519ee18fqtos/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALp3SNkg4QxrQgHXhBiiCf1JhELctO-Tbeca1Gw0yJYC3pt1RrU9kB8XVcfxR_mVmkyLygttA7wECJkd885HSDnD4ETjuFnEIAqaIKtWrQJvHyHGZeKbHctr3WUtgh2cxrWcf6xDVDAgUZrnle-DA9NQymikEZQZp5K4_8hCvzXtxdEHZMFzWKdnDTC9X2OGYe_7Ty_laU38QJCs9EwXstA3KWw_01HhoiLq-HtXLuqDoCb5hcQZ_w3FhzYbCrXGJucOZoG_h0f4Lsyrlh0Z37GlJ5SJAA?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.779216,-36.8648909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>129 Great South Road</name>
+        <description><![CDATA[<img src="https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/93b5jl151ro21j8svsar0f8eb8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqW7X-ePZl38n1Z4pj9HFoJFjq5zqzK567zb3gxSFS9yYes9qh95s1RtYb3GDiNrNzgvgdwL1VyOvSF3nwcgnHPZu0p7ME_TJbSVVsn8DpV6qPZSgw_aVqovG3DdueVN27T3FN-dxWifW3nU7t09QXs5eR9hIACrFeFXAxII8Tlp4W1x6J-rwE-QTa20_nTOaKpB8czYHZr7cP_XS99x7hp1dCF8JH_u6I9BJ435zyUoj1TMbTRFtUvA7zBQv8BAbVqq3JdChjGUuUK8apM0hQ8-NZmGQ?session=0&fife" height="200" width="auto" /><br><br>9m x 3.2m and 2 @ 4.5m(w) x 1.6m(h)<br>(Note: All prices are to appear on BOTH sides of these screens at once).  The Delmare building is located in the centre of Great South and East Tamaki Road intersection. This site has a massive 9m(w) x 3.2m(h) hi-brite digital billboard facing all the way down East Tamaki Road to the Auckland motorway. you will not be able to drive anywhere on this road without being exposed to this prominent advertising.                                                                                                                                                                                                                 This site also has 2 @ 4.5m(w) x 1.6m(w) digital billboards facing left and right so no matter what direction you drive on Great South Road, (including coming from Middlemore Hospital via Shirley Road) you are going to see these screens.                                                                                                                                                                                     To view rate card:    https://www.digitalbillboardadvertising.co.nz/book/auckland/129-great-south-road-paoatoetoe/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-04-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/93b5jl151ro21j8svsar0f8eb8/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALqW7X-ePZl38n1Z4pj9HFoJFjq5zqzK567zb3gxSFS9yYes9qh95s1RtYb3GDiNrNzgvgdwL1VyOvSF3nwcgnHPZu0p7ME_TJbSVVsn8DpV6qPZSgw_aVqovG3DdueVN27T3FN-dxWifW3nU7t09QXs5eR9hIACrFeFXAxII8Tlp4W1x6J-rwE-QTa20_nTOaKpB8czYHZr7cP_XS99x7hp1dCF8JH_u6I9BJ435zyUoj1TMbTRFtUvA7zBQv8BAbVqq3JdChjGUuUK8apM0hQ8-NZmGQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8595118,-36.9688038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1135 Arawa Street, Rotorua</name>
+        <description><![CDATA[<img src="https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f1c3ri84840iflbobu5nu0fdgo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrC_gQngikmQuT8xxFNbapzWVCyRaYTvdCYIT5bRRVlwtc8yb9xsBY2yLClF84Jj9JprDo4v5mo_b9wvCseeBtafZ9B2jrPOhlxSv4_EW30xFhczrIgTYUi9yR-aBOIUIDWoInDGf3nYf3RpQuvIZFB8LF7HZM6qU-lJavzJnfIDk_ytazMksqNXNm1zc4bWt5Yb_1r-DWuRjY7vg1QIRTwHohysstxto15u68qhlmsx7fUeZ1xRtPjyWOexq630lPcvddgU0iHUQwt7I9CdAklkMDz2g?session=0&fife" height="200" width="auto" /><br><br>The tallest building right in the middle of the CBD, and close to the waterfront, in Destination Rotorua. Advertise on these TWO 6m(w) x 17m(h) FULL MOTION digital billboards from only $1/ad for BOTH screens.                                                                                                                                                                To View Rate card, please click here: https://www.digitalbillboardadvertising.co.nz/book/1135-arawa-street-rotorua/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0s-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/f1c3ri84840iflbobu5nu0fdgo/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrC_gQngikmQuT8xxFNbapzWVCyRaYTvdCYIT5bRRVlwtc8yb9xsBY2yLClF84Jj9JprDo4v5mo_b9wvCseeBtafZ9B2jrPOhlxSv4_EW30xFhczrIgTYUi9yR-aBOIUIDWoInDGf3nYf3RpQuvIZFB8LF7HZM6qU-lJavzJnfIDk_ytazMksqNXNm1zc4bWt5Yb_1r-DWuRjY7vg1QIRTwHohysstxto15u68qhlmsx7fUeZ1xRtPjyWOexq630lPcvddgU0iHUQwt7I9CdAklkMDz2g?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            176.2527112,-38.1345254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7 Sims Road</name>
+        <description>Pakuranga Highway AND Mt Wellington onramp hitting everything that comes into this area, 2 large 4.5m(w) x 9m(h) high resolution screens.                                                                                                                 To View Rate Card:                                             https://www.digitalbillboardadvertising.co.nz/book/auckland/7-sims-road-penrose/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.8249978,-36.9155419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>89 Gavin Street</name>
+        <description><![CDATA[<img src="https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rf7m3rutl0lp7v5d2uap59r64o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrRK8Yeo-ucB44oed19SO6W5LHR4sdKjJNJswITIIvlx5COFuZ-gBIao48___pVeAvBfb6yiAD0_ybQRtCNc576SdjXxBp8F_4sapdMjCn34bwcW9F6zywCPl7hiAdJN0CbMdUbH2jgX5BmveSzRU6H2QFH3GEERgPUMFMBzosNVbDJfH7mahjO8WoGQJVN8KCk-p8BqfVhro1K0eg5mAqDPMIpBYs7a8wjkSeQPEmU7zQDHzRD-FKgtMVLy135H9zasFGJsE31TfRld__WChTp96-W1Q?session=0&fife" height="200" width="auto" /><br><br>New Zealand’s first prominent 100kmph Auckland motorway digital billboard situated in central Ellerslie. Clearly visible to all lanes of traffic as they approach you simply cannot drive on this motorway without being exposed to these magnificent billboards.                                                                                                                                To View Rate Card:      https://www.digitalbillboardadvertising.co.nz/book/auckland/89-gavin-street-ellerslie/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-08-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/rf7m3rutl0lp7v5d2uap59r64o/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALrRK8Yeo-ucB44oed19SO6W5LHR4sdKjJNJswITIIvlx5COFuZ-gBIao48___pVeAvBfb6yiAD0_ybQRtCNc576SdjXxBp8F_4sapdMjCn34bwcW9F6zywCPl7hiAdJN0CbMdUbH2jgX5BmveSzRU6H2QFH3GEERgPUMFMBzosNVbDJfH7mahjO8WoGQJVN8KCk-p8BqfVhro1K0eg5mAqDPMIpBYs7a8wjkSeQPEmU7zQDHzRD-FKgtMVLy135H9zasFGJsE31TfRld__WChTp96-W1Q?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            174.8184644,-36.9053763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8 Pitt Street, Auckland CBD</name>
+        <description>Prominent central city site at the top of Hobson Street (feeding the motorway) in Auckland and highly visible to all traffic on the south west corner of the CBD.                                                                                                                                                                                                                  See Rate Card  for this site:                                                                                                https://www.digitalbillboardadvertising.co.nz/book/auckland/8-pitt-street-auckland-cbd/</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            174.7587276,-36.854201,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>65 Victoria Street, Christchurch Central City</name>
+        <description><![CDATA[<img src="https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i0a3rksg5llfds7jkabk7lq5sc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoWaFhI2puOaX61HQfzDnhcVH3gR7i0tUl1B4XCYO9hEqTax-x3oyUL8IhnEPZljngfhkuglUlewD9HMJZUsRQgYcoy_1AodKQrC9jXNYHq3_TUOqPqzSCkBWq_RuPrReR4bhc1jGl1c2yTnyTFXbW9MrnJmhsnwf8cR0iPnV6QpqqSV8zduRq6hyB7LM01irRc5seKbbCGH471CRoCOfMyC6Rcy24YQJ9c_7oMqCn4SRSwabDrPKXyYKYtYOVFvtFt0yNY90RpXXrS8XuXjiNLxpirDQ?session=0&fife" height="200" width="auto" /><br><br>Site situated 65 Victoria St. Christchurch, opposite the Christchurch Casino in the entertainment precinct leading into CBD from affluent suburbs.                                                                                                                                           To view Video and Rate Card for this site:                     https://www.digitalbillboardadvertising.co.nz/book/65-victoria-street-christchurch-central-city/]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-0k-50-mymaps.googleusercontent.com/untrusted/hostedimage/67ht0gn364521qiheeia79564g/i0a3rksg5llfds7jkabk7lq5sc/1593486900000/0DOoPWxN8nH4VRxtFWe-AR27-HDB-csO/*/6AF2TALoWaFhI2puOaX61HQfzDnhcVH3gR7i0tUl1B4XCYO9hEqTax-x3oyUL8IhnEPZljngfhkuglUlewD9HMJZUsRQgYcoy_1AodKQrC9jXNYHq3_TUOqPqzSCkBWq_RuPrReR4bhc1jGl1c2yTnyTFXbW9MrnJmhsnwf8cR0iPnV6QpqqSV8zduRq6hyB7LM01irRc5seKbbCGH471CRoCOfMyC6Rcy24YQJ9c_7oMqCn4SRSwabDrPKXyYKYtYOVFvtFt0yNY90RpXXrS8XuXjiNLxpirDQ?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            172.6323126,-43.5259523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
