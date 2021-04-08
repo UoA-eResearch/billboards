@@ -1,452 +1,469 @@
 [
     {
+        "title": "LUMO-Vivian | Wellington",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/05/Vivian-Day.jpg?lossy=1&strip=1&webp=1",
         "address": "35 Vivian St, Wellington",
         "description": "Still part of State Highway 1, Vivian St is a major one-way feeder with high traffic volumes coming from the southern motorway, Victoria, Taranaki & Tory Streets, all heading east towards Cambridge Terrace. Clean views and high dwell times due the close proximity to the controlled intersection, makes this one of the best LED Screens in Wellington.",
         "details": [
             "Screen I.D. : LUMO-Vivian",
             "Dimensions: : 3.7m x 7.3m",
             "Pixel Dimensions: : 360 x 720",
-            "Real-Time Traffic: : 23,988* daily average ",
+            "Real-Time Traffic: : 41,684* daily average ",
             "Traffic Direction: : CBD Inbound ",
             "Digital Duration: : 16 seconds per rotation ",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/05/Vivian-Day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/lumo-vivian/",
         "latitude": -41.29652249999999,
-        "longitude": 174.77987129999997,
-        "title": "LUMO-Vivian | Wellington",
-        "url": "https://lumodigital.nz/site/lumo-vivian/"
+        "longitude": 174.77987129999997
     },
     {
+        "title": "LUMO-Ponsonby",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/06/LUMO-Ponsonby.jpg?lossy=1&strip=1&webp=1",
         "address": "182 Ponsonby Rd, Auckland",
         "description": "Busy and bustling, Ponsonby is Auckland\u2019s boutique retail centre and a place people come to wine, dine and be entertained. This strategically located Digital Screen plays comfortably in this hip environment and enjoys uncluttered site-lines for the slow traffic heading south along Ponsonby Road.",
         "details": [
             "Screen I.D.: LUMO-Ponsonby",
             "Dimensions: 4m x 4.75m",
             "Pixel Dimensions: 396 x 470",
-            "Real-Time Traffic: 23,176* daily average",
+            "Real-Time Traffic: 27,361* daily average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/06/LUMO-Ponsonby.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/ponsonby-auckland/",
         "latitude": -36.8544653,
-        "longitude": 174.74555150000003,
-        "title": "LUMO-Ponsonby",
-        "url": "https://lumodigital.nz/site/ponsonby-auckland/"
+        "longitude": 174.74555150000003
     },
     {
-        "address": "LUMO-Tamaki DR",
-        "description": "The Quay St Gateway, this site is viewed as the most prominent location for all inbound traffic from Auckland\u2019s affluent eastern suburbs. Positioned up on the grassy-knoll adjacent to the main Ports of Auckland entrance intersection, this magnificent curved LED Wall will enjoy both high audience volumes and dwell time and is a must for all media schedules requesting the most premium digital assets.",
-        "details": [
-            "Screen ID: LUMO-Tamaki Dr",
-            "Dimensions: 14m x 3.5m",
-            "Pixel Dimensions: 1386 x 324",
-            "Real-Time Traffic: 35,339* daily average",
-            "Traffic Direction: CBD inbound",
-            "Digital Duration: 16 seconds per rotation",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/01/Tamaki-Day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -36.847502464571264,
-        "longitude": 174.78740723862302,
-        "title": "LUMO-Tamaki DR",
-        "url": "https://lumodigital.nz/site/lumo-tamaki-dr/"
-    },
-    {
-        "address": "505 Grey St, Hamilton East ",
-        "description": "Busy high-volume traffic flows with long dwell at controlled intersection. High visibility screen and appealing aesthetic utilising the buildings curvature and parapet height to great advantage.",
-        "details": [
-            "Screen I.D.: LUMO-Grey",
-            "Dimensions: 12m x 3m",
-            "Pixel Dimensions: 1180 x 300",
-            "Real-Time Traffic: 26,986* daily average",
-            "Traffic Direction: CBD Inbound",
-            "Digital Duration: 16 seconds per rotation",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Grey-Day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -37.790238,
-        "longitude": 175.29190419999998,
-        "title": "LUMO-Grey | Hamilton",
-        "url": "https://lumodigital.nz/site/grey-hamilton/"
-    },
-    {
-        "address": "15-17 Sturdee St, Auckland ",
-        "description": "This impressive LED Screen is last opportunity to connect with travellers heading into Commercial Bay and greater downtown Auckland from Fanshawe Street. Large and slow-moving traffic volumes predominantly from the North Shore and Ponsonby/Freemans Bay areas will enjoy premium displays on this significant digital billboard.",
-        "details": [
-            "Screen I.D.: LUMO-Sturdee",
-            "Dimensions: 5m x 9m",
-            "Pixel Dimensions: 504 x 864",
-            "Real-Time Traffic: 37,352* daily average",
-            "Traffic Direction: CBD Inbound",
-            "Digital Duration: 16 seconds per rotation",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/sturdee_day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -36.84462329999999,
-        "longitude": 174.76225020000004,
-        "title": "LUMO-Sturdee",
-        "url": "https://lumodigital.nz/site/sturdee-auckland/"
-    },
-    {
+        "title": "LUMO-Tauranga IN",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/tauranga-in_day.jpg?lossy=1&strip=1&webp=1",
         "address": "5C Macdonald St, Tauranga ",
         "description": "Tauranga and Mt Maunganui is the fastest growing region in the country and this smart billboard captures the attention of thousands of daily north-bound travellers heading from the \u2018Mount\u2019 to Tauranga along SH2. In addition to the high traffic volumes, the lead-in is over 800m and morning congestion makes Auckland\u2019s motorway look like an expressway.",
         "details": [
             "Screen I.D.: LUMO-Tauranga IN",
             "Dimensions: 14m x 3m",
             "Pixel Dimensions: 1064 x 224",
-            "Real-Time Traffic: 27,354* daily average",
+            "Real-Time Traffic: 25,636* daily average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/tauranga-in_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/tauranga-in-tauranga/",
         "latitude": -37.6659192,
-        "longitude": 176.20849769999995,
-        "title": "LUMO-Tauranga IN",
-        "url": "https://lumodigital.nz/site/tauranga-in-tauranga/"
+        "longitude": 176.20849769999995
     },
     {
+        "title": "LUMO-Grey | Hamilton",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Grey-Day.jpg?lossy=1&strip=1&webp=1",
+        "address": "505 Grey St, Hamilton East ",
+        "description": "Busy high-volume traffic flows with long dwell at controlled intersection. High visibility screen and appealing aesthetic utilising the buildings curvature and parapet height to great advantage.",
+        "details": [
+            "Screen I.D.: LUMO-Grey",
+            "Dimensions: 12m x 3m",
+            "Pixel Dimensions: 1180 x 300",
+            "Real-Time Traffic: 27,865* daily average",
+            "Traffic Direction: CBD Inbound",
+            "Digital Duration: 16 seconds per rotation",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/grey-hamilton/",
+        "latitude": -37.790238,
+        "longitude": 175.29190419999998
+    },
+    {
+        "title": "LUMO-Victoria Park",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/wellesley_day.jpg?lossy=1&strip=1&webp=1",
         "address": "206 Victoria St West, Auckland CBD",
         "description": "Dominant position with 600m unobstructed lead-in from Nelson St down Wellesley St towards Victoria Park Markets. Long queues and dwell during peak hours. Is also seen from Halsey St and partially from Victoria St intersection.",
         "details": [
             "Screen I.D.: LUMO-Victoria Park",
             "Dimensions: 5.8m x 6.1m",
             "Pixel Dimensions: 570 x 600",
-            "Real-Time Traffic: 35,103* daily average",
+            "Real-Time Traffic: 26,191* daily average",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/wellesley_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/victoria-park-auckland/",
         "latitude": -36.8483545,
-        "longitude": 174.7554986,
-        "title": "LUMO-Victoria Park",
-        "url": "https://lumodigital.nz/site/victoria-park-auckland/"
+        "longitude": 174.7554986
     },
     {
-        "address": "36 Lowe St, Christchurch",
-        "description": "Huge traffic volumes flow city-bound along Blenheim Rd towards this Screen and high dwell time at this signalised intersection make for a spectacular visual opportunity.",
+        "title": "LUMO-Tamaki DR",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2018/01/Tamaki-Day.jpg?lossy=1&strip=1&webp=1",
+        "address": "LUMO-Tamaki DR",
+        "description": "The Quay St Gateway, this site is viewed as the most prominent location for all inbound traffic from Auckland\u2019s affluent eastern suburbs. Positioned up on the grassy-knoll adjacent to the main Ports of Auckland entrance intersection, this magnificent curved LED Wall will enjoy both high audience volumes and dwell time and is a must for all media schedules requesting the most premium digital assets.",
         "details": [
-            "Screen I.D: LUMO-Blenheim Rd",
-            "Dimensions: 12m x 3m ",
-            "Pixel Dimensions: 1188 x 288",
-            "Real-Time Traffic: 59,608* daily average ",
-            "Traffic Direction: CBD Inbound",
+            "Screen ID: LUMO-Tamaki Dr",
+            "Dimensions: 14m x 3.5m",
+            "Pixel Dimensions: 1386 x 324",
+            "Real-Time Traffic: 34,124* daily average",
+            "Traffic Direction: CBD inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/blenheim_day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -43.5371102,
-        "longitude": 172.60770090000005,
-        "title": "LUMO-Blenheim Rd | Christchurch",
-        "url": "https://lumodigital.nz/site/blenheim-rd-christchurch/"
+        "url": "https://lumodigital.nz/site/lumo-tamaki-dr/",
+        "latitude": -36.847502464571264,
+        "longitude": 174.78740723862302
     },
     {
+        "title": "LUMO-Colombo | Christchurch",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/colombo_day.jpg?lossy=1&strip=1&webp=1",
         "address": "340 Colombo St, Christchurch ",
         "description": "Since the 2011 earthquakes, traffic flows in Christchurch have changed dramatically. This billboard location has benefitted from these changes as traffic flows are heavy and slow throughout the day and evening. This intersection captures all inbound traffic traveling inbound along Colombo St from the Cashmere Hills and all vehicles heading east along Brougham St.",
         "details": [
             "Screen I.D.: LUMO-Colombo",
             "Dimensions: 9m x 3m",
             "Pixel Dimensions: 900 x 288",
-            "Real-Time Traffic: 55,507* daily average",
+            "Real-Time Traffic: 45,404* daily average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly "
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/colombo_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/colombo-christchurch/",
         "latitude": -43.5472492,
-        "longitude": 172.63689079999995,
-        "title": "LUMO-Colombo | Christchurch",
-        "url": "https://lumodigital.nz/site/colombo-christchurch/"
+        "longitude": 172.63689079999995
     },
     {
+        "title": "LUMO-Sturdee",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/sturdee_day.jpg?lossy=1&strip=1&webp=1",
+        "address": "15-17 Sturdee St, Auckland ",
+        "description": "This impressive LED Screen is last opportunity to connect with travellers heading into Commercial Bay and greater downtown Auckland from Fanshawe Street. Large and slow-moving traffic volumes predominantly from the North Shore and Ponsonby/Freemans Bay areas will enjoy premium displays on this significant digital billboard.",
+        "details": [
+            "Screen I.D.: LUMO-Sturdee",
+            "Dimensions: 5m x 9m",
+            "Pixel Dimensions: 504 x 864",
+            "Real-Time Traffic: 26,578* daily average",
+            "Traffic Direction: CBD Inbound",
+            "Digital Duration: 16 seconds per rotation",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/sturdee-auckland/",
+        "latitude": -36.84462329999999,
+        "longitude": 174.76225020000004
+    },
+    {
+        "title": "LUMO-Blenheim Rd | Christchurch",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/blenheim_day.jpg?lossy=1&strip=1&webp=1",
+        "address": "36 Lowe St, Christchurch",
+        "description": "Huge traffic volumes flow city-bound along Blenheim Rd towards this Screen and high dwell time at this signalised intersection make for a spectacular visual opportunity.",
+        "details": [
+            "Screen I.D: LUMO-Blenheim Rd",
+            "Dimensions: 12m x 3m ",
+            "Pixel Dimensions: 1188 x 288",
+            "Real-Time Traffic: 31,665* daily average ",
+            "Traffic Direction: CBD Inbound",
+            "Digital Duration: 16 seconds per rotation",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/blenheim-rd-christchurch/",
+        "latitude": -43.5371102,
+        "longitude": 172.60770090000005
+    },
+    {
+        "title": "LUMO-Ports",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/PORTS-Day-New.jpg?lossy=1&strip=1&webp=1",
         "address": "Cnr Plumer & Quay St, Auckland CBD",
         "description": "Architecturally designed convex curve to optimise this special location, LUMO-Ports sits perfectly to capture the busy city traffic heading east along Quay St towards Parnell and the eastern bays. To the left is the Ports of Auckland operation and the right Spark Arena. High dwell time is experienced at the controlled intersection between Quay and Tangihua Streets.",
         "details": [
             "Screen I.D. : LUMO-Ports ",
             "Dimensions: : 12m x 3m ",
             "Pixel Dimensions: : 1188 x 288 ",
-            "Real-Time Traffic: : 37,473* daily average ",
+            "Real-Time Traffic: : 29,582* daily average ",
             "Traffic Direction: : CBD Outbound ",
             "Digital Duration: : 16 seconds per rotation ",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/PORTS-Day-New.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/ports-auckland/",
         "latitude": -36.84533210079759,
-        "longitude": 174.77465581833326,
-        "title": "LUMO-Ports",
-        "url": "https://lumodigital.nz/site/ports-auckland/"
+        "longitude": 174.77465581833326
     },
     {
+        "title": "LUMO-Parnell",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/parnell_day.jpg?lossy=1&strip=1&webp=1",
         "address": "18 Stanley St, Auckland",
         "description": "Poised low and easy along the congested Stanley St carriageway leading into the City, the Port or Parnell, this large portrait Screen is ready to connect brands with customers. High volume slow traffic, with extended dwell time for those preparing for the right turn towards Parnell.",
         "details": [
             "Screen I.D. : LUMO-Parnell ",
-            "Dimensions: : 4.5m x 7.5m ",
+            "Dimensions: : 4.8m x 7.7m",
             "Pixel Dimensions: : 468 x 756",
-            "Real-Time Traffic: : 53,075* daily average ",
+            "Real-Time Traffic: : 46,488* daily average ",
             "Traffic Direction: : CBD Inbound ",
             "Digital Duration: : 16 seconds per rotation ",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/parnell_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/parnell-auckland/",
         "latitude": -36.8517346,
-        "longitude": 174.77498979999996,
-        "title": "LUMO-Parnell",
-        "url": "https://lumodigital.nz/site/parnell-auckland/"
+        "longitude": 174.77498979999996
     },
     {
+        "title": "LUMO-North Shore Out",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/NorthShore-Out-Day.jpg?lossy=1&strip=1&webp=1",
         "address": "134 Wairau Rd, Wairau Valley, Auckland",
         "description": "One of a back-to-back pair of premium digital billboards \u2013 facing the ever busy northbound traffic heading through the Wairau Rd & Tristram Rd intersection towards Glenfield (west), Albany (north), Sunnynook or the Northern Motorway (right turn). Positioned clear above the traffic flow it enjoys the benefit of large traffic volumes and long dwell time due to the controlled intersection.",
         "details": [
             "Screen I.D.: LUMO-North Shore OUT",
             "Dimensions: 9m x 3m",
             "Pixel Dimensions: 900 x 288",
-            "Real-Time Traffic: 38,847* Daily Average",
+            "Real-Time Traffic: 29,976* Daily Average",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/NorthShore-Out-Day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/lumo-north-shore-out/",
         "latitude": -36.77294029999999,
-        "longitude": 174.7408913,
-        "title": "LUMO-North Shore Out",
-        "url": "https://lumodigital.nz/site/lumo-north-shore-out/"
+        "longitude": 174.7408913
     },
     {
+        "title": "LUMO-North Shore IN",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/NorthShore-IN-Day.jpg?lossy=1&strip=1&webp=1",
         "address": "134 Wairau Rd, Wairau Valley, Auckland",
         "description": "This premium LED Screen peers across the busy Wairau/Tristram Rd intersection and faces the south-bound traffic heading in droves along Wairau Rd towards Northcote, Glenfield and Takapuna. Another excellent example of prime location and leading-edge technology.",
         "details": [
             "Screen I.D.: LUMO-North Shore IN",
             "Dimensions: 9m x 3m",
             "Pixel Dimensions: 900 x 288",
-            "Real-Time Traffic: 39,755* Daily Average",
+            "Real-Time Traffic: 31,870* Daily Average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/NorthShore-IN-Day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/lumo-north-shore-in/",
         "latitude": -36.77294029999999,
-        "longitude": 174.7408913,
-        "title": "LUMO-North Shore IN",
-        "url": "https://lumodigital.nz/site/lumo-north-shore-in/"
+        "longitude": 174.7408913
     },
     {
-        "address": "10 Mt Eden Rd, Auckland",
-        "description": "Busy traffic flows from Mt Eden up into the inner-city or turning right into Boston Rd towards Grafton and Newmarket makes this a must-have digital screen for high value brands. High dwell at the signalised intersection adds further value and gives more time for consideration.",
-        "details": [
-            "Screen I.D.: LUMO-Mt Eden IN ",
-            "Dimensions: : 3.7m x 7.3m ",
-            "Pixel Dimensions: : 360 x 720 ",
-            "Real-Time Traffic: 25,839* daily average  ",
-            " Traffic Direction: : CBD Inbound ",
-            "Digital Duration: : 16 seconds per rotation ",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/mt-eden-in_day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -36.86731729999999,
-        "longitude": 174.76194710000004,
-        "title": "LUMO-Mt Eden IN",
-        "url": "https://lumodigital.nz/site/mt-eden-in-auckland/"
-    },
-    {
+        "title": "LUMO-Newton",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/LUMO-Newton-Day-New.jpg?lossy=1&strip=1&webp=1",
         "address": "114 Newton Rd, Auckland",
         "description": "Whether heading west down Newton Rd from Khyber Pass Rd/Symonds St or turning right into Upper Queen St, this curved Smart Screen will impress you with its architectural design and sheer size. This is definitely another A-plus digital asset.",
         "details": [
             "Screen I.D.: LUMO-Newton",
             "Dimensions: 14m x 3.5m",
             "Pixel Dimensions: 1368 x 324",
-            "Real-Time Traffic: 28,255* daily average",
+            "Real-Time Traffic: 25,191* daily average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/LUMO-Newton-Day-New.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/newton-auckland/",
         "latitude": -36.86305670000001,
-        "longitude": 174.7583998,
-        "title": "LUMO-Newton",
-        "url": "https://lumodigital.nz/site/newton-auckland/"
+        "longitude": 174.7583998
     },
     {
+        "title": "LUMO-Mt Eden IN",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/mt-eden-in_day.jpg?lossy=1&strip=1&webp=1",
+        "address": "10 Mt Eden Rd, Auckland",
+        "description": "Busy traffic flows from Mt Eden up into the inner-city or turning right into Boston Rd towards Grafton and Newmarket makes this a must-have digital screen for high value brands. High dwell at the signalised intersection adds further value and gives more time for consideration.",
+        "details": [
+            "Screen I.D.: LUMO-Mt Eden IN ",
+            "Dimensions: : 3.7m x 7.3m ",
+            "Pixel Dimensions: : 360 x 720 ",
+            "Real-Time Traffic: 25,244* daily average  ",
+            " Traffic Direction: : CBD Inbound ",
+            "Digital Duration: : 16 seconds per rotation ",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/mt-eden-in-auckland/",
+        "latitude": -36.86731729999999,
+        "longitude": 174.76194710000004
+    },
+    {
+        "title": "LUMO-Mt Eden OUT",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/mt-eden-out_day.jpg?lossy=1&strip=1&webp=1",
         "address": "10 Mt Eden Rd, Auckland",
         "description": "If the long lead-in isn\u2019t impressive enough, the curved integration into the building fa\u00e7ade is truly amazing. High traffic volumes heading down from Eden Terrace towards Mt Eden Village and surrounds will maximise your reach. High dwell at the signalised intersection will ensure full exposure every day.",
         "details": [
             "Screen I.D.  : LUMO-Mt Eden OUT ",
             "Dimensions: 12m x 3m ",
             "Pixel Dimensions: 1188 x 288   ",
-            "Real-Time Traffic: : 30,627* daily average ",
+            "Real-Time Traffic: : 29,541* daily average ",
             "Traffic Direction: : CBD Outbound",
             "Digital Duration: 16 seconds per rotation ",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/mt-eden-out_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/mt-eden-out-auckland/",
         "latitude": -36.86731729999999,
-        "longitude": 174.76194710000004,
-        "title": "LUMO-Mt Eden OUT",
-        "url": "https://lumodigital.nz/site/mt-eden-out-auckland/"
+        "longitude": 174.76194710000004
     },
     {
-        "address": "Cnr Hobson & Cook St, Auckland",
-        "description": "A unique opportunity to truly dominate this busy intersection. Two huge premium portrait screens that operate in tandem opens unique creative possibilities and a larger canvas to play with. Traffic flow from Cook St heading west and south combined with massive vehicular volumes heading south along Hobson St will offer huge profile and attention to advertisers.",
-        "details": [
-            "Screen I.D.: LUMO-Hobson Twins",
-            "Dimensions: 3.3m x 7m",
-            "Pixel Dimensions: 324 x 684 (x2)",
-            "Real-Time Traffic: 32,566* daily average",
-            "Traffic Direction: CBD Outbound",
-            "Digital Duration: 16 seconds per rotation",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/Twins-Black.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -36.848674,
-        "longitude": 174.7613909,
-        "title": "LUMO-Hobson Twins",
-        "url": "https://lumodigital.nz/site/lumo-hobson-twins/"
-    },
-    {
-        "address": "162 Khyber Pass Rd, Auckland",
-        "description": "This landmark digital billboard is highlighted by a huge foliage wall which adds life and vibrancy to this concrete jungle. Huge traffic flows constantly head down Khyber Pass towards the motorway on-ramp and Newmarket, Auckland\u2019s most popular retail destination.",
-        "details": [
-            "Screen I.D. : LUMO-Khyber ",
-            "Dimensions: : 12m x 3m ",
-            "Pixel Dimensions: : 1188 x 288 ",
-            "Real-Time Traffic: : 23,401* daily average  ",
-            "Traffic Direction: : CBD Outbound ",
-            "Digital Duration: : 16 seconds per rotation ",
-            "Media Cycles: Weekly"
-        ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/khyber_day.jpg?lossy=1&strip=1&webp=1",
-        "latitude": -36.86486660000001,
-        "longitude": 174.76610500000004,
-        "title": "LUMO-Khyber",
-        "url": "https://lumodigital.nz/site/khyber-auckland/"
-    },
-    {
+        "title": "LUMO-Kingsland OUT",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Kingsland-Day.jpg?lossy=1&strip=1&webp=1",
         "address": "319 New North Road, Auckland",
         "description": "The iconic Kiwi Bacon building is the setting for this Digital Billboard, greeting busy travellers heading west towards Kingsland, Morningside, St Lukes and Mt Albert. Riding the building\u2019s parapet brings it closer to street level and discerning consumers.",
         "details": [
             "Screen I.D: LUMO-Kingsland OUT",
             "Dimensions: 8m x 4m",
             "Pixel Dimensions: 794 x 396",
-            "Real-Time Traffic: 22,745* daily average",
+            "Real-Time Traffic: 23,763* daily average",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Kingsland-Day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/kingsland-out-auckland/",
         "latitude": -36.86848800000001,
-        "longitude": 174.75144160000002,
-        "title": "LUMO-Kingsland OUT",
-        "url": "https://lumodigital.nz/site/kingsland-out-auckland/"
+        "longitude": 174.75144160000002
     },
     {
+        "title": "LUMO-Grey Lynn OUT",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/greylynn-out_day.jpg?lossy=1&strip=1&webp=1",
         "address": "19 Newton Rd, Auckland",
         "description": "Impressive and uncluttered. This high-resolution LED Screen attracts attention from heavy traffic flows heading down Newton Rd from Karangahape, Ponsonby and Gt North Roads, venturing towards the Northwestern Motorway onramp and upper Symonds St.",
         "details": [
             "Screen I.D.: LUMO-Grey Lynn OUT",
             "Dimensions: 4m x 6m",
             "Pixel Dimensions: 396 x 576",
-            "Real-Time Traffic: 30,453* daily average",
+            "Real-Time Traffic: 31,092* daily average",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/greylynn-out_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/grey-lynn-out-auckland/",
         "latitude": -36.8608357,
-        "longitude": 174.75310969999998,
-        "title": "LUMO-Grey Lynn OUT",
-        "url": "https://lumodigital.nz/site/grey-lynn-out-auckland/"
+        "longitude": 174.75310969999998
     },
     {
+        "title": "LUMO-Hobson Twins",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/02/Twins-Black.jpg?lossy=1&strip=1&webp=1",
+        "address": "Cnr Hobson & Cook St, Auckland",
+        "description": "A unique opportunity to truly dominate this busy intersection. Two huge premium portrait screens that operate in tandem opens unique creative possibilities and a larger canvas to play with. Traffic flow from Cook St heading west and south combined with massive vehicular volumes heading south along Hobson St will offer huge profile and attention to advertisers.",
+        "details": [
+            "Screen I.D.: LUMO-Hobson Twins",
+            "Dimensions: 3.3m x 7m",
+            "Pixel Dimensions: 324 x 648 mm",
+            "Real-Time Traffic: 32,566* daily average",
+            "Traffic Direction: CBD Outbound",
+            "Digital Duration: 16 seconds per rotation",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/lumo-hobson-twins/",
+        "latitude": -36.848674,
+        "longitude": 174.7613909
+    },
+    {
+        "title": "LUMO-Khyber",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/khyber_day.jpg?lossy=1&strip=1&webp=1",
+        "address": "162 Khyber Pass Rd, Auckland",
+        "description": "This landmark digital billboard is highlighted by a huge foliage wall which adds life and vibrancy to this concrete jungle. Huge traffic flows constantly head down Khyber Pass towards the motorway on-ramp and Newmarket, Auckland\u2019s most popular retail destination.",
+        "details": [
+            "Screen I.D. : LUMO-Khyber ",
+            "Dimensions: : 12m x 3m ",
+            "Pixel Dimensions: : 1188 x 288 ",
+            "Real-Time Traffic: : 25,462* daily average  ",
+            "Traffic Direction: : CBD Outbound ",
+            "Digital Duration: : 16 seconds per rotation ",
+            "Media Cycles: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/khyber-auckland/",
+        "latitude": -36.86486660000001,
+        "longitude": 174.76610500000004
+    },
+    {
+        "title": "LUMO-Kingsland In",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/07/LUMO-Kingsland-IN-1.jpg?lossy=1&strip=1&webp=1",
         "address": "394 New North Rd, Kingsland",
         "description": "Kingsland has become one of Auckland\u2019s busiest food & beverage hubs. Driving along New North Rd, past the busy thriving restaurant, bar and retail strip, this high profile digital billboard comes into direct sight at least 600m before reaching the intersection. High volume traffic all day with high dwell time as travellers stare longingly at the premium Digital display directly in front of their vehicles.",
         "details": [
             "Screen I.D.: LUMO-Kingsland In",
             "Dimensions: : 12m x 3m",
             "Pixel Dimensions: 1188 x 288",
-            "Real-Time Traffic: : 29,765* daily average",
+            "Real-Time Traffic: : 28,120* daily average",
             "Traffic Direction: : CBD Inbound",
             "Digital Duration: : 16 seconds per rotation ",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/07/LUMO-Kingsland-IN-1.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/lumo-kingsland-in/",
         "latitude": -36.8715516,
-        "longitude": 174.74774649999995,
-        "title": "LUMO-Kingsland In",
-        "url": "https://lumodigital.nz/site/lumo-kingsland-in/"
+        "longitude": 174.74774649999995
     },
     {
+        "title": "LUMO-Grey Lynn IN",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/greylynn-in_day.jpg?lossy=1&strip=1&webp=1",
         "address": "19 Newton Rd, Auckland",
         "description": "This high-profile portrait Screen enjoys a long lead-in along Newton Rd as travelers\u2019 head towards the Gt North Rd & Ponsonby Rd intersection. Traffic volumes are high and slow moving, often banked up well before the Screen during peak times.",
         "details": [
             "Screen I.D.: LUMO-Grey Lynn IN",
             "Dimensions: 4m x 6m",
             "Pixel Dimensions: 396 x 576",
-            "Real-Time Traffic: 26,792* daily average",
+            "Real-Time Traffic: 27,230* daily average",
             "Traffic Direction: CBD Inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/greylynn-in_day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/grey-lynn-in-auckland/",
         "latitude": -36.8608357,
-        "longitude": 174.75310969999998,
-        "title": "LUMO-Grey Lynn IN",
-        "url": "https://lumodigital.nz/site/grey-lynn-in-auckland/"
+        "longitude": 174.75310969999998
     },
     {
+        "title": "LUMO-Broadway",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2021/02/LUMO-Broadway-Day.jpg?lossy=1&strip=1&webp=1",
+        "address": "LUMO-Broadway",
+        "description": "Nestled amongst the bright lights and vibrancy of Newmarket, this new digital screen greets all travelers heading south along Broadway through the intersection with Khyber Pass Rd.",
+        "details": [
+            "Screen I.D: LUMO-Broadway",
+            "Dimensions: 9m x 3m",
+            "Pixel Dimensions: 900 x 288",
+            "Traffic Direction:\t: CBD outbound",
+            "Digital Duration: 30 seconds per rotation",
+            "Media Cycles:\t: Weekly"
+        ],
+        "url": "https://lumodigital.nz/site/1802/",
+        "latitude": -36.86825369999999,
+        "longitude": 174.7778716
+    },
+    {
+        "title": "LUMO-Greenlane",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/03/LUMO-Greenlane-New.jpg?lossy=1&strip=1&webp=1",
         "address": "120 Greenlane East, Auckland",
         "description": "Positioned adjacent one of the busiest motorway feeders (Greenlane) in Auckland, this screen literally connects with tens of thousands of daily travellers heading into the city, Remuera, St Johns and the wider eastern bays area each day. Clear site-lines, large screen area, superior display quality and high dwell time during peak times.",
         "details": [
             "Screen I.D: LUMO-Greenlane",
             "Dimensions: 12m x 3m",
             "Pixel Dimensions: 1188 x 288",
-            "Real-Time Traffic: 24,983 Daily Average*",
+            "Real-Time Traffic: 33,197 Daily Average*",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2020/03/LUMO-Greenlane-copy.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/lumo-greenlane-2/",
         "latitude": -36.8896582,
-        "longitude": 174.7963691,
-        "title": "LUMO-Greenlane",
-        "url": "https://lumodigital.nz/site/lumo-greenlane-2/"
+        "longitude": 174.7963691
     },
     {
+        "title": "LUMO-Beach",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Beach-Day.jpg?lossy=1&strip=1&webp=1",
         "address": "27 Beach Rd, Auckland",
         "description": "Playing a supporting role to the gigantic Anzac, this premium screen reaches all inbound city traffic along the ever-busy Beach Rd. High dwell and close proximity to Britomart and Queen St precincts.",
         "details": [
             "Screen I.D: LUMO-Beach ",
             "Dimensions: 6m x 4m",
             "Pixel Dimensions: 576 x 396",
-            "Real-Time Traffic: 39,155* daily average",
+            "Real-Time Traffic: 26,038* daily average",
             "Traffic Direction: CBD inbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Beach-Day.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/27-beach-rd-auckland/",
         "latitude": -36.8462255,
-        "longitude": 174.77217169999994,
-        "title": "LUMO-Beach",
-        "url": "https://lumodigital.nz/site/27-beach-rd-auckland/"
+        "longitude": 174.77217169999994
     },
     {
+        "title": "LUMO-Anzac",
+        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Anzac-Day_v2.jpg?lossy=1&strip=1&webp=1",
         "address": "2-8 Anzac Ave, Auckland CBD",
         "description": "Simply the best digital billboard in NZ \u2013 large scale, road-level, architecturally designed with high volume road and pedestrian traffic and significant dwell-time. This is a fast growing retail, business, tourist and entertainment hub.",
         "details": [
             "Screen I.D.: LUMO-Anzac",
             "Dimensions: 18m x 5m",
             "Pixel Dimensions: 1764 x 468",
-            "Real-Time Traffic: 41,844* daily average",
+            "Real-Time Traffic: 31,584* daily average",
             "Traffic Direction: CBD Outbound",
             "Digital Duration: 16 seconds per rotation",
             "Media Cycles: Weekly"
         ],
-        "image": "https://773637.smushcdn.com/1658044/wp-content/uploads/2019/06/Anzac-Day_v2.jpg?lossy=1&strip=1&webp=1",
+        "url": "https://lumodigital.nz/site/anzac-auckland/",
         "latitude": -36.846135,
-        "longitude": 174.77191930000004,
-        "title": "LUMO-Anzac",
-        "url": "https://lumodigital.nz/site/anzac-auckland/"
+        "longitude": 174.77191930000004
     }
 ]
