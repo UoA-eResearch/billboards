@@ -36,6 +36,8 @@
 
         var billboards = L.layerGroup().addTo(map);
 
+        var licences = L.layerGroup().addTo(map);
+
         map.createPane('billboards');
         map.getPane('billboards').style.zIndex = 625;
 
@@ -60,6 +62,32 @@
             }
             updateStats();
         }
+
+        $.getJSON("data/ARLA.json", function(data) {
+            console.log(data)
+            for (var d of data) {
+                if (d.geo && d.geo.length) {
+                    var marker = new L.circleMarker(d.geo[0].geometry.location, { radius: 10, color: "green" }).addTo(licences).bindTooltip(d["Premises Name"]);
+                    var popupString = `<b>${d["Premises Name"]}</b><br>
+                        Category: ${d["Licence Category"]}<br>
+                        Licence type: ${d["LicenceType"]}<br>
+                        Licence conditions: ${d["Licence Conditions (No Conditions Unless Stated)"]}<br>
+                        Application type: ${d["Application Type"]}<br>
+                        Public hearing: ${d["Public Hearing"]}<br>
+                        Application contested: ${d["Application Contested"]}<br>
+                        Date recieved: ${new Date(d["Date Application was Received"]).toLocaleDateString()}<br>
+                        Date licence determined: ${new Date(d["Date Licence was Determined"]).toLocaleDateString()}<br>
+                        Date licence valid from: ${new Date(d["Date Licence is Valid From"]).toLocaleDateString()}<br>
+                        Date licence expires: ${new Date(d["Date Licence Expires"]).toLocaleDateString()}<br>
+                        Date licence first issued: ${new Date(d["Licence/Cert first Issued"]).toLocaleDateString()}<br>
+                        <div class='pano'></div>`;
+                    marker.bindPopup(popupString, {
+                        maxWidth: "auto"
+                    }).on('popupopen', popupHandler);
+                }
+            }
+            updateStats();
+        })
 
         $.getJSON("data/media5.json", handleJSON);
         $.getJSON("data/gomedia.json", handleJSON);
@@ -143,6 +171,14 @@
                 }
             });
             $("#billboardC").text(count);
+
+            count = 0;
+            licences.eachLayer(function (layer) {
+                if (map.getBounds().contains(layer.getLatLng())) {
+                    count++;
+                }
+            });
+            $("#licenceC").text(count);
         }
 
         map.spin(true);
@@ -222,7 +258,8 @@
 
         var overlayMaps = {
             "Schools": school,
-            "Billboards": billboards
+            "Billboards": billboards,
+            "ARLA licenced premises (Off-licence)": licences
         }
 
         L.control.layers(baseMaps, overlayMaps, { position: "topleft" }).addTo(map);
@@ -266,7 +303,8 @@
         legend.onAdd = function (map) {
             var div = L.DomUtil.create('div', 'info legend');
             div.innerHTML += `<i style="background:hotpink;border-color:hotpink"></i>Billboards: <span id="billboardC"></span><br>
-                <i style="background:blue;border-color:blue"></i>Schools: <span id="schoolC"></span>`;
+                <i style="background:blue;border-color:blue"></i>Schools: <span id="schoolC"></span><br>
+                <i style="background:green;border-color:green"></i>Licenced premises: <span id="licenceC"></span>`;
             return div;
         };
 
