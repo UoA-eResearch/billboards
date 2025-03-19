@@ -19,6 +19,7 @@
     <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
     <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify.js"></script>
     <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify-html.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js" integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="style.css" />
 </head>
 
@@ -47,7 +48,7 @@
         var addedIds = {};
 
         function handleJSON(data) {
-            console.log(data);
+            //console.log(data);
             for (var d of data) {
                 if (d.latitude) {
                     var marker = new L.circleMarker([d.latitude, d.longitude], { radius: 10, color: "hotpink", pane: "billboards" }).addTo(billboards).bindTooltip(d.title);
@@ -63,30 +64,37 @@
             updateStats();
         }
 
-        $.getJSON("data/ARLA.json", function(data) {
-            console.log(data)
-            for (var d of data) {
-                if (d.geo && d.geo.length) {
-                    var marker = new L.circleMarker(d.geo[0].geometry.location, { radius: 10, color: "green" }).addTo(licences).bindTooltip(d["Premises Name"]);
-                    var popupString = `<b>${d["Premises Name"]}</b><br>
-                        Category: ${d["Licence Category"]}<br>
-                        Licence type: ${d["LicenceType"]}<br>
-                        Licence conditions: ${d["Licence Conditions (No Conditions Unless Stated)"]}<br>
-                        Application type: ${d["Application Type"]}<br>
-                        Public hearing: ${d["Public Hearing"]}<br>
-                        Application contested: ${d["Application Contested"]}<br>
-                        Date recieved: ${new Date(d["Date Application was Received"]).toLocaleDateString()}<br>
-                        Date licence determined: ${new Date(d["Date Licence was Determined"]).toLocaleDateString()}<br>
-                        Date licence valid from: ${new Date(d["Date Licence is Valid From"]).toLocaleDateString()}<br>
-                        Date licence expires: ${new Date(d["Date Licence Expires"]).toLocaleDateString()}<br>
-                        Date licence first issued: ${new Date(d["Licence/Cert first Issued"]).toLocaleDateString()}<br>
-                        <div class='pano'></div>`;
-                    marker.bindPopup(popupString, {
-                        maxWidth: "auto"
-                    }).on('popupopen', popupHandler);
+        Papa.parse("data/ARLA.csv", {
+            download: true,
+            header: true,
+            dynamicTyping: true,
+            skipEmptyLines: true,
+            complete: function(results) {
+                console.log("ARLA", results)
+                var data = results.data;
+                for (var d of data) {
+                    if (d["location.latitude"] && d["Licence Type"] == "Off-licence") {
+                        var marker = new L.circleMarker([d["location.latitude"], d["location.longitude"]], { radius: 10, color: "green" }).addTo(licences).bindTooltip(d["Premises Name"]);
+                        var popupString = `<b>${d["Premises Name"]}</b><br>
+                            Address: ${d["formattedAddress"]}<br>
+                            Category: ${d["Licence Category"]}<br>
+                            Licence type: ${d["Licence Type"]}<br>
+                            Licence conditions: ${d["Licence Conditions"]}<br>
+                            Application type: ${d["Application Type"]}<br>
+                            Public hearing: ${d["Public Hearing"]}<br>
+                            Application contested: ${d["Application Contested"]}<br>
+                            Date recieved: ${new Date(d["Date License was Received"]).toLocaleDateString()}<br>
+                            Date licence determined: ${new Date(d["Date License was Determined"]).toLocaleDateString()}<br>
+                            Date licence valid from: ${new Date(d["Date Licence is Valid From"]).toLocaleDateString()}<br>
+                            Date licence expires: ${new Date(d["Date Licence Expires"]).toLocaleDateString()}<br>
+                            <div class='pano'></div>`;
+                        marker.bindPopup(popupString, {
+                            maxWidth: "auto"
+                        }).on('popupopen', popupHandler);
+                    }
                 }
+                updateStats();
             }
-            updateStats();
         })
 
         $.getJSON("data/media5.json", handleJSON);
@@ -97,7 +105,7 @@
         omnivore.kml('data/Billboards.co.nz.kml', null, L.geoJson(null, {
             // http://leafletjs.com/reference.html#geojson-style
             pointToLayer: function (feature, latlng) {
-                console.log(feature, latlng);
+                //console.log(feature, latlng);
                 var marker = L.circleMarker(latlng, { radius: 10, color: "hotpink", pane: "billboards" });
                 marker.addTo(billboards).bindTooltip(feature.properties.name);
                 var popupString = `<b>${feature.properties.name}</b><br>
@@ -111,7 +119,7 @@
         }));
         omnivore.kml('data/Digital Advertising.kml', null, L.geoJSON(null, {
             pointToLayer: function (feature, latlng) {
-                console.log(feature, latlng);
+                //console.log(feature, latlng);
                 var marker = L.circleMarker(latlng, { radius: 10, color: "hotpink", pane: "billboards" });
                 marker.addTo(billboards).bindTooltip(feature.properties.name);
                 var popupString = `<b>${feature.properties.name}</b><br>
@@ -185,7 +193,7 @@
 
         $.getJSON("schools.geojson", function(geoJSON) {
             map.spin(false);
-            console.log(geoJSON);
+            //console.log(geoJSON);
             function onEachFeature(feature, layer) {
                 var tags = feature.properties;
                 var outString = "<b>" + tags.name + "</b><div class='pano'></div>";

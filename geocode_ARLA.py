@@ -7,8 +7,8 @@ import pandas as pd
 pd.set_option('display.max_columns', None)
 from tqdm import tqdm
 from pprint import pprint
-from dotenv import load_dotenv
-load_dotenv()
+#from dotenv import load_dotenv
+#load_dotenv()
 
 tqdm.pandas()
 df = pd.read_excel("February-2025-Licences.xlsx", skiprows=1)
@@ -18,7 +18,7 @@ df["address"] = df.apply(lambda row:
     ", ".join([row[k] for k in cols if not pd.isna(row[k])]),
     axis=1
 )
-print(df.address)
+#print(df.address)
 def geocode(address):
     try:
         r = requests.post('https://places.googleapis.com/v1/places:searchText', json={
@@ -46,6 +46,10 @@ def geocode(address):
         print(e)
         return None
 
-results = pd.json_normalize(df.address.progress_apply(geocode))
-print(results)
+#results = pd.json_normalize(df.address.progress_apply(geocode))
+#print(results)
+#results.to_csv("data/ARLA.csv")
+results = pd.read_csv("data/ARLA.csv", index_col=0)
+results = pd.concat([df, results], axis=1)
 results.to_csv("data/ARLA.csv")
+results.to_json("data/ARLA.json", orient="records")
