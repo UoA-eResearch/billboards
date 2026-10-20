@@ -16,6 +16,9 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhSHcGYySVS9nLEZ1mF73Gv_9z41rNOXs"></script>
     <script src="https://unpkg.com/leaflet-svg-shape-markers@1.0.0/dist/leaflet-svg-shape-markers.min.js"></script>
     <script src="https://unpkg.com/leaflet-providers@1.3.0/leaflet-providers.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.css" />
+    <script src="https://unpkg.com/maplibre-gl@5.24.0/dist/maplibre-gl.js"></script>
+    <script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.4/leaflet-maplibre-gl.js"></script>
     <script src='//api.tiles.mapbox.com/mapbox.js/plugins/leaflet-omnivore/v0.3.1/leaflet-omnivore.min.js'></script>
     <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify.js"></script>
     <script src="https://unpkg.com/linkifyjs@2.1.9/dist/linkify-html.js"></script>
@@ -30,8 +33,9 @@
         var map = L.map('map', {
             worldCopyJump: true,
             zoomControl: false,
+            maxZoom: 19,
         }).setView([-36.8862, 174.7651], 12);
-        var positron = L.tileLayer.provider('CartoDB.Positron').addTo(map);
+        var positron = L.maplibreGL({style: 'https://tiles.openfreemap.org/styles/positron'}).addTo(map);
 
         var school = L.layerGroup().addTo(map);
 
@@ -254,8 +258,8 @@
         var baseMaps = {
             "OSM": L.tileLayer.provider("OpenStreetMap.Mapnik"),
             "OSM Grayscale": L.tileLayer.provider("OpenStreetMap.BlackAndWhite"),
-            "CartoDB Positron": positron,
-            "CartoDB Dark Matter": L.tileLayer.provider("CartoDB.DarkMatter"),
+            "OpenFreeMap Positron": positron,
+            "OpenFreeMap Dark": L.maplibreGL({style: "https://tiles.openfreemap.org/styles/dark"}),
             "ESRI WorldImagery": L.tileLayer.provider("Esri.WorldImagery"),
             "Google Hybrid": L.tileLayer('http://{s}.google.com/vt/lyrs=s,h&x={x}&y={y}&z={z}', {
                 maxZoom: 20,
